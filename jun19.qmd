@@ -1,0 +1,210 @@
+# Wednesday, June 19 {.unnumbered}
+
+::: {.callout-tip}
+## Note!
+Online Only. All times Eastern Daylight Time.
+:::
+
+## Current time in Montréal (click for more info)
+
+<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+
+</iframe>
+
+<!--
+
+> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+
+-->
+
+## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
+
+
+## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+
+## 12:00 - 1:00 |Parallel Session 21 | Invited Speakers
+
+### Invited Speaker Session 21.1 | 
+<!--
+
+#### Speculative Design in a Summer Camp: Tensions around Infantilization
+
+**Research**
+
+**Madalyn Wilson-Fetrow** | *University of New Mexico*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
+
+In this session, we present examples of design challenges that—through participants’ perspectives and an ideation technique—became more speculative and critical. We supported our middle school participants to use the Wrong Theory Protocol to generate harmful and humiliating ideas prior to generating beneficial solutions. In doing so, some facilitators—who came from higher SES settings than the campers—became uncomfortable with the darkness of participants’ ideas, which included policy brutality, gun violence, etc., and stemmed from their everyday experiences of poverty. In this way, facilitators’ infantilization of participants is a tension present in many such designs, and one which we aim to trouble, using structural analysis of videos and artifacts.
+:::
+-->
+
+### Invited Speaker Session 21.2 | 
+
+<!--
+#### Speculative Design and Building a Community of Transformation
+
+**Practice** 
+
+**Kristen Ferris, Vanessa Svihla, Susannah Davis & Nadia Kellam** | *University of New Mexico*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Organizational change efforts commonly fail in higher education. Those aimed at diversity, equity, inclusion, and justice (DEIJ) goals face complex barriers, with successful change depending on changes to policies, organizational culture, and norms that disrupt established power dynamics. We argue speculative design is an important tool in such work, enabling change agents to sustain commitment and develop more just visions.
+
+We describe our use of speculative design, remixing, and futurisms in forming a DEIJ-oriented Community of Transformation (CoT) comprising higher education change agents from institutional change leadership teams (e.g., NSF ADVANCE, RED, INCLUDES, etc.) in STEM departments. Using these design tools, we aim to foster change agents’ commitment to and capacity for DEIJ-oriented systems change. We detail precedent - theory and practice - that forms the argument for our design work, with attention to the complex ways that situated understandings of learning, an intersectional approach to power, and organizational change imbue this work. We illustrate our use of speculative design, sharing examples of community building and arts-based activities like trading cards and ‘zines, as well as learning through media clubs. We share successes and challenges, including discomfort with activities that appear to be a step away from academic productivity.
+
+:::
+-->
+
+
+
+## 1:00 - 1:15 | Break
+
+## 1:15 - 2:45 | Concurrent Session 22
+
+### Session 22.1  | Transitions of Online Learning and Teaching
+
+#### 1:15 - 1:45 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
+
+**Research**
+
+**Nadia Delanoy & Shahneela Tasmin Sharmi** | *University of Calgary*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The paper explores a study of a foreign learning experience during the pandemic that was unique due to the co-creative engagement with students. This study examines the effects of using technologically novel feedback strategies and assessment practices to analyze student performance within the frame of the justice theory. Using targeted hybrid means of assessment to provide leveled methods which include auditory and co-created rubric conversations to support bilingual learners in a diverse environment. Qualitatively, using a questionnaire to collect student feedback on co-created decoding of rubrics with thematic analysis and quantitatively using a paired sample t-test by comparing scores for the first draft and the final draft provided fulsome results. Findings indicate how these uses of technology can promote learner autonomy by allowing students to take agency of their own learning and increase students’ performance. The findings reflect the need for using technological avenues to assist bilingual learners in the development of their language skills through extended feedback. 
+:::
+
+#### 1:45- 2:15 The Importance of Showing Up (Virtually) : A Duoethnographic Exploration of an Online Doctoral Writing Community of Practice
+
+**Research**
+
+**Nicole Patrie & Danielle Lorenz** | *University of Alberta*
+
+::: {.callout-note}
+## Abstract
+Although online discourses about dissertation writing (i.e., you should be writing memes) offer students levity, they function in stark contrast to how dissertation writing is treated in real life.  Canadian education scholars with PhDs have examined the student-supervisor relationship (McAlpine & Weis, 2000), collaborative writing spaces (Eaton & Dombroski, 2022; Ens et al., 2011), and the overall difficulties of the dissertation process (Bayley et al., 2012; Walter & Stouk, 2020), but we have yet to locate literature on the perspectives of Canadian education PhD students who have generated online communities of practice to engage in their dissertation writing. To obtain better understanding of our personal relationships to writing and virtual communities of practice, we established an online writing group during the summer of 2023 where we wrote our respective candidacy proposal and dissertation chapters while also reflecting on and responding to prompts about the process of writing. Using a duoethnographic approach (e.g., Norris et al., 2012; Sawyer & Norris, 2004), we analyzed 76 reflections written over a 13-week period. This research concludes that if PhD students feel un(der)supported by institutional writing communities, or if said communities are not available, constructing their own community will be beneficial to their writing goals.
+:::
+
+#### 2:15- 2:45 | The Power of Role Play and Imagination in Online Learning: Exploring Low-Tech Simulation in an HR Capstone
+
+**Practice**
+
+**Lisa Hammershaimb** | *Bellevue University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Asynchronous capstone courses often lack clear opportunities for students to gain confidence in applying skills they’ve learned throughout their program of study. To counteract this, I developed an HR capstone simulation course. Through the experience, I learned the power of low-tech role play to reinvigorate the online capstone experience.
+
+To accomplish this, the course author and I created Jade Stone, a fictional home décor and accessories company and the site of an eight-week simulation. Students entered the simulation as Jade Stone’s new HR manager and were required to solve increasingly complex issues as the company’s new HR Manager. I leveraged my design background to make branding assets and emails, further immersing students. The course author and I developed engaging avatar videos, discussions, and assignments to prepare students for HR careers by integrating academic knowledge with real-world applications.
+
+Student feedback showed the continuity of story arcs and practical application, which made this coursework highly engaging. Developing the simulation was intensely collaborative, requiring meticulous planning to seamlessly embed content without disrupting the fictional world. Though the course took much creative planning, it resulted in a delightful capstone experience that allowed students to gain confidence as they imagined themselves as HR manager.
+:::
+
+### Session 22.2 | Wildcard
+
+#### 1:15 - 2:15 | Design Principles for K-12 Online Learning: A Comparative Review of Standards and Theoretical Models 
+
+**Practice**
+
+**Randy LaBonte** | *Canadian eLearning Network*
+
+**Elizabeth Childs** | *Royal Roads University*
+
+**Michael Barbour** |  *Touro University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+In 2023, researchers explored the relationship between Design Principles for K-12 Online Learning (Crichton & Childs, 2022) with quality standards for K-12 online learning, publishing a report on the intersection between design principles and standards (LaBonte, et al., 2023). Design principles refer to the fundamental concepts and guidelines that inform the creation and implementation of educational programs, materials, and systems (Kukulska-Hulme & Traxler, 2013), while standards tend to be more discrete, flexible, and responsive to local conditions (Bell, 2003). The Community of Inquiry (COI), a research-based model describing the three interdependent elements of social, cognitive, and teaching presence (Garrison et al., 2000), was used to explore the intersection points between the COI, design principles, and published standards for K-12 online learning. The analysis was used to create a model to further inform revised design principles and support the ongoing development of quality standards and professional development in K-12 online learning programs in Canada and abroad. It is hoped that basing design principles and standards in the context of a research-based model will further develop an understanding of quality in K-12 online learning that can inform practice.
+:::
+
+#### 2:15 - 2:45 | What I Learned Making a Podcast for Peer Review
+ 
+**Practice**
+
+**Brenna Clarke Gray** | *Thompson Rivers University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Podcasting is an equitable vehicle for knowledge translation, but does it “count” as scholarship? Since 2019, I have been part of a SSHRC-funded project to establish a peer reviewed podcasting network in Canada. Over these (more than anticipated) years, I have conceived, planned, recorded, edited, and revised based on reviewer feedback the forthcoming podcast Community of Praxis, a podcast for post-secondary educators. I will share my lessons learned from this experience, including the complexity of adapting the traditional scholarly apparatus to new media forms, the value of research as knowledge mobilization practice, and what is lost in the DIY podcast form when it must conform to the rigours of scholarly evaluation. Attendees will also learn about supports, resources, and proposal processes for those wishing to develop their own scholarly podcast, whether for peer review or not.
+:::
+
+### Session 22.3 | Addressing Inequities
+
+
+#### 1:15 - 2:15 | The Open Book Collective and Thoth: bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
+
+ 
+
+**Practice**
+
+**Judith Fathallah** | *Lancaster University*
+
+**Tobias Steiner** | *Thoth*
+
+**Livy Snyde** | *Punctum Books*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+This panel will facilitate discussion between representatives from the Open Book Collective,  Thoth Open Metadata, and member librarians and publishers. The Open Book Collective (OBC) is a UK-registered nonprofit focused on delivering new funding streams for OA book publishers and publishing infrastructure providers, reducing the need for Book Processing Charges through unique consortial funding model. The OBC also fosters the sustainability of open infrastructures that make high-quality Open Access books more widely discoverable. One of these, Thoth, a nonprofit Community Interest Company registered in the UK, is a metadata platform and service built on principles of open source and open data.
+
+:::
+
+
+## 2:45 - 3:00 | Break
+
+## 3:00 - 3:45 | Poster Session 23
+
+### Poster Session 23.1 | Wildcard
+
+#### Milton @ Western: An Experiment in Digital Curation with Collection Builder
+
+**Practice**
+
+**Arielle VanderSchans** | *Western University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+In response to the growing demand for diverse learning opportunities and innovative assessment methods, our proposal introduces digital curation as an educational tool. Recognized as an active process involving qualitative judgments and contextual organization, digital curation emerges as a solution to bridge the gap between student skill acquisition and faculty assessment goals. 
+
+CollectionBuilder —an open-source framework for crafting digital collection and exhibit websites is powered by metadata and modern static web technology, this tool empowers students with no coding experience to develop essential digital literacies. Activities include creating metadata in a Google Sheet, editing code on GitHub, and selecting data points to construct compelling narratives. 
+
+In an interactive web-based poster session through StoryMaps, we will showcase our digital curation project and share our experience with CollectionBuilder. During this 60-minute drop-in session, we aim to foster dialogue and inspire broader adoption of CollectionBuilder as a teaching aid while answering questions about our project and how this digital exhibit tool can provide an engaging learning experience in humanities education. The StoryMap’s public link ensures accessibility and encourages engagement via social media, using the conference hashtag to extend our reach to a diverse audience.
+
+:::
+
+### Poster Session 23.2 | Transitions of Online Learning and Teaching
+
+#### Title Forthcoming
+
+**Practice**
+
+**Sandra Abegglen, Mia Brewster & Sarah Wilkins** | *University of Calgary*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The COVID-19 pandemic has necessitated a rapid evolution in teaching methodologies, leading to the widespread adoption of hybrid education - an amalgamation of in-person and online instruction. This paradigm shift has prompted educators to explore innovative approaches to engage students effectively in both virtual and physical learning environments.
+
+The Playful Hybrid Higher Education project seeks to address this challenge by investigating the integration of play and creativity into hybrid teaching practices. Our research focuses on understanding faculty and student experiences within this framework, aiming to provide valuable insights for educators navigating the complexities of hybrid education.
+
+This poster presentation will showcase the findings of our project, which stem from an extensive literature review and surveys conducted among faculty and students. By examining best practices and strategies for incorporating playful elements into hybrid teaching, we aim to contribute to the development of comprehensive guidance for educators in this evolving educational landscape.
+As hybrid education emerges as the future of teaching, there is an urgent need for actionable recommendations to support faculty in effectively implementing playful teaching practices. This poster will offer practical insights and recommendations to enhance teaching and learning in the hybrid higher education environment.
+
+:::
+
+## 3:45 - 4:00 | Break
+
+## 4:00 - 4:30 | Social Guest 
+
+## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
+

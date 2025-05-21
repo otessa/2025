@@ -1,0 +1,44 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "OTESSA 2024 Conference Program"
+  reader-mode: true
+  date: "last-modified"
+  date-format: "MMM D, YYYY [@] h:mm a z [(UTC]Z[)]"
+  chapters:
+    - index.qmd
+    - part: "IN PERSON @ MCGILL UNIVERSITY"
+      chapters:
+          - jun12.qmd
+          - jun13.qmd
+          - jun14.qmd
+          - jun15.qmd
+          - jun16.qmd
+    - part: "ONLINE ONLY SESSIONS"
+      chapters:
+          - jun17.qmd
+          - jun18.qmd
+          - jun19.qmd
+          - jun20.qmd
+          - jun21.qmd
+
+comments:
+  hypothesis: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    number-depth: 0
+    toc-depth: 4
+    mainfont: arial
+    fontsize: "18px"
+  pdf:
+    documentclass: scrreprt
+    title: "OTESSA 2024 Conference Program"
+format-links: pdf
+
+

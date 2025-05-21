@@ -1,0 +1,275 @@
+# Friday, June 14 {.unnumbered}
+
+::: {.callout-tip}
+## Note!
+IN PERSON at Campus de Longueuil of Université de Sherbrooke
+:::
+
+## Current time in Montréal (click for more info)
+
+<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+
+</iframe>
+
+<!--
+
+> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+
+-->
+
+## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
+
+**La Source**
+
+<!--
+## 8:00-11:30 | Welcome Desk Open  
+-->
+
+## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
+
+**La Source**
+
+## 9:45 - 10:00 | Break
+
+
+## 9:30-10:30 | Concurrent Session 9
+
+### Session 9.1 | Transitions of Online Learning and Teaching
+
+**Trottier 2110 (Session D)**
+
+#### 9:30 - 10:30 | How do students make sense of a Learning Analytic Dashboard? Exploring learners’ perceptions and plans
+
+**Research**
+
+**Mariel Miller & Emma Graves** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+Student-facing learning analytic dashboards (LADs) claim to help students manage their learning. However, many widely available LADs can be inflexible and lack consideration of the contemporary theory and research of learning. Furthermore, it is unclear how students use information presented in LADs and translate it into meaningful action. This descriptive study investigates students’ use of a learning analytic dashboard to inform goal-setting and achievement over the course of one week in a large, hybrid undergraduate course. Specifically, we explore (a) learners’ evaluations of their course progress after interacting with the LAD (b) types of goals set by students for managing their learning during the week, post-interaction with the LAD; (c) the extent to which learners achieved their goals; and (d) students' perceptions of LAD utility in supporting them to manage their learning. Data were collected through two questionnaires administered at the midpoint of a course. Preliminary findings indicate that after viewing the dashboard, most learners set goals for maintaining their current progress during the week by focusing on their motivation. However, most learners reported failing to fully attain their goal by the end of the week. Implications for supporting learner engagement with LADs students-facing learning analytic dashboards are discussed.
+:::
+
+ 
+#### 10:00 - 10:30 | Tech-based teaching practices and student engagement from the perspective of self-determination theory
+
+**Trottier 2110 (Session D)**
+
+**Géraldine Heilporn, Mourad Majdoub & Fatme Diab** |  *Université Laval* 
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+Teachers can enhance inclusion and provide personalized learning experiences for students by utilizing digital tools and prioritizing inclusive teaching methods (Kim et al., 2019). However, Cabellos et al. (2023) have argued that digital resources were used more to transmit information than to engage students in their learning. The widespread and necessary use of ICT has not served to make learning student-centered but was primarily aimed at the transmission and evaluation of the content. Thus, students’ motivation and engagement are significantly affected, worsening the existing issues regarding low school motivation, especially in secondary school (Caiet al., 2022). In response to these research gaps, the aim of this communication is to explore high school teachers’ technology-based teaching methods that motivate and address the needs of learners with the use of technology based on the digital divide framework (Van Dijk, 2020), SDT (Self-Determination Theory) (Ryan & Deci, 2017) and student engagement model (Archambault et al., 2019). We have conducted individual semi-structured interviews with high school teachers aiming to obtain in-depth qualitative data mainly through open-ended questions. A thematic analysis has been employed to inductively analyze the interview data and generate possible themes and categories based on the objectives of our study. The findings and recommendations for future research will be shared at OTESSA conference.
+
+:::
+
+### Session 9.2 | Sustaining Positive Change
+
+**Trottier 0070 (Session B) | Practice**
+
+#### 9:30 - 10:30 | Walk the Walk: Fostering Equitable Practices in Organizational Sustainability
+
+**Apurva Ashok & Kaitlin Schilling** | *The Rebus Foundation*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+How do equitable practices show up in the workplace? In our pursuit of different goals, we often forget the journey and careful, collective organization it takes to get and hold us there.
+
+In the discourse around building equitable futures, this session makes space to think about organizational sustainability and designing intentional work practices for long-lasting and widespread impact. Our approach extends beyond addressing external stakeholders and emphasizes modeling equitable practices internally — at the individual level and collectively within the organization. 
+
+The presentation will delve into the flexible work model we have developed that prioritizes organizational mission and the people and work to implement the mission. Our model looks at goals beyond just profitability and instead asks how we can sustain individuals, foster critical reflection, and create positive organizational change. We will showcase how equitable practices manifest in daily team interactions, board discussions, strategic direction, programming, and resource utilization.  
+
+While the principles we embrace are not groundbreaking, they are critical to the welfare and long-term success of an organization. Our focus is intentionally on the often-overlooked aspect of applying equity-minded principles within the organizational context. The presentation aims to cement the significance of iterative daily practices in sustaining a culture of equity and inclusion within educational organizations.
+
+:::
+
+### Session 9.3 | Addressing Inequities
+
+**Trottier 2100 (Session C)**
+
+#### 9:30 - 10:30 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
+
+**Practice**
+
+**Judith Pete** | *Tangaza University College*
+
+**Gelareh Keshavarz** | *Athabasca University*
+
+**Jenni Hayman** | *Royal Roads University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+In this practice-focused session, an educator from Kenya and two educators from Canada will compare access to and experiences of artificial intelligence (AI) tools for work and education in their professional contexts. Topics will include learner, educator, and institutional access to the Internet and devices in general–and access and use of AI tools, specifically. The presenters will share emerging concerns about the ethics of the design and use of AI tools and share their interests and the positive potential they see for the use of these tools. Participants attending the session will be invited to share their ideas, contexts, interests, and concerns about AI as contributions to group learning. Strategies for ethical and pedagogic review of AI tools will be shared.
+
+:::
+
+## 10:30-11:00 | Break
+
+  
+## 11:00-12:00 | Unconference
+
+## 12:00 - 1:30 | Break
+
+## 1:30 - 2:15 | Concurrent Session 10
+
+
+### Session 10.1 | Wildcard
+
+**Trottier 2100 (Session C)**
+
+
+#### 1:30 - 1:50 | Dangling in Between: Investigating the Impacts of Using AI in Higher Education Research
+
+**Research** 
+
+**Todd Milford & Sara Fallahi** | *University of Victoria*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Artificial intelligence (AI) is used in education since 2015 (Vincent-Lancrin & van der Vlies, 2020). Benefits and hindrances of using AI has been debated in many academic literature (Chen et al., 2020; Crompton & Song, 2021; Verma & Tomar, 2021). Today with the rise of AI tools which are available to the public, with students using them more, and universities clarifying their stance on the topic, investigating the impacts of using AI in education is more crucial than ever. The purpose of this paper is to investigate the impacts of using AI tools for graduate students. For this aim, participants were introduced to a few AI tools to use for writing literature review. Participants were also interviewed on their experience and opinion on using AI in research. Initial findings of this research suggest that the participants could benefit from using AI, for example in saving time while researching, although some concerns remained unsolved for them. The output of this research can be considered while integrating AI in higher education as well as policy making.
+:::
+
+#### 1:55 - 2:15 | OER in the context of generative AI
+
+**Practice**
+
+**Normand Roy** | *University of Montreal*
+
+::: {.callout-note collapse="true"}
+## Abstract
+This proposal explores the transformation of OER in the context of Artificial Intelligence (AI), examining the multifaceted relationship between these two domains. While highlighting the potential benefits of AI in personalizing learning, creating new resources, and enhancing accessibility, the proposal also confronts the challenges associated with authorship and ethical considerations of AI-generated content. Focusing on strategies to navigate these challenges while ensuring the integrity of original contributions, the proposal further investigates how advanced AI techniques like fine-tuning and Retrieval Augmented Generation (RAG) can be employed to create highly adaptive and personalized OER aligned with learners' needs. Additionally, it explores the potential of AI in generating multimodal resources, potentially overcoming language, literacy, and learning preference barriers to broaden access to education globally. Ultimately, this proposal aims to leverage AI while addressing its inherent challenges, ultimately enhancing the quality, accessibility, and adaptivity of OER.
+:::
+
+### Session 10.2  | Transitions of Online Learning and Teaching
+**Trottier 2110 (Session D)**
+
+
+####  1:30 - 1:50 | Undergraduate Students as Research Partners: Lessons Learned in a Scoping Review of Social Media in Teaching and Learning
+
+**Research**
+
+**Emma Duke, Linh Bui, & Richard Hayman** | *Mount Royal University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+After 20+ years of educators incorporating various social media into their undergraduate teaching and learning, we have identified the need to critically examine the existing body of literature on social media integration in higher learning to understand how this use has been studied as well as how it informs today’s teaching and learning processes. This presentation reports on our scoping review project exploring trends, gaps, and issues in the use of social media technologies in undergraduate teaching and learning contexts. The researchers, including two undergraduate student research partners, will refer to the project protocol (author3 & author4, 2023) and present initial findings and lessons learned during the project to-date. We will also discuss meta-research implications from these initial findings, including an exploration of partnering with undergraduate student RAs on a rigorous evidence synthesis project, with the latter delivered primarily from the perspective of the student partners.
+
+:::
+
+#### 1:55 - 2:15 | Flexibility and Foresight in Ontario Postsecondary Education: Voices from the Field
+
+**Practice**
+
+**Elisa Arnold, Rocio Chavez Telleria & Laura Viselli** | *eCampusOntario*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Flexibility has emerged as a key area to support digital transformation in postsecondary education, and educators are often at the forefront of implementation. To understand how educators are thinking and feeling, we engaged with 45 educators from Ontario's publicly-supported postsecondary institution through six virtual workshops using foresight methods to frame the conversations. Foresight is a formal, systematic way of thinking about the future, which offers a way to think about how the future might play out and expand the solution space. Specifically, we used the following foresight methods: Futures Triangle, to understand the interrelationships among future visions, present drivers of change, and past limitations; Causal Layered Analysis (CLA), to explore the assumptions that underlie the way we frame problems, situations, and solutions; and Three Horizons, to explore what would it take to transition from present situations to future visions. This presentation is a summary of the research about these educators think and feel about flexibility in post secondary education, including considerations of equity and ethics and the application to practice, policy and infrastructure and recommended next steps.
+:::
+
+## 2:15 - 2:45 | Break
+
+## 2:45 - 3:45 | Concurrent Session 11
+
+**Trottier 0070 (Session B)**
+
+### Session 11.1  | Addressing Inequities
+
+#### Challenging Stereotypes: The Role of The Matilda Project in STEM Gender Equality
+
+**Workshop**
+
+**Shehroze Saharan** | *University of Guelph*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The Matilda Effect - a term coined by Yale historian Margaret W. Rossiter - is a phenomenon used to describe women scientists who have been ignored, forgotten, or denied credit due to sex-linked biases. The unfortunate reality is that the Matilda Effect is still prevalent today as women are not given due credit for their scientific achievements. The Matilda Project (https://www.thematildaproject.com/), a higher education initiative committed to shedding light on the pervasive issue of gender inequality in STEM, stands strategically poised to tackle this challenge. Positioned as an open-access resource, The Matilda Project encompasses the creation of educational videos and a website. The videos offer concise insights into key topics, while the website will host interactive activities and will serve as a comprehensive collection showcasing both historical and contemporary women scientists who share a common experience—the Matilda Effect.
+
+:::
+
+
+### Session 11.2  | Sustaining Positive Change 
+
+**Trottier 2100 (Session C)**
+
+
+#### Empowering Student Voices: Integrating Stop-Motion Animation with Google Drawing, Canva, and Cap Cut
+
+**Practice**
+
+**Patricia Dennis** | *Pride Academy Charter School*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+In designing Project Based Learning (PBL) curriculum and units that focus on real-world issues related to diversity, sustainability, and justice, students will create hands-on projects that evoke change within themselves, their communities, and globally. In this interactive and engaging in-person workshop, educators will be immersed in a comprehensive session focused on harnessing the potential of stop-motion animation using Google Draw, Canva, and Cap Cut. The central objective of this workshop is to empower educators with the expertise and tools to integrate the engineering design process into their teaching methods, fostering student creativity and innovation while amplifying their voices through modern technology. Throughout the workshop, participants will explore how to utilize Project-Based Learning (PBL) to sustain positive change and explore the UN Global Goals, aiming to equip educators with the necessary resources and strategies to facilitate meaningful learning experiences for their students.
+
+:::
+
+### Session 11.3 | Addressing Inequities
+
+**Trottier 2110 (Session D)**
+
+#### 2:45 - 3:45 | Unleashing Potential: Exploring Open Education Initiatives with TRU Open Press
+
+**Practice**
+
+**Danielle Collins, Marie Bartlett, Brenna Gray, Jessica, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Join us at the OTESSA conference as we highlight the transformative impact of the Thompson Rivers University (TRU) Open Press. As proponents of open education, we aim to demonstrate how the TRU Open Press fosters a sustainable and inclusive future through innovative projects. Gain insights into our core operations, including our role as a leading provider in web-first publishing, open pedagogy, and scholarship. We'll delve into our proposal process, detail how projects are initiated and navigated, with the goal of sustaining positive change for a diverse, sustainable, and democratic world. Experience the tangible impact of our initiatives through a showcase of successful projects in the evolving landscape of online learning. Explore our open publication strategies, funding mechanisms, and their profound impact on addressing inequities. Learn about our collaborations with faculty, students, Indigenous communities, and local organizations, all contributing to sustaining shared futures through education. Delve into the production processes of our Open Educational Resources (OER) and open pedagogy projects, fostering positive and meaningful change. Join us in shaping the future of education and scholarship through meaningful discussions and building connections for shared knowledge and inclusivity.
+:::
+
+## 3:45 - 4:00 | Break with Coffee & Snack Provided
+
+## 4:00 - 4:30 | Concurrent Session 12 
+
+
+
+### Session 12.1 | Addressing Inequity
+**Trottier 2100 (Session C)**
+
+####  Seeking a newer equity, diversity, and inclusion model for educators
+
+**Practice**
+
+**Lorayne Robertson, Jessica Trinier & Roland Van Oostveen** | *Ontario Tech University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+The complexities of the human condition are evident in myriad ways, yet human differences are used globally to deny basic rights. How differences are perceived in education impacts student access and participation in school, and ultimately the outcomes of their school experience. Courses on equity, diversity and inclusion are one means to help future educators become aware that the benefits of schooling are not equally available to all students. This paper presents a reflective description of a model used for the co-construction of equity, diversity and inclusion courses that employs a community of practice model where student voice features prominently in both course design and course enactment. The model relies on establishing a shared spirit of equity humility for learners and educators, and recognition of the need for student safety in potentially uncomfortable conversations. Basic human rights is  an anchoring concept. While, in the past, the teaching of equity has tended to focus on distinct aspects of oppression in society as individual topics, the co-construction of equity model relies, instead, on building bridges of understanding that cross oppressions. The concept of building cross-equity understandings is helpful as a guide to dismantling oppression and guiding the rebuilding of safer, more inclusive spaces in schools.
+
+:::
+
+###  Session 12.2 | Wildcard
+
+**Trottier 2110 (Session D)**
+
+####  Investigating Transformative Technology Integration through Lesson Analysis: A PICRAT Model Pilot Study
+
+**Research**
+
+**Adjoa Mensah, Tina Vo, Peter Wiens & Vanessa Vongkulluksn** | *University of Nevada Las Vegas*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+According to the Council for Accreditation of Teacher Preparation (CAEP), technology integration is an important component of instructional practice and competency standards. This quantitative pilot study evaluates preservice science lesson plans using the nine domains of the PICRAT model. In a university located in the southwest region of the US, researchers piloted the use of the PICRAT model as a metric for the frequency of technology integration occurrences. Coding for PICRAT domains (passive, interactive, creative, replacement, amplification and transformation) was triangulated among researchers using interrater reliability to ensure consistent coding. The researchers deliberated on the particular benefits and obstacles associated with the PICRAT model and offered perspectives on the feasibility of utilizing the domains to code lesson plans in teacher preparation.  These findings suggest a high level of consistency among raters in evaluating different PICRAT domains, particularly in the latter four categories where unanimous agreement was attained.
+
+:::
+
+## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
+
+## 6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar
+
+**La Citadelle 26th Floor**

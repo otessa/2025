@@ -1,0 +1,197 @@
+# Tuesday, June 18 {.unnumbered}
+
+::: {.callout-tip}
+## Note!
+Online Only. All times Eastern Daylight Time.
+:::
+
+## Current time in Montréal (click for more info)
+
+<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+
+</iframe>
+
+<!--
+
+> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+
+-->
+
+## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
+
+
+## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+
+## 12:00 - 1:00 | Ethics in Design Showcase 19
+
+### Showcase 19.1 | Addressing Inequities
+
+#### Speculative Design in a Summer Camp: Tensions around Infantilization
+
+**Research**
+
+**Madalyn Wilson-Fetrow** | *University of New Mexico*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
+
+In this session, we present examples of design challenges that—through participants’ perspectives and an ideation technique—became more speculative and critical. We supported our middle school participants to use the Wrong Theory Protocol to generate harmful and humiliating ideas prior to generating beneficial solutions. In doing so, some facilitators—who came from higher SES settings than the campers—became uncomfortable with the darkness of participants’ ideas, which included policy brutality, gun violence, etc., and stemmed from their everyday experiences of poverty. In this way, facilitators’ infantilization of participants is a tension present in many such designs, and one which we aim to trouble, using structural analysis of videos and artifacts.
+:::
+
+### Showcase 19.2 | Addressing Inequities
+#### Speculative Design and Building a Community of Transformation
+
+**Practice** 
+
+**Kristen Ferris, Vanessa Svihla, Susannah Davis & Nadia Kellam** | *University of New Mexico*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Organizational change efforts commonly fail in higher education. Those aimed at diversity, equity, inclusion, and justice (DEIJ) goals face complex barriers, with successful change depending on changes to policies, organizational culture, and norms that disrupt established power dynamics. We argue speculative design is an important tool in such work, enabling change agents to sustain commitment and develop more just visions.
+
+We describe our use of speculative design, remixing, and futurisms in forming a DEIJ-oriented Community of Transformation (CoT) comprising higher education change agents from institutional change leadership teams (e.g., NSF ADVANCE, RED, INCLUDES, etc.) in STEM departments. Using these design tools, we aim to foster change agents’ commitment to and capacity for DEIJ-oriented systems change. We detail precedent - theory and practice - that forms the argument for our design work, with attention to the complex ways that situated understandings of learning, an intersectional approach to power, and organizational change imbue this work. We illustrate our use of speculative design, sharing examples of community building and arts-based activities like trading cards and ‘zines, as well as learning through media clubs. We share successes and challenges, including discomfort with activities that appear to be a step away from academic productivity.
+
+:::
+
+### Showcase 19.3 | Addressing Inequities
+
+#### Open Learning Design in Context: Expanding the Continuum
+
+**Research**
+
+**Verena Roberts & Michelle Harrison** | *University of Calgary*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Our conceptual paper examines open-learning approaches from a design perspective that takes a more systematic view which is not intended to promote the replication of open-learning design models. Instead, this paper is written to highlight how educators can find connections and possible integration to their own learning contexts to design with principles that could lead to more equitable, accessible and responsive learning environments for all learners. The Open Learning Design Continuum (OLDC) is an ever-changing and evolving collaborative learning design model that examines the potential principles of open learning design in multiple higher education contexts. Through a comparison of case studies of open curriculum designs at two Canadian HE institutions, we will examine ways that educators and learners have experienced a variety of approaches to open learning design, including the blurring of informal/formal spaces, the uses of open educational resources (OER) and open platforms to create more student-centered, equitable and accessible learning spaces.
+
+:::
+## 1:00 - 1:15 | Break
+
+## 1:15 - 2:45 | Concurrent Session 20
+
+### Session 20.1 | Wildcard
+
+#### 1:15 - 2:15 | Implementing the “Code of Best Practices in Fair Dealing for Open Educational Resources (OER).”
+ 
+
+**Practice**
+
+**Ann Ludbrook** | *Toronto Metropolitan University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+In 2022, the Canadian Association of Research Libraries formed a working group to adapt the US Code of Best Practices in Fair Use for Open Educational Resources. This effort aimed to alleviate the lack of practical guidance available to open educational resource (OER) developers when handling third-party copyrighted material.
+
+The resulting Canadian Code, completed by late 2023, provides a legally sound basis for applying fair dealing in OER creation. This session introduces the Code, focusing on the background of the US and Canadian codes and how they are different, references the legal landscape, discusses the Code's four key use cases and practical application for OER creators, outlines how to implement the code through some examples as well as suggesting institutional adoption strategies. 
+
+This discussion will be led by Ann Ludbrook, Toronto Metropolitan University and include other members of the working group which included Rowena Wake, University of Calgary, Heather Martin, University of Guelph, Josh Dickison, University of New Brunswick, and Stephanie Savage, University of British Columbia. 
+
+The session allows time for comments and questions at the end of presentation to allow for group discussion.
+
+:::
+
+#### 2:15 - 2:45 | Decoding New Literacies: Core Concepts, Competencies, and Outcomes in Algorithm Literacy 
+
+
+**Research**
+
+**Marta Samokishyn** | *Saint Paul University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Literacy is defined as being deictic in nature, i.e. its definition can “change rapidly as [its] context changes” (Leu et al., 2018, p. 319). As new technologies and social challenges emerge, new literacies appear to respond to the needs, challenges, and opportunities associated with this change, in fact, “new technologies regularly and repeatedly transform previous literacies, continually redefining what it means to become literate” (Leu et al., 2018, p. 327; Lund et al., 2023). 
+
+While algorithm literacy has been talked about for a while, according to Dogruel and colleagues (2022), it is still in its infancy and remains a relatively new field of study.  In fact, while there is an increasing awareness among many about the impact of algorithmic systems on our socio-digital ecosystems, algorithm literacies have not yet been widely incorporated into the corpus of North American post-secondary education (Head et al., 2020). This calls for the increased visibility of algorithm literacy among scholars, as well as clear definitions that could inform the practice.
+
+Thus, this research stems from a pressing need to understand the core elements of algorithm literacy as a growing field. The presenter will provide theoretical findings of a scoping review about functional definitions of algorithm literacy, its’ core concepts, competencies, and outcomes. These theoretical findings of this study will lay the foundation for those who engage in the curriculum development and delivery of algorithm literacy intervention in the educational context. 
+:::
+
+### Session 20.2 | Sustaining Positive Change
+
+
+#### 1:15 - 1:45 | A sensory exploration of inaccessible digital practices: Culturally acceptable marginalization in praxis. 
+ 
+
+**Research**
+
+**Kim Ashbourne** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Globally, post-pandemic researchers in the field of digital accessibility research in education have concluded that despite the potential for information and communication technology (ICT) to remove barriers for learners with disabilities, post-secondary institutions continue to fall short of effectively using ICT to deliver equitable educative experiences to learners with disabilities (Seale, 2020). Digital accessibility frameworks,  checklists, policies and various legislative “sticks” (as opposed to carrots) have been around for decades (Oswal & Meloncon, 2017; Seale, 2004, 2006) but the problem persists. Accessibility and inclusion are viscerally relevant to disabled learners’ lived experience of post-secondary education. Digital accessibility and inaccessibility touch our bodies, minds, ethics, and our sense of self-in-community. This session uses learning artifacts, personal accounts and praxis provocations from the CanDARE.ca praxis project (Ashbourne, 2024) as jumping-off points for group discussions. The goal of this session is to get more people thinking and talking about the role digital inaccessibility plays in the education system’s oppression of learners with disabilities. Furthermore, we need to start talking about the Academy’s complicity in the silent marginalization of people with disabilities in the digital commons.
+
+:::
+
+#### 1:45 - 2:15 | A Flipped Class Room Approach to Paralegal Education
+
+
+**Research**
+
+**Ashley Stasiewich, Bruce Thomson & Tyra Zaguirre** | *MacEwan University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Legal education traditionally follows two distinct paths, catering to law school students and legal studies majors. However, the training of paralegals, vital contributors to the legal workforce, often lacks comprehensive pedagogical research and effective instructional models. This presentation addresses the gap in legal education for non-lawyers, particularly paralegals, by exploring the implementation of a flipped classroom approach.
+
+Current paralegal programs predominantly focus on clerical skills, leaving a deficit in higher-level legal comprehension and analytical abilities required in the field. Drawing on the success of flipped classroom models in law schools, this study aims to assess whether such an approach can enhance learner engagement and deepen understanding of fundamental legal principles among paralegal students.
+
+Guided by the research question, "Does implementing a flipped classroom instructional approach in an Alberta university legal technology course for paralegals change learner engagement with the fundamental legal knowledge appropriate for paralegals, compared to lecture-based models?" the presentation will share findings from survey data collected in April 2024.
+
+By examining the impact of flipped classrooms on paralegal education, this research contributes to the ongoing discourse on innovative pedagogies in legal instruction. The insights gained from this study can inform curriculum development, address the challenges paralegals face, and ensure they acquire the necessary competencies for success in the legal industry.
+
+:::
+
+#### 2:15 - 2:45 | Power to the People: Digital Humanities for/as Community Development
+
+**Research**
+
+**Keith Cheng** | *University of Toronto*
+
+::: {.callout-note collapse="true"}
+## Abstract
+“Digital Humanities” (DH) has been a rapidly growing field within academia, used to broadly describe scholarship situated in the intersection of technology and the humanities. While the field was originally conceptualized with radical intentions to move toward “the democratization of culture and scholarship” (Schnapp and Presner, 2009), it has become increasingly institutionalized and largely detached from these radical origins. In a time where there is there is a growing digital divide (Darko et al., 2023) and heightened concerns around the harmful impacts of new technologies (Benjamin, 2019), imagining new futures for the field of digital humanities is crucial. Putting digital humanities in conversation with scholarship from the fields of human and community development, the author argues that digital humanities is a radical site of possibility where agency and solidarity can be developed (Bhattacharyya, 2004), understandings of the self and one’s position within the larger world can be negotiated (Collins, 2006; Freire, 1968), and power can be decentralized from the university.
+The author employs Nancy Fraser’s theory of justice to develop a framework for equitable digital humanities work, discussing tangible strategies and potential barriers to its application through an autoethnographic account of their experiences developing digital humanities programming for underrepresented students at a Historically Black College/University (HBCU). The paper will discuss both the process and product of digital humanities, exploring how the process of doing digital humanities can have transformative impact for those involved and how new technologies can help facilitate wider and more diverse public engagements with digital humanities work.
+:::
+
+### Session 20.3 | Transitions of Online Learning and Teaching
+
+#### 1:15 - 2:15 | A world of pure imagination: scaling learning design with a design system 
+
+
+**Workshop** 
+
+**Joyce Seitzinger** | *RMIT Online*
+
+::: {.callout-note collapse="true"}
+## Abstract
+In the post-pandemic era, educational institutions face the critical task of scaling up digital learning options. This transition reveals a fundamental challenge: bespoke design, the traditional approach in academia, is not scalable. To address this, our workshop introduces design systems as a scalable framework for crafting digital learning experiences. Attendees will learn from experts and case studies across industries, understanding how reusable components and clear standards not only streamline the development process but also ensure consistency and facilitate cross-disciplinary collaboration. Key objectives include mastering design system fundamentals, overcoming bespoke design limitations, and fostering innovation within education.
+
+:::
+
+#### 2:15 - 2:45 | Open education and the Ontario governmental postsecondary virtual learning agenda
+
+**Research** 
+
+**Mara De Giusti Bordignon** | *Western University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Open education (OE) is a solution to combat problems of affordability and access in higher education. In Canada, the growing importance of open educational resources and practices is evident through the rising demand for, and expanding availability of, open textbooks and courses. With the growth of OE, Canadian provincial governments and postsecondary institutions have begun to address OE through policy yet there is a gap in our understanding of how OE has become factored into governmental agenda setting for Ontario postsecondary institutions. The main research question asks, how has OE become prominently featured in the Ontario governmental virtual learning agenda in recent years? This study uses a Multiple Streams Approach (MSA) as a method to interrogate five streams, e.g., problem, policy, political, entrepreneurial, and policy window, which converge to influence both agenda setting and decision making. The policy stream enables the analysis of policy documents pertaining to Ontario’s Virtual Learning Strategy (VLS). Preliminary findings identify the role of local and international policy entrepreneurs, and the leveraging of the COVID-19 pandemic as a window of opportunity. This study is significant in its ability to trace contributing factors towards an OE policy agenda for Ontario postsecondary institutions.
+
+:::
+
+## 2:45 - 3:00 | Break
+
+## 3:00 - 3:45 | Unconference
+
+## 3:45 - 4:00 | Break
+
+## 4:00 - 4:30 | Social Guest 
+
+## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
+

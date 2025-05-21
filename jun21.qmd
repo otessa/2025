@@ -1,0 +1,110 @@
+# Friday, June 21 {.unnumbered}
+
+::: {.callout-tip}
+## Note!
+Online Only. All times Eastern Daylight Time.
+:::
+
+## Current time in Montréal (click for more info)
+
+<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+
+</iframe>
+
+<!--
+
+> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+
+-->
+
+## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
+
+
+## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+
+## 12:00 - 1:00 | Keynote 
+
+**Forthcoming**
+
+## 1:00 - 1:15 | Break
+
+## 1:15 - 2:45 | Concurrent Session 26
+
+### Session 26.1 | Addressing Inequities
+
+#### 1:15 - 1:45 | How instructional designers connect ethics to practice: A discourse analysis | Wildcard
+
+**Research**
+
+**Kanchana Bandara & Stephanie Moore** | *University of New Mexico*
+
+::: {.callout-note collapse="true"}
+## Abstract
+This study employs discourse analysis to examine how graduate students in instructional design engage in a discussion about ethics on an online discussion board set for a course on ethics and how their discourse on ethics changes over time. It further investigates how instructional designers link ethics and design in their discourse. The discourse analysis is conducted at micro-level (Shawn & Bailey, 2009) using interactional sociolinguistics that focus on meaning-making and interpretation processes (Bailey, 2015) in the discussion board. Discussion is considered an ongoing interactional process where members of the online community respond to each other’s points. 
+
+:::
+
+#### 1:45 - 2:15 | Designing hybrid learning for preservice teachers: Using a community of inquiry framework to increase equitable and inclusive learning environments | Transitions of Online Learning and Teaching
+
+**Practice**
+
+**Nadia Delanoy & Danni Chen** | *University of Calgary*
+
+::: {.callout-note collapse="true"}
+## Abstract
+This study investigates the pedagogical and instructional design process of a hybrid course in pre-service teacher education. Guided by the Community of Inquiry (COI) framework, the course design aims to foster social, cognitive, and teaching presence in a hybrid learning environment. A narrative self-study approach was employed to reflect on the teaching practices of an instructor and a graduate teaching assistant (GTA). Data was obtained from their teaching reflections, which examined the impact of implementing a hybrid face-to-face driver model informed by COI on enhancing pre-service teachers' learning experiences. The study results suggest that the hybrid course design provides a more inclusive and empowering learning environment. The flexible format allows students to demonstrate their learning and collaborate effectively while developing socio-emotional awareness. By examining the experiences and knowledge of an instructor and a GTA, this study offers insights into how to effectively incorporate digital technologies and hybrid practices to promote a deeper understanding of lived experience in learning within the context of teacher education programs. With the rapid shift to online learning because of the COVID-19 pandemic, understanding how to design and implement hybrid courses becomes crucial in empowering pre-service teachers for the digital era.
+:::
+
+#### 2:15 - 2:45 | Encouraging Academic Writing: Online Graduate Education Writing Retreats | Transitions of Online Learning and Teaching
+
+**Research**
+
+**Connie Blomgren** | *Athabasca University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Graduate students frequently feel pressure to write, and this pressure frequently blocks writing progress. Faculty members also feel a similar pressure to write. Despite the onus upon the individual to produce theses, dissertations, journal articles, or book chapters, the academy has little structural support for authors and even less for affective provisions that inevitably are part of high stakes writing projects. This absence is also within positive psychology where research into the role of encouragement is scant (Wong et al., 2019). To address this lack, I have begun offering online writing retreats for graduate students and faculty. This presentation will describe the organization of the retreats, how I have advertised for attendance, and what happens during the online writing retreats. Using Jensen (2017)as inspiration and guide, these writing retreats have been well received. Both graduate students and faculty members have attended with positive feedback from each offering.
+
+This presentation will cover the pragmatics of these writing retreats and the importance of encouragement as part of academic success(Wong et al., 2019), including scholarly writing. Applying neuroscience findings to the writing process(Bane, 2012; Hanson, 2009, 2013) informs these retreats and contributes to their positive reception.
+:::
+
+### Session 26.2 | Sustaining Positive Change
+#### 1:15 - 2:15 | Edtech Maker Spaces to Support Sustainable OER Use in Adult Education
+
+**Practice** 
+
+**Jen Vanek, Jennifer Maddrell & Jeff Goumas** |  *World Education & Education Consultants*
+
+::: {.callout-note collapse="true"}
+## Abstract
+This presentation addresses the role of Open Education Resources (OER) in inclusively and sustainably supporting adult foundational skills education, and describes a unique professional development (PD) model called “maker spaces”, which boost the capacity of educators to employ OER. 
+
+Access to OER has potential to mitigate the inequitable access to quality instruction in an underfunded public adult education system in the U.S. Adult educators do use OER; however, those available are often designed for other contexts and learners (Newman et al., 2015). Compounding this difficulty, adult education teachers lack expertise, time to develop resources, and access to training (authors, 2023). The “maker space” PD responds to this by working with adult educators to expand their knowledge and skills in discovering, adapting, and producing high-quality and relevant and reusable OER.
+
+Attendees learn about how this research driven service-learning PD has led to construction of an open library of thousands of OER designed to support adult learners. Presenters describe the PD model and the research behind it. They share technical assistance resources developed to help participant educators as they worked together to curate, evaluate, adapt, and create OER. Attendees gain insight into participant experience as they collaborate in a mini “maker space”.
+
+:::
+
+#### 2:15 - 2:45 | Research | Forthcoming
+
+### Session 26.3 | Addressing Inequities
+
+#### 1:15 - 2:15 | Incorporating Open Educational Technology for Designing Diversity, Equity, and Inclusion Learning Experiences 
+
+**Practice**
+
+**Caroline Chance** | *California Polytechnic State University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The increasing number of English as a Second Language (ESL) students seeking education, the escalating costs of tuition, and the high proportion of students from racial minorities dropping out call for course content that is accessible, affordable, and all-embracing. First, recent studies have consistently found that most Open Educational Resources (OER) are designed for learners with advanced levels of English proficiency, which counters the purpose of offering curriculum to the general public. First-generation students and immigrant students are disproportionally disadvantaged by not having early exposure to terminology spoken by family members working in specialized professions such as law or medicine. Second, annual statistics have repeatedly shown the costs of tuition at both public and private universities rising faster than inflation, which reverses the improvements that higher education has made for decades in creating pathways. The decreasing affordability of attending college has negatively impacted under-sourced students who did not come from families that can provide financial support or graduated from school districts that could find funding sources. Third, the Department of Education findings indicate the high dropout rates among under-represented students, such as Latinx males and Black males due to monetary and mental health issues. The lack of representation in textbooks and case studies has resulted in a learning environment that is devoid of the multiplicity of ideas and acknowledgment of different cultural influences. In this session, the presenter will provide strategies for course materials that integrate common English, everyday application assignments, and examples that resonate with students.
+
+:::
+
+## 2:45 - 3:00 | Break
+
+## 3:00 - 3:45 | Closing Comments
+
+## 3:45 - 4:00 | Discussion/Networking Pod Drop-In
+

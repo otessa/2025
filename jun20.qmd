@@ -1,0 +1,132 @@
+# Thursday, June 20 {.unnumbered}
+
+::: {.callout-tip}
+## Note!
+Online Only. All times Eastern Daylight Time.
+:::
+
+## Current time in Montréal (click for more info)
+
+<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+
+</iframe>
+
+<!--
+
+> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+
+-->
+
+## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
+
+
+## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+
+## 12:00 - 1:00 | Ethics in Design Showcase 24
+
+### Showcase 24.1 | Addressing Inequities
+
+#### Bringing Human-centeredness Learning Analytics Dashboards: Design Principles and Implications
+
+**Practice**
+
+**Dana Al Zoubi, Noah Glaser & Evrim Baran** | *Mississippi State University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+The rise of Learning Analytics (LA) applications, particularly Learning Analytics Dashboards (LADs), offers immense potential to improve teaching and learning outcomes. However, challenges persist in the effective design, ethical use, and privacy considerations associated with LADs. This paper explores the growing interest in LADs and emphasizes the need for a human-centered approach to address design and structural challenges. The proposed human-centered design (HCD) approach advocates for prioritizing end-user's perspectives and needs throughout the design process, incorporating transparency, inclusion, and accountability principles. This paper delves into the implications of adopting HCD principles, such as personalized learning experiences, inclusive representation, improved learner engagement, and ethical use of data. By involving stakeholders, especially learners, in the design process, LADs can be tailored to diverse needs and preferences, promoting engagement and informed decision-making. The discussion extends to transparency, inclusion, and accountability as key principles for addressing ethical and privacy concerns associated with LADs. Future research directions are proposed to further explore the effective application of human-centered approaches in LAD design, aiming to continually enhance their role in promoting positive learning outcomes in educational settings.
+
+:::
+
+### Showcase 24.2 | Wildcard
+#### Becoming Alive Together: Towards a “Carrier Bag” Approach to Ethical Learning Designs
+
+
+**Research** 
+
+**Beth Giebus-Chavez** | *University of New Mexico*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Sustainable responses to overlapping social, economic, and environmental crises require a recognition of the interconnected and systemic nature of planetary concerns. Yet traditional instructional design frameworks offer a linear, hero-centered narrative that undermines the collective changes needed to address complex issues. In this conceptual paper, I propose an alternative approach to learning design that integrates Le Guin's Carrier bag theory of fiction (1989/2019) and affirmative ethics (Braidotti, 2015)  By recognizing the entanglements of human and non-human elements within the online environment, the ‘carrier bag’ decenters the traditional notion of a solitary hero—whether teacher, learner or designer—in navigating a predetermined path. Instead, the focus shifts towards a dynamic and inclusive learning assemblage that is attuned to the relational capacities of its members. Key to such a move is the acknowledgment of the vital, participatory role of digital objects. I outline five provocations—care, complexity, complicity, collaboration, and care—that can be applied to the design of online courses to deepen awareness of the relationship between digital objects and ecological responsiveness. Grounded in material-discursive practices and posthuman ethics, this study contributes to ongoing discussions of innovative design paradigms that better align with the complexities of contemporary education.
+
+:::
+
+
+
+## 1:00 - 1:15 | Break
+
+## 1:15 - 2:45 | Concurrent Session 25
+
+### Session 25.1  | Wildcard
+
+#### 1:15 - 2:15 | Graphically Speaking: Sketchnotes in an Open Educational Practice
+
+
+**Workshop**
+
+**Helen DeWaard** | *Lakehead University*
+
+**Debbie Baff** | *Joint Information Systems Committee (JISC)*
+
+**Giulia Forsythe** | *Brock University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The application of graphic visualization can be used by open educational practitioners, scholarly writers, and researchers to illustrate mental models, enhance sense making, and extend memory. Although the presenters will share their collaborative autoethnographic research as they examined theoretical frameworks that relate to their graphic visualization practice of sketchnoting, the primary focus of this workshop is on the practice of sketchnoting in academia. Definitions of sketchnoting, open educational practices, and hupomnemata are provided, and theoretical frameworks are shared. This is followed by brief descriptions of the presenters’ individual contexts and sketchnoting stories. In this way, the authors advocate for and explain why and how sketchnotes are part of their open educational practice. The presenters will actively engage participants in sketchnoting experiences and identify issues when sketchnoting in an academic writing practice. The authors identify issues and challenges, offer tips to begin sketchnoting, and outline how sketchnoting can expand the landscapes of academic writing. 
+:::
+
+#### 2:15 - 2:45 |  Augmented Reality to develop learning tool for students Transforming cell phones into flashcards
+
+
+**Practice**
+
+**Nazlee Sharmin** | *University of Alberta*
+
+::: {.callout-note}
+## Abstract
+Traditional flashcards are one of the most popular and optimized ways to learn factual knowledge and improve memory performance. However, this method is helpful only for motivated students because the amount and timing of flashcard use are critical for success. We have used augmented reality (AR) to develop an app called ‘Dental AR’ that allows students to use their smartphones as flashcards. Using this app, students can learn and self-test their knowledge at a time and place that is convenient for them. We used Unity3D with Vuforia to develop Dental AR. Oral histology glass slides were scanned and converted to digital images to generate target images. Annotated versions of the slides were used as output for the corresponding target images. To understand user experiences and satisfaction with Dental AR, first-year dentistry students were invited to complete an online survey. The survey results indicated an overall satisfaction with Dental AR and willingness to use similar applications in other subjects. 
+:::
+
+### Session 25.2 | Transitions of Online Learning and Teaching
+
+#### 1:15 - 2:15 | FLO Fusion – A Sustainable Approach to Supporting Professional Development with OERs 
+
+**Practice**
+
+**Helena Prins** | *BCcampus*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+In the face of multifaceted challenges confronting higher education globally, strategic professional development becomes paramount. Economic, social, technological, demographic, environmental, and political dynamics necessitate a resilient sector capable of delivering quality education. The profound impact of the global pandemic on the Canadian post-secondary system has accentuated issues like the digital divide and online learning readiness. Recent research underscores that overwhelm, burnout, and negative faculty perceptions about online learning persist; faculty and students desire more technology supported learning, but does faculty have the skills and "know how" to teach in digital environments?
+
+This presentation emphasizes the strategic utilization of existing open education resources (OERs) for professional development in preparing and supporting faculty to navigate our complex post-secondary context. A curated collection of OERs under the Facilitating Learning Online (FLO) umbrella will be introduced. These resources cover a diverse array of topics, including Indigenizing pedagogy, Artificial Intelligence exploration, and Anti-racism strategies, providing a robust foundation for professional development. 
+
+Attendees will 1) gain a deeper understanding of how FLO OERs enhance teaching resilience in higher education, 2) explore FLO content for professional development, and 3) discuss strategies for OER adoption locally.
+:::
+
+#### 2:15 - 2:45 Realities of Remote Learning: Autistic Youths’ Experiences During COVID-19
+
+**Research**
+
+**Millie Batta** | *Shoreline Counselling*
+
+::: {.callout-note collapse="true"}
+
+School closures due to the COVID-19 pandemic resulted in a shift to emergency remote learning, significantly impacting autistic students who experienced interruptions to school-based supports and social interactions. Using the framework of thriving, this research study explored the experiences of autistic youths and their mothers of emergency remote learning during the first few months of the pandemic, with a focus on well-being. The findings of this study highlighted how remote schooling came with a spectrum of benefits and challenges. The autistic youths’ experiences of remote schooling are described through three common themes: (1) social, (2) emotional, and (3) academic. This research aligns with the conference’s subtheme of online learning and teaching as it aims to integrate the learnings from students’ remote schooling experiences for inclusive practices for neurodiverse students. This presentation considers how online learning may impact the social engagement and overall well-being of autistic youth. I conclude the session by highlighting how professionals working with autistic youths may benefit from understanding their remote schooling experiences using a thriving framework to better support their social, emotional, and educational needs in future online settings.
+
+:::
+
+## 2:45 - 3:00 | Break
+
+## 3:00 - 3:45 | Unconference
+
+## 3:45 - 4:00 | Break
+
+## 4:00 - 4:30 | Social Guest 
+
+## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
+

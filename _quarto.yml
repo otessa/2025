@@ -9,20 +9,12 @@ book:
   date-format: "MMM D, YYYY [@] h:mm a z [(UTC]Z[)]"
   chapters:
     - index.qmd
-    - part: "IN PERSON @ MCGILL UNIVERSITY"
-      chapters:
-          - jun12.qmd
-          - jun13.qmd
-          - jun14.qmd
-          - jun15.qmd
-          - jun16.qmd
-    - part: "ONLINE ONLY SESSIONS"
-      chapters:
-          - jun17.qmd
-          - jun18.qmd
-          - jun19.qmd
-          - jun20.qmd
-          - jun21.qmd
+    - jun02.qmd
+    - jun03.qmd
+    - jun04.qmd
+    - jun05.qmd
+    - jun06.qmd
+
 
 comments:
   hypothesis: true

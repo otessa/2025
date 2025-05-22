@@ -1,15 +1,52 @@
-# Wednesday, June 12 {.unnumbered}
+# Monday, June 2 {.unnumbered}
 
 ::: {.callout-tip}
 ## Note!
-IN PERSON at Campus de Longueuil of Université de Sherbrooke
+Online Sessions
 :::
 
-## Current time in Montréal (click for more info)
+## Times listed in this program are Pacific Daylight Time (Victoria, BC) 
 
-<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+:::: {.columns}
 
-</iframe>
+::: {.column width="33%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Victoria, BC</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n1091/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+
+::: {.column width="34%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Santa Fe, NM</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n231/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="172" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+
+:::
+
+::: {.column width="33%"}
+
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Toronto, ON</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n250/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+::::
+
+
 
 <!--
 
@@ -17,18 +54,20 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 -->
 
-## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
+## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement <!--(ask Jean-Paul to join??)--> {.unnumbered}
 
-**La Source**
+**Location**
 
-## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
+## 9:00 - 10:00 | Keynote: Thomas Reeves 
 
-**La Source**
+**Location**
 
-## 9:45 - 10:00 | Break
+## 10:00 - 10:15 | Break
 
 
-## 9:30-10:30 | Concurrent Session 1
+## 10:15 - 11:15 | Concurrent Session 1
+
+(60 Mins)
 
 ### Session 1.1 | Addressing Inequities
 
@@ -103,12 +142,14 @@ Participants will be invited to share their experiences and discuss the potentia
 
 
 
-## 10:30-11:00 | Break
+## 11:15 - 11:45 | Break
 
   
-## 11:00-12:00 | Concurrent Session 2 | Ethics in Design Showcase
+## 11:45 - 12:45 | Concurrent Session 2 
 
-**All Session 2 Showcases are in the Trottier Mezzanine**
+(60 Mins)
+
+
 
 
 ### Showcase 2.1 | Sustaining Positive Change
@@ -173,125 +214,6 @@ Examining how to mitigate curricular harms and consider the ethics of educationa
 
 :::
 
-## 12:00 - 1:30 | Break
+## 12:45 - 1:00 | Break
 
-## 1:30- 2:30 | Keynote
-
-### Speaker Forthcoming
-
-## 3:00 - 3:45 | Concurrent Session 3 
-
-**Trottier 0060 (Session A)**
-
-### Session 3.1 | Sustaining Positive Change
-
-####  3:00 - 3:20 | Supporting OER Adoptions through Federated Discoverability
-
-
-**Practice**
-
-**Don Eldridge** | *eCampus Ontario*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-A key aspect of supporting OER adoption remains OER discoverability, which is commonly reported as a barrier to OER adoption as part of finding relevant resources and the time required to adopt (Belikov, & Bodily, 2016; Lantrip & Ray, 2021). This open data initiative includes the development of a metadata schema with crosswalks, technical configurations using Open Archives Initiative Protocol for Metadata Harvesting, and a collaborative pilot project to test and implement the technical solution. At the time of this proposal submission, the initiative is federating out the library metadata records to 24 post-secondary institutions. Lessons learned include working with consortiums and shared technology services, evaluating the value of federation for a wide range of post-secondary institutions, and the impact for future collaborations.
-
-:::
-
-
-####  3:25 - 3:45 | Means to an End? Ethical Methodologies for Developing Ethical Facial Recognition Training Datasets
-
-
-**Research**
-
-**Jin Sol Kim, Amanda Yu, Lai-Tze Fan & Tatum Weicker-O'Connor** | *University of Waterloo*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-In January of 2020, The New York Times published a report on the implications of Clearview AI’s facial recognition system in law enforcement. However, unlike other discussions of facial recognition in this field, which focus on the consequences of racial biases within the system, this report revealed the problematic methodology behind the development of Clearview AI’s robust training dataset, calling for an examination of ethics in the very process of creating ethical tech. Clearview AI has since been banned in countries including Canada for scraping over three billion photos from social media platforms, breaching privacy laws surrounding consent for use of personal data. Yet the challenge remains: how can we create a fair and robust training dataset for facial recognition algorithms given the resource-intensive nature of the task as well as complications such as the limitations of data privacy? How can we ensure that the means of creating ethical facial recognition technologies mirror its ends?  With current rapid developments in generative AI, synthetic training datasets have newly emerged as a promising player in the field of facial recognition technologies. Training datasets such as Digi-Face 1M that are entirely composed of generated images seem to waive the need for ethical considerations altogether by skirting the use of human subjects. Nevertheless, insofar as the application of these tools affect human lives, we must question whether this new method of dataset development is truly free from ethical concerns.
-
-:::
-
-###  Session 3.2 | Transitions of Online Learning and Teaching
-
-**Trottier 0070 (Session B)**
-
-####  3:00 - 3:20 | Planning, living, and adding to our plates: K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
-
-
-
-**Practice**
-
-**Melissa Bishop** | *University Prince Edward Island*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Virtual Learning Environments (VLE) have interested scholars since the late 20th century, with much of the research focusing on secondary and post-secondary instructors and learners (Brown, 2010; Dabbagh, 2007; Fuchs, 2014; Plump & LaRosa, 2017; Proserpio & Gioia, 2007). With the onset of VLEs in elementary education due to the COVID-19 pandemic and the continuation of synchronous virtual learning thereafter, VLEs have become commonplace in K-3 contexts across Ontario. Yet, as we contend with the ubiquitous nature of technology in early elementary, a paucity of literature exists regarding teachers’ and Early Childhood Educators' (ECE) experiences of planned and lived curricula (Muldong et al., 2021; Aperribai et al., 2020; Ferdig et al., 2020) in VLEs. Starting from standpoint epistemologies (Au, 2012; Harding, 1991; Haraway, 2003), reflecting on five narrative interviews, and employing a narrative analysis of field texts (Clandinin, 2006; Clandinin & Connelly, 1988, 1996, 2000), we unearthed six narrative threads: time, parent communication, relationship building, classroom community, engagement and teacher presence, and technological challenges. These six threads suggested how ECEs and teachers navigated the entanglements of planned and lived curricular experiences in VLEs. Further, the five threads exposed critical elements to be considered in future VLE policy and curricular reform in the K-3 context.
-
-:::
-
-####  3:25 - 3:45 | Getting the right mix - A risk-based approach to blended learning design for healthcare workplace training
-
-
-
-**Practice**
-
-**Deborah Exelby** | *Athabasca University*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Ensuring employees are competent and confident to perform their duties relies on new employee orientation and ongoing compliance training. Currently, there is no industry standard or evidence-informed decision framework that determines when to use face-to-face, online, or blended learning for healthcare workplace training. This thesis research investigates how instructional designers use blended learning to balance the ethical, patient safety, resource, and budget demands that an ever-changing and high-tech workplace creates, by answering the question: Is there a relationship between perceived risk of the content to be learned, delivery modes, and interaction techniques in healthcare workplace training? An online survey and correlation analysis was used to rank healthcare workplace instructional designers’ preferences about  their use of learning modalities and interaction techniques in relation to their perceived risk of the content to be learned. Quantitative analysis found: 1) no preference for synchronous delivery, 2) low preference for blended learning delivery, and 3) high preference for in-person face-to-face delivery via learner-instructor interaction specifically for high and medium-risk learning content. This study enabled the development of a proposed training and orientation planning support (TOPS) matrix for risk-based instructional design decision-making. 
-:::
-
-## 3:45 - 4:00 | Break
-
-## 4:00 - 4:30 | Concurrent Session 4
-
-
-### Session 4.1  | Transitions of Online Learning and Teaching
-
-**Trottier 2100 (Session C)**
-
-####  Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
-
-**Research**
-
-**Bonnie Stewart** | *University of Windsor*
-
-::: {.callout-note collapse="true"}
-### Abstract
-This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
-:::
-
-### Session 4.2  | Sustaining Positive Change
-
-**Trottier 2110 (Session D)**
-
-####  Open Learning Design in an Inquiry-based Educational Setting
-
-**Research**
-
-
-**Maryam Shirdel Pour & Michael Paskevicius** | *University of Victoria*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Inquiry-based learning as a pedagogical approach encourages students to explore and investigate real-world problems and foster a deeper understanding of concepts as they actively connect new information to their existing mental frameworks (Martell, 2022). Educators are increasingly recognizing the value of creating an engaged learning environment that promotes collaboration and allows for personalized and meaningful learning experiences (Bui & Khuu, 2020). Inquiry-based learning may require that learners engage in networking beyond formal academic settings and connect with professionals, peers, and resources in various fields that could foster their deeper engagement with learning (Robert, 2022).
-
-Open Educational Practices (OEP) tend to create cooperative teaching and learning practices in which the focus is on the role of the learners and the impact that their participation will have on the learning process and practice (Mayrberger, 2020; DeRosa & Robinson, 2017; Author. 2019). Students could benefit from the principles of OEP to engage in open and dynamic conversations to collectively build a deeper understanding of the subject and share their ideas and inquiry work widely while following copyright guidelines. This study, therefore, aspires to investigate the effects of incorporating OEP in an educational environment centred around inquiry.
-
-:::
-
-## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
-
-## 6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar
-
-**La Citadelle 26th Floor**
-
-
-
+## 1:00- 2:30 | Networking

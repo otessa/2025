@@ -1,37 +1,58 @@
-# Thursday, June 13 {.unnumbered}
-
+# Tuesday, June 3 {.unnumbered}
 ::: {.callout-tip}
 ## Note!
-IN PERSON at Campus de Longueuil of Université de Sherbrooke
+Online Sessions
 :::
 
-## Current time in Montréal (click for more info)
+## Times listed in this program are Pacific Daylight Time (Victoria, BC) 
 
-<iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
+:::: {.columns}
 
-</iframe>
-<!--
+::: {.column width="33%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Victoria, BC</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n1091/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
 
-> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+:::
 
--->
-
-## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
-
-**La Source**
-
-<!--
-## 8:00-11:30 | Welcome Desk Open  
--->
-
-## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
-
-**La Source**
-
-## 9:45 - 10:00 | Break
+::: {.column width="34%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Santa Fe, NM</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n231/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="172" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
 
 
-## 9:30-10:30 | Concurrent Session 5
+:::
+
+::: {.column width="33%"}
+
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Toronto, ON</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n250/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+::::
+
+
+## 10:00 - 11:00 PDT | Keynote | James Slotta - Future of Ed Tech
+
+## 11:00 - 11:15 | Break
+
+## 11:15 - 12:15 | Concurrent Session 3
+
+(60 mins)
 
 ### Session 5.1 | Addressing Inequities
 
@@ -103,10 +124,10 @@ This communication presents the new design of a course on digital technology for
 This 50-minute session builds upon the Canadian Association Research Libraries (CARL)’s National Advocacy Framework for Open Educational Resources (OER) in Canada (2023). It updates attendees on national OER advancements, and features insights from the Indigenous Knowledges and OER summit held in Vancouver in February 2024. The summit produced principles for working with Indigenous knowledges in OER, alongside discussions on progressing national OER advocacy. The session covers developments in policy, infrastructure, and francophone OER stemming from summits in 2022 and 2023. Reports from these events will be discussed, along with updates on ongoing federal budget consultations and the anticipated 2025 federal election. The audience will also have the opportunity to contribute ideas and strategies for national advocacy, via group discussion and polls.
 :::
 
-## 10:30-11:00 | Break
+## 12:15 - 12:45 | Break
 
   
-## 11:00-12:00 | Concurrent Session 6 | Ethics in Design Showcase
+## 12:45 - 1:45 | Concurrent Session 4 
 
 **All Session 6 Showcases are in the Trottier Mezzanine**
 
@@ -169,11 +190,11 @@ This Design Case features an interprofessional stroke care case for health and m
 
 :::
 
-## 12:00 - 1:30 | Break
+## 1:45 - 2:00 | Break
 
-## 1:30 - 2:15 | Concurrent Session 7 
+## 1:30 - 2:30 | Concurrent Session 5 
 
-**Trottier 2100 (Session C)**
+
 
 ### Session 7.1 | Sustaining Positive Change
 
@@ -191,103 +212,3 @@ This Design Case features an interprofessional stroke care case for health and m
 Join our interactive session to explore the transformative initiative, "An e-Book of One's Own," designed to reshape the student experience in higher education. In a dynamic environment, participants will engage with Pressbooks, a powerful tool enabling students to craft personalized e-books showcasing their academic journey. The session emphasizes hands-on exploration, collaborative problem-solving, and interactive structures to work towards successful implementation. Reflective exercises simulate the student experience, fostering a deep understanding of the program's impact. This session is not a passive presentation; it's a collective effort to redefine educational experiences. Attendees will leave with practical insights, strategies for implementation, and a renewed vision for empowering students through digital innovation.
 
 :::
-
-###  Session 7.2 | Wildcard & Transitions of Online Learning and Teaching
-
-**Trottier 2110 (Session D)**
-
-####  1:30 - 1:50 | Triads to Complete Capstone: e-Portfolios
-
-
-
-**Practice**
-
-**Christine Ho Younghusband** | *University of Northern British Columbia*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-For one graduate program at a small research university in British Columbia, completing a digital portfolio is one option for capstone to demonstrate learning and conclude the program. The portfolio option includes developing a WordPress site, articulating one’s learning through the lens of a guided question, and a presentation of the portfolio to a committee. The student and committee members are led by a faculty supervisor. Completion of this capstone can be an isolating experience. In one term, two graduate students were left without a supervisor and needed to complete the program that term. One faculty member supervised three graduate students at one time. Over time, the three graduate students formed a triad, or small learning community, where they supported, peer-assessed, and collaborated in an ongoing way to complete their portfolios. The outcomes were personalized and unique to the learner. This presentation is a program evaluation that investigates the value and impact of triads during capstone and portfolio to invite back humanity into the capstone and portfolio experience.
-
-:::
-
-#### 1:55 - 2:15 | Using AI to design a Culturally Responsive STEM course and improve sense of belonging among students
-
-**Research**
-
-**Nahid Pourdolat Safari & Behnoosh Khoramrooz** | *University of Victoria*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-This session aims to explore the integration of AI in Culturally Responsive Teaching (CRT) to enhance the sense of belonging in STEM education. Focusing on the importance of CRT in developing a sense of belonging and as a result, in enhancing motivation, engagement, persistence and academic performance, this presentation will discuss the theoretical foundations of CRT and explore implementing AI-generated content in STEM course design to foster a more inclusive learning environment. This session will delve into how AI can validate and acknowledge students' cultural backgrounds in STEM classes with a focus on underrepresented groups, including Indigenous, Black and international students. By showcasing practical examples, this session intends to demonstrate how AI technologies can be used to motivate and engage STEM students from diverse cultural backgrounds by improving their sense of belonging.
-:::
-
-## 2:15 - 2:45 | Break with Coffee & Snack Provided
-
-## 2:45 - 3:45 | Posters - Forthcoming
-
-## 3:45 - 4:00 | Break 
-
-## 4:00 - 4:30 | Concurrent Session 8
-
-
-### Session 8.1  | Addressing Inequities 
-
-**Trottier 2100 (Session C)**
-
-####  Survivors of Complex Trauma as Adult Online Learners
-
-**Research**
-
-**Hilary Schmidt** | *Thompson Rivers University*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Complex trauma is both a product and a source of significant multidimensional inequality, including profound disruption to survivors’ educational trajectories. Nonetheless, little research has been conducted on trauma-informed educational practices for adult/postsecondary or open/online learners, and educational researchers have largely ignored the perspectives of survivors, contradicting the key principle of collaboration within a trauma-informed approach.
-
-This qualitative instrumental collective case study explored how adults with a history of complex trauma experience postsecondary open/online learning. Findings included participants’ struggles with executive functioning, challenges regulating emotion and dealing with a heightened perception of threat, re-experiencing trauma, negative beliefs about the self, and difficulties navigating relationships. These trauma impacts affected not only participants’ learning and course experience, but also their experience of applying, registering, and accessing financial aid. Nonetheless, participants are demonstrably skilled in managing impacts of their trauma and are driven to learn, placing the highest intrinsic value on education. Top priorities for implementation of trauma-informed educational practices identified by participants included establishing safety; trust and transparency; and empowerment, voice, and choice. Implications are discussed, including enhancing equity and inclusion for survivors of complex trauma and assisting open/online postsecondary institutions in meeting their unique needs through implementation of trauma-informed educational practices.
-
-:::
-
-### Session 8.2  | Addressing Inequities
-
-**Trottier 2110 (Session D)**
-
-####  Protecting Indigenous Knowledge in Open Education
-
-**Don Eldridge & Mary Gu** |  *eCampus Ontario* 
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-As open educational practices (OEP) and open educational resources (OER) grants, programs, and initiatives are created by organizations, there is a need to consider the diverse and nuanced Equity, Decolonization, Diversity, and Inclusion (EDDI) issues that will be surfaced. Funding institutions and agencies must consider how their support and promotion of OEP and OER may not support and may even alienate Indigenous members of their community. This presentation will provide an overview of the EDDI concerns faced in a major investment into an OER program in Canada that impacted multiple postsecondary institutions through 3 years of work. This presentation will share the development process of a geographically specific Commons license, the metrics on uptake since the launch of the license, and the impact on supporting digital-by-design virtual learning. This experience can inform the broader open education community by sharing lessons learned and best practices as a case study.  
-
-:::
-
-### Session 8.3  | Sustaining Positive Change
-
-**Trottier 0060 (Session A)**
-
-####  Creating Reskilling and Upskilling Opportunities for Internationally Educated Immigrants through Online Learning Programs: The Story of Success
-
-**Practice**
-
-
-
-**Marina Grineva** | *Intercultural Skills Lab (Rotman School of Management, University of Toronto)*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-The importance of access to reskilling and upskilling opportunities for immigrants can’t be overestimated. However, there is a number of challenges that this population faces while trying to integrate into the workforce or advance in their careers in Canadian work environments. One of such challenges is the inability to attend professional development programs in-person. From this perspective, technology-enhanced learning, specifically, on-line or hybrid learning environments (a combination of asynchronous and synchronous learning sessions) are one of the solutions of the problem.
-
-In this presentation, we aim to provide the overview of  professional development programs offered by [The Intercultural Skills Lab](https://www.rotman.utoronto.ca/ProfessionalDevelopment/interculturalskillslab) (Rotman School of Management, University of Toronto) that successfully provides reskilling and upskilling opportunities for internationally trained immigrants by creating a variety of technology-enhanced learnings environments. Specifically, we will demonstrate how through the use of a number of online learning tools the program participants are given an opportunity to become part of vibrant collaborative learning communities fostering professional development in such areas as intercultural intelligence, effective communication, career management, as well as in the sector-specific disciplines.
-:::
-
-## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
-
-## 6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar
-
-**La Citadelle 26th Floor**

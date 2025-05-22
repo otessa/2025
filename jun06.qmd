@@ -1,0 +1,58 @@
+# Friday, June 6 {.unnumbered}
+::: {.callout-tip}
+## Note!
+Online Sessions
+:::
+
+## Times listed in this program are Pacific Daylight Time (Victoria, BC) 
+
+:::: {.columns}
+
+::: {.column width="33%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Victoria, BC</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n1091/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+
+::: {.column width="34%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Santa Fe, NM</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n231/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="172" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+
+:::
+
+::: {.column width="33%"}
+
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Toronto, ON</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n250/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+::::
+
+## 9:10 - 10:10 PDT | Presidential Address | Valerie Irvine & Stephanie Moore
+//todo #1
+## 10:00 - 11:00 PDT | Keynote | Jean-Paul Restoule
+
+## 1:45 - 2:05 | Publication Pathways | Michele Jacobsen & Valerie Irvine
+
+## 2:05 - 2:15 | Break
+
+## 2:15 - 3:15 | Victoria Concurrent
+
+## 3:15 - 3:30 | Online Closing - Jon Dron

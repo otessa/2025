@@ -1,0 +1,82 @@
+# Wednesday, June 4 {.unnumbered}
+
+::: {.callout-tip}
+## Note!
+Online Sessions
+:::
+
+## Times listed in this program are Pacific Daylight Time (Victoria, BC) 
+
+:::: {.columns}
+
+::: {.column width="33%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Victoria, BC</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n1091/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+
+::: {.column width="34%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Santa Fe, NM</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n231/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="172" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+
+:::
+
+::: {.column width="33%"}
+
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Toronto, ON</div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n250/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+::::
+
+
+## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
+
+## 11:00 - 11:15 | Break
+
+## 11:15 - 12:15 | Keynote | Laura Czerniewicz, Catherine Cronin, Helen Beetham
+
+## 12:15 - 12:45 | Break
+
+## 12:45 - 1:45 | Concurrent Session 6
+
+(60 mins)
+
+## 1:45 - 2:00 | Break
+
+## 2:00 - 3:00 | Concurrent Session 7
+
+### Session 9.1 | Transitions of Online Learning and Teaching
+
+**Trottier 2110 (Session D)**
+
+#### 9:30 - 10:30 | How do students make sense of a Learning Analytic Dashboard? Exploring learners’ perceptions and plans
+
+**Research**
+
+**Mariel Miller & Emma Graves** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+Student-facing learning analytic dashboards (LADs) claim to help students manage their learning. However, many widely available LADs can be inflexible and lack consideration of the contemporary theory and research of learning. Furthermore, it is unclear how students use information presented in LADs and translate it into meaningful action. This descriptive study investigates students’ use of a learning analytic dashboard to inform goal-setting and achievement over the course of one week in a large, hybrid undergraduate course. Specifically, we explore (a) learners’ evaluations of their course progress after interacting with the LAD (b) types of goals set by students for managing their learning during the week, post-interaction with the LAD; (c) the extent to which learners achieved their goals; and (d) students' perceptions of LAD utility in supporting them to manage their learning. Data were collected through two questionnaires administered at the midpoint of a course. Preliminary findings indicate that after viewing the dashboard, most learners set goals for maintaining their current progress during the week by focusing on their motivation. However, most learners reported failing to fully attain their goal by the end of the week. Implications for supporting learner engagement with LADs students-facing learning analytic dashboards are discussed.
+:::
+
+ 

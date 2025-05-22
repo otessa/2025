@@ -54,141 +54,152 @@ Online Sessions
 
 (60 mins)
 
-### Session 5.1 | Addressing Inequities
+### Session # | Theme
 
-**Trottier 0060 (Session A) | Practice (French)**
+**Location**
 
-#### Franchir les obstacles : Améliorer l'accessibilité grâce aux ressources éducatives libres dans l'apprentissage intégré au travail
+#### Time | Title
 
-**Andrea Krasznai** | *eCampus Ontario*
+**Research**
+
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
 
-Le projet d'apprentissage expérientiel d'eCampusOntario, le Consortium d'apprentissage expérientiel francophone de l'Ontario (CAPFO), rassemble les institutions postsecondaires francophones et bilingues de l'Ontario pour combler une lacune : le manque d'opportunités d'apprentissage expérientiel dans les environnements francophones et bilingues. En utilisant la plateforme Riipen, nous offrons aux membres du CAPFO la possibilité d'augmenter le nombre d'opportunités disponibles pour leurs apprenants au-delà des frontières géographiques de la province.
-
-Dans le cadre de ce projet, une nouvelle lacune a été mise en lumière : le manque de ressources en français pour les professeur.e.s souhaitant s'impliquer dans l'apprentissage intégré au travail. eCampusOntario a créé des ressources éducatives libres (REL) pour soutenir les professeur.e.s dans le développement de leurs connaissances en matière d'apprentissage intégré au travail. De plus, une enquête de recherche a été menée dans le secteur francophone de l'Ontario pour dévoiler les tendances et les défis, désormais disponibles sous forme de rapport REL dans la bibliothèque ouverte d'eCampusOntario, la plus grande bibliothèque ouverte au Canada.
-
-Au cours de notre session, nous fournirons des informations sur ce qu'est le CAPFO et mettrons en lumière les exigences particulières de la communauté minoritaire franco-ontarienne engagée dans l'apprentissage intégré au travail (AIT). Nous aborderons ensuite les ressources éducatives libres (REL), comment elles peuvent améliorer l'expérience des professeur.e.s dans l'AIT et dévoilerons quelques conclusions clés de notre rapport. Finalement, nous fournirons à notre public un guide REL afin qu'ils puissent initier l'expérimentation et la création de leurs propres REL.
 :::
+
 
  
 
 
 
-### Session 5.2 | Wildcard
-
-**Trottier 0070 (Session B) | Practice**
-
-#### 9:30 - 10:30 | Unveiling the Future of Language Teaching and Acquisition: Exploring the Conflation of Cultural Historical Activity Theory, and Generative AI
 
 
 
+### Session # | Theme
 
-**Tanya Dixit & Michael Paskevicius** | *University of Victoria*
+**Location**
 
+#### Time | Title
+
+**Research**
+
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-
-Contemporary technology trends in education are profoundly reshaping the design of teaching and learning languages. This trajectory, Li (2017) observes, can be largely attributed to the "development of learning theories and pedagogical considerations" (p.3) alongside several other contributing factors, a sentiment echoed by Blake (2009) and Heift and Chapelle (2012) who confirm the far-reaching influence and potential of CALL, which further offers substantial promise to refine and enhance second language (L2) acquisition. Moreover, these scholars unanimously agree that technology integration and implementation should be firmly grounded in research built upon theoretical foundations. Hence, conjoining Cultural Historical Activity Theory (CHAT) (Engeström, 1987) and the affordances of generative AI, exemplified by ChatGPT, this presentation looks at transformative opportunities in which current AI bots can reform classroom teaching-learning discourse. This comprehensive awareness about AI's potentiality to revamp instructional methods, improve learner engagement, and offer avenues for personalizing and differentiating instruction is to be deemed essential not only for equipping stakeholders with the knowledge to navigate the nuances and challenges inherent in optimizing language acquisition experiences, but also to set the stage for a future where learners and educators can seamlessly integrate cutting-edge tools and technologies into improving the language acquisition experience. 
+### Abstract
 
 :::
 
 
 
-#### 10:00 - 10:30 | Personalized learning path in a course on digital technology for secondary education programs
 
-**Géraldine Heilporn, Alexandre Lepage, Audrey Raynault & Julie Chamberland** | *Université Laval*
+### Session # | Theme
+
+**Location**
+
+#### Time | Title
+
+**Research**
+
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-
-This communication presents the new design of a course on digital technology for teaching and learning, offered to students enrolled in in secondary education programs at Laval University (Quebec), based on the concept of adaptive learning. Following a diagnostic assessment questionnaire of their digital competency at the beginning of the semester, students are automatically assigned to three thematic activities aimed to develop their digital competency for transfer to secondary education. After working on a thematic activity for one week, students return to the classroom for peer-to-peer teaching and learning on these thematic activities, in a blended course modality alternating asynchronous (thematic activities) and synchronous classes (peer-to-peer teaching and learning). Temporary thematic support communities as well as disciplinary learning communities are set to encourage peer collaboration and support throughout the semester. At given timepoints during the semester, students also have to assess their peer collaboration and give them feedback a peer evaluation mechanism.
+### Abstract
 
 :::
 
-### Session 5.3 | Sustaining Positive Change
 
-**Trottier 2100 (Session C)**
 
-#### 9:30 - 10:30 | Developments in National OER Advocacy in Canada 
+### Session # | Theme
 
-**Ann Ludbrook** | *Toronto Metropolitan University*
+**Location**
 
-**Michael McNally** | *University of Alberta*
+#### Time | Title
+
+**Research**
+
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+### Abstract
 
-This 50-minute session builds upon the Canadian Association Research Libraries (CARL)’s National Advocacy Framework for Open Educational Resources (OER) in Canada (2023). It updates attendees on national OER advancements, and features insights from the Indigenous Knowledges and OER summit held in Vancouver in February 2024. The summit produced principles for working with Indigenous knowledges in OER, alongside discussions on progressing national OER advocacy. The session covers developments in policy, infrastructure, and francophone OER stemming from summits in 2022 and 2023. Reports from these events will be discussed, along with updates on ongoing federal budget consultations and the anticipated 2025 federal election. The audience will also have the opportunity to contribute ideas and strategies for national advocacy, via group discussion and polls.
 :::
+
 
 ## 12:15 - 12:45 | Break
 
   
 ## 12:45 - 1:45 | Concurrent Session 4 
 
-**All Session 6 Showcases are in the Trottier Mezzanine**
 
+### Session # | Theme
 
-### Showcase 6.1 | Sustaining Positive Change
+**Location**
 
-#### Redesigning Computing for Openness - the Ethics of Consuming Devices 
+#### Time | Title
 
-**Brian Sutherland** | *University of Toronto*
+**Research**
 
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-Have you started to accumulate old computing devices?   Why does the logic of computing involve repeated purchase and consumption of expensive "molded plastic epics" (Gabrys, 2011)?  Thinking back on calculation devices and this ethical problem of repeated consumption, the simple solar calculator stands out for its durability -- an energy harvesting strategy that doesn't use batteries, and it doesn't wear out.  Fifty year old solar powered calculators and other electronic devices which still work may be found. In this session, proposed for the Ethics in Design Conference Strand, I will review the history of energy harvesting information devices and their significant characteristics around sustainability, present response designs which engage various ethical questions around consumption, carbon production and degrowth, and discuss their usefulness as open designs and thought-artifacts in an iterative speculative design conversation around climate change.
-:::
-
-### Showcase 6.2  | Sustaining Positive Change
-
-####  A framework and model for engagement in open, online spaces
-
-
-**Michelle Harrison** | *Thompson Rivers University*
-
-**Michael Paskevicius** | *University of Victoria*
-
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-
-This design case provides an analysis of the creation of an innovative open educational practices (OEP) project “Rethink Learning Design”, designed to explore and implement critical approaches to learning and instructional design. We recognized that if we want to embrace the power of OEP to change teaching and learning practice we need to enable spaces that honor multiple voices and perspectives, co-create knowledge and challenge traditional roles and hierarchies supported in open pedagogical approaches. Two key goals guided our project: the development of a reader/resource based on open pedagogy principles, emphasizing inclusivity and participation, and the integration of a reflective practice framework to deepen engagement and bring about a shift in educational practices. In this session and design case we will outline our iterative design process, ethical considerations, and theoretical foundations, and student use and feedback, with the aim of sharing insights and templates for practitioners in diverse educational contexts. We will consider how we can approach design as a theory of action and consider ways to promote learner ownership, open scholarship, anonymity, and options for permanence through our learning design tool.
+### Abstract
 
 :::
 
-### Showcase 6.3  | Addressing Inequities
-
-#### Cultural Dimensions of Ethics in Design: Indigenous Knowledge & Online Course Media
 
 
+### Session # | Theme
 
-**Brian Lorraine** | *Simon Fraser University*
+**Location**
 
+#### Time | Title
+
+**Research**
+
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-This session delves into the intricate design process of an online Indigenous Ethnozoology course, exploring the tensions, challenges, and ethical considerations encountered during an 8-month redesign and development period. Originally authored by a Squamish knowledge holder, the course featured recorded lectures intertwining oral histories with western scientific perspectives. The transition to a new instructor, a professor of white settler descent, prompted critical reflection on retaining Indigenous knowledge while improving instructional effectiveness. Drawing on cognitive load theory and empirical studies on video engagement, the design team navigated the complexities of honoring oral traditions while enhancing student learning experiences. This case study highlights the necessity for robust frameworks addressing Indigenous knowledge protocols in educational design, underscored by ongoing critical reflection to confront colonial legacies and promote ethical practices.
+### Abstract
 
 :::
 
-### Showcase 6.4  | Addressing Inequities
 
-#### Moving Towards Design Justice through Multivocal Design in Health Education
 
-**Danielle Dilkes** | *University of Western Ontario*
+### Session # | Theme
 
+**Location**
+
+#### Time | Title
+
+**Research**
+
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-This Design Case features an interprofessional stroke care case for health and medical education that was developed through a participatory design process. The objectives of the case were to highlight the complexities of interprofessional care and prepare learners for interprofessional practice. The approach to developing this case draws on key Design Justice principles: those most impacted by a design should be central in the design process and that various types of expertise exist and have value. The stroke care case was co-developed with patients, or Lived Experience Experts (LEEs), and all members of an interdisciplinary stroke care team, or Subject Matter Experts (SMEs). Patients were invited to share their real experience of stroke care, which became the basis of the case. Each health care professional was given full control over how their roles were portrayed, and invited to craft and star in their scenes within the case. This process resulted in a multivocal media rich case that more accurately reflects real patient experience and the real scope of practice for different health professionals. In our Design Case Exhibit, we will share multimedia components of the final case, but we will also share design knowledge in support of a more general framework for participatory design that could account for some of the complications of co-design across institutional roles.
+### Abstract
 
 :::
+
+
+
+### Session # | Theme
+
+**Location**
+
+#### Time | Title
+
+**Research**
+
+**Author** | *Affiliation*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+:::
+
 
 ## 1:45 - 2:00 | Break
 
@@ -196,19 +207,19 @@ This Design Case features an interprofessional stroke care case for health and m
 
 
 
-### Session 7.1 | Sustaining Positive Change
 
-####  An e-Book of One's Own: Empowering Student Learning Journeys 
+### Session # | Theme
 
+**Location**
 
+#### Time | Title
 
-**Practice**
+**Research**
 
-**Terry Greene & Christian Metaxas** | *Trent University*
-
+**Author** | *Affiliation*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-Join our interactive session to explore the transformative initiative, "An e-Book of One's Own," designed to reshape the student experience in higher education. In a dynamic environment, participants will engage with Pressbooks, a powerful tool enabling students to craft personalized e-books showcasing their academic journey. The session emphasizes hands-on exploration, collaborative problem-solving, and interactive structures to work towards successful implementation. Reflective exercises simulate the student experience, fostering a deep understanding of the program's impact. This session is not a passive presentation; it's a collective effort to redefine educational experiences. Attendees will leave with practical insights, strategies for implementation, and a renewed vision for empowering students through digital innovation.
+### Abstract
 
 :::
+

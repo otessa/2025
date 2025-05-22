@@ -1,9 +1,5 @@
 # Wednesday, June 4 {.unnumbered}
 
-::: {.callout-tip}
-## Note!
-Online Sessions
-:::
 
 ## Times listed in this program are Pacific Daylight Time (Victoria, BC) 
 
@@ -11,7 +7,7 @@ Online Sessions
 
 ::: {.column width="33%"}
 <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-  <div class="card-header">Victoria, BC</div>
+  <div class="card-header"><b><font size="5">Victoria, BC</font></b></div>
   <div class="card-body">
    <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n1091/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
 </div>
@@ -22,7 +18,7 @@ Online Sessions
 
 ::: {.column width="34%"}
 <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-  <div class="card-header">Santa Fe, NM</div>
+  <div class="card-header"><b><font size="5">Santa Fe, NM</font></b></div>
   <div class="card-body">
    <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n231/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="172" height="27" allowtransparency="true"></iframe>
 </div>
@@ -36,7 +32,7 @@ Online Sessions
 
 
 <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-  <div class="card-header">Toronto, ON</div>
+  <div class="card-header"><b><font size="5">Toronto, ON</font></b></div>
   <div class="card-body">
    <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n250/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
 </div>

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "OTESSA 2024 Conference Program"
+  title: "OTESSA 2025 Online Conference Program"
   reader-mode: true
   date: "last-modified"
   date-format: "MMM D, YYYY [@] h:mm a z [(UTC]Z[)]"

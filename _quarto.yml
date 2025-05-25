@@ -8,12 +8,16 @@ book:
   date: "last-modified"
   date-format: "MMM D, YYYY [@] h:mm a z [(UTC]Z[)]"
   chapters:
-    - index.qmd
-    - jun02.qmd
-    - jun03.qmd
-    - jun04.qmd
-    - jun05.qmd
-    - jun06.qmd
+        - index.qmd
+        - part: "Online Sessions"
+          chapters:
+            - jun02.qmd
+            - jun03.qmd
+            - jun04.qmd
+        - part: "Streamed from Victoria and Toronto"
+          chapters:
+            - jun05.qmd
+            - jun06.qmd
 
 
 comments:

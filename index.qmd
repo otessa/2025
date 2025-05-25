@@ -49,12 +49,12 @@
 
  
 
-::: {.callout-important}
+<!-- ::: {.callout-important}
 [Check the OTESSA conference website for abstracts](https://otessa.org/2024/program) and any changes to this program. 
 
 Information about any changes to the program will also be available via the OTESSA Welcome Desk on the conference platform once the conference opens.
 
-:::
+::: -->
 
 All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/programs-policy/big-thinking). These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/programming-events/events-calendar)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
 

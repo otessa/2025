@@ -55,23 +55,97 @@
 
 (60 mins)
 
-## 1:45 - 2:00 | Break
-
-## 2:00 - 3:00 | Concurrent Session 7
-
-### Session # | Theme
+### Session 6.1
 
 **Location**
 
-#### Time | Title
+#### 12:45 - 1:35 | Open Publishing Unplugged: Unlocking Creativity and Collaboration
 
-**Research**
+**Workshop**
 
-**Author** | *Affiliation*
+**Karna Younger et al.** | *Loyola Marymount University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
 
 :::
 
+### Session 6.2a
+
+**Location**
+
+#### 12:45 - 1:05 | MicroDesign in Open/Higher Education
+
+**Research**
+
+**Hilary Schmidt et al.** | *Thompson Rivers University*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+:::
+
+### Session 6.2b
+
+**Location**
+
+#### 1:05 - 1:25 | Virtual Reality Museums: Redefining Engagement and Understanding in Cultural Heritage
+
+**Research**
+
+**Yuning Gao** | *New York University*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+:::
+
+### Session 6.2c
+
+**Location**
+
+#### 1:25 - 1:45 | AI as Creative Writing Coach: Exploring Human-AI Collaboration in Creative Writing Learning
+
+**Research**
+
+**Cinzia Pusceddu** | *Affiliation*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+:::
+
+## 1:45 - 2:00 | Break
+
+## 2:00 - 3:00 | Concurrent Session 7
+
+### Session 7.1
+
+**Location**
+
+#### 2:00 - 2:50 | Exploring the Intersection of Agriculture, Technology, and Game-Based Learning
+
+**Workshop**
+
+**Patricia Dennis** | *Affiliation*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+:::
+
+### Session 7.2
+
+**Location**
+
+#### 2:00 - 2:50 | Educational Pathways to Access, Support, Hope, Transformation, and Opportunities (ePASHTO)
+
+**Research**
+
+**Marguerite Koole** | *University of Saskatchewan*
+
+::: {.callout-note collapse="true"}
+### Abstract
+
+:::
  

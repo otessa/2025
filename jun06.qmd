@@ -41,14 +41,92 @@
 :::
 ::::
 
-## 9:10 - 10:10 PDT | Presidential Address | Valerie Irvine & Stephanie Moore
-//todo #1
-## 10:00 - 11:00 PDT | Keynote | Jean-Paul Restoule
+## 9:10 - 10:10 PDT | Presidential Address | Valerie Irvine (UVic) & Stephanie Moore (UNM)
 
-## 1:45 - 2:05 | Publication Pathways | Michele Jacobsen & Valerie Irvine
+## 10:15 - 11:15 PDT | Keynote | Jean-Paul Restoule (UVic)
+
+## 11:30 - 12:30 | Concurrent Session 4
+
+### Session 4.1
+
+#### 11:30 - 11:35 | Instructional design analytics in practice: Converting a multi-course graduate bridging program from blended-synchronous to blended-asynchronous delivery using risk-based and qualitative research techniques
+
+**Practice**
+
+**Deborah Exelby** | *Athabasca University*
+
+::: {.callout-note collapse="true"}
+### Abstract
+Identifying which synchronous teaching-learning activities in a blended learning program should/could be converted to asynchronous technology-enabled delivery is a real-world problem encountered by many instructional designers. Risk-based instructional design analytics are an effective, efficient, and evidence-based approach for identifying misaligned learning outcomes and content gaps; appropriate teaching-learning activities; justifiable delivery and interaction methods; and targets to concentrate time, effort, and resources for meeting learning objectives and redesign parameters.  This ‘how to’ presentation will outline a solution for restructuring an existing multi-course higher education program using a risk-based mapping process for curriculum analysis and redesign decision-making. How a current state curriculum was coded, analyzed, and reorganized using triangulation of three sequential techniques is presented: 1) mapping of program (PLO) and course learning outcome (CLO) mastery requirements based on Bloom’s taxonomy (introduce, reinforce, mastery); 2) coding PLO failure risk based on the potential impact of not learning the content to the required mastery level (low, medium, high); and 3) sorting of CLOs based on keywords, into topics (course lessons) and then into themes (courses).
+
+This session demonstrates how instructional design analytics were used successfully in real-world practice to codify and sort existing curricula for program redesign.
+:::
+
+### Session 4.2a
+
+**Location**
+
+#### 11:30 - 11:50 | Open Access and the Habitual Use of Crown Photography of Indigenous Children: Ethical Implications
+
+**Research**
+
+**Shawl-Song** | *Affiliation*
+
+::: {.callout-note collapse="true"}
+### Abstract
+The go-to images representing the history of Canada’s Indian Residential Schools (IRS) are of identifiable Indigenous children. As technological advances afford open access to the now digitized photographs, consideration for the child’s right to agency over self is often ignored. Using a social semiotic framework, historical images present alongside paradigmatic relationships to demonstrate the gaps apparent between ethics, Copyright Canada law, child advocacy and social norms. Hundreds of unpublished analogue photographs have passed into provincial and federal archival holdings where copyright remains in perpetuity with the Crown. In cases of academic research and curriculum content design, ethics approval or community engagement are currently not needed when utilizing these images. Many of these children could still be alive today and hold no agency over the photographs. While copyright law serves to protect the creators and users of a photograph, there are no ethical guidelines for the use, dissemination or protection of images of children. This presentation concludes with the demonstration of an interactive reflexive tool developed from the author’s master’s thesis. This tool facilitates ethical consideration beyond the systemic use of ‘Fair Dealing for Educational Purposes’ and may serve to highlight efforts around the privacy and protection of children in research and education.
+:::
+
+## 12:30 - 1:45 | Lunch
+
+## 1:45 - 2:05 | Publication Pathways | Michele Jacobsen (UCalgary) & Valerie Irvine (UVic)
 
 ## 2:05 - 2:15 | Break
 
-## 2:15 - 3:15 | Victoria Concurrent
+## 2:15 - 3:15 | Session 5
 
-## 3:15 - 3:30 | Online Closing - Jon Dron
+### Session 5.1
+
+**Location**
+
+#### 2:15 - 2:35 | Developing the Technology-integrated Assessment Scale
+
+**Research**
+
+**Colin Madland** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+### Abstract
+"This presentation will highlight the process of building and testing a new scale intended to help researchers understand the Technology-integrated Assessment Framework (TIAF) and how it functions in higher education. In 2024, we published a description of the development of the TIAF (Madland et al., 2024), highlighting four factors related to technology-integrated assessment: (1) assessment purposes, (2) the duty of care owed by instructors to learners, (3) factors influencing technology acceptance, and (4) assessment design. Our current work is focused on understanding how these four factors within the TIAF framework can be operationalized. We will share our process of designing the scale, including defining the key constructs, identifying parameters, and framing parameters as items on the scale. We will also share preliminary results from our pilot study using the first draft of the scale. This session will be of interest to undergraduate and graduate students as well as researchers, faculty members, and administrators seeking to refresh their skills in scale development and anyone interested in assessment in higher education.
+:::
+
+### Session 5.2a
+
+
+**Location**
+
+#### 2:15 - 2:35 | From Mobile Learning to Artificial Intelligence: Evolving UTAUT Constructs in Educational Technology Adoption
+
+**Research**
+
+**Caleb Or** | *Singapore Institute of Technology*
+
+::: {.callout-note collapse="true"}
+### Abstract
+Forthcoming
+:::
+
+### Session 5.2b
+
+#### 2:35 - 2:55 | The Impact of Sense of Belonging on Emotion Regulation in Online Collaborative Learning: A Cross-Case Comparison of Small Groups
+
+**Research**
+
+**Yeeun Choi & Mariel Miller** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+### Abstract
+This study explores how a sense of belonging impacts the regulation of emotion in the face of challenge during online collaboration.  A cross-case analysis was conducted between two groups who experienced similar emotions during a negative experience but reported contrasting levels of sense of belonging. Data include video recordings of collaborative exams and post-exam reflections to gain in-depth qualitative insights into learners' perceptions and regulation strategies. By adopting self-regulated learning (SRL) framework, the study seeks to understand how students cope with negative experiences during collaboration, and to what extent their sense of belonging impacts their strategic management of challenges. Findings inform evidence-based guidelines for designing online collaborative learning experiences that not only support students’ emotion regulation but also create supportive online environments.
+:::
+
+<!-- ## 3:15 - 3:30 | Online Closing - Jon Dron -->

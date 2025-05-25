@@ -54,10 +54,10 @@
 
 **Location**
 
-## 10:00 - 10:15 | Break
+## 11:00 - 11:15 | Break
 
 
-## 10:15 - 11:15 | Concurrent Session 1 | Advancing Digital Education and AI-Infused Pedagogies
+## 11:15 - 12:15 | Concurrent Session 1 | Advancing Digital Education and AI-Infused Pedagogies
 
 (60 Mins)
 

@@ -113,13 +113,11 @@
 ### Abstract
 :::
 
-
-
 ### Session 4.2b
 
 **Location**
 
-#### 12:45 - 1:05 | Creating Whiteboard Animations to Explain Tooth Microanatomy
+#### 1:05 - 1:25 | Creating Whiteboard Animations to Explain Tooth Microanatomy
 
 **Research**
 
@@ -134,7 +132,7 @@
 
 **Location**
 
-#### 1:05 - 1:25 | Developing a Mobile App for Oral Histology
+#### 1:25 - 1:45 | Developing a Mobile App for Oral Histology
 
 **Research**
 

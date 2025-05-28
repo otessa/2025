@@ -47,12 +47,12 @@
 ## 11:00 - 11:15 | Break
 
 
-## 11:15 - 12:15 | Concurrent Session 1 | Streamed from Victoria
+## 11:15 - 12:15 | Concurrent Session 8 | Streamed from Victoria
 
 (60 Mins)
 
 
-### Session 1.1a
+### Session 8.1a
 
 **Location**
 
@@ -73,7 +73,7 @@
 Globally, the demand for online education has surged, driven by the need for flexible and accessible learning (Johnson, 2023; Quality Matters, 2023) and dramatically escalated by the COVID-19 pandemic (Cui et al. 2022). In 2024, Cui et al. noted that doctoral level education in educational technology will “build critical capacity for leading research and driving transformation in policy and practice”. In this study we contend that while doctoral-level  expertise and leadership is vital, it is widespread access to flexible post-graduate education and training for current and upcoming educators and practitioners that will support system-wide upskilling for ongoing digital transformation. In 2019, and in 2024, we surveyed the global landscape of masters-level education related to educational technologies and digital learning. Currently, 39 institutions offer 65 master’s degree programs in this field. Surprisingly, only eight new master’s degree programs in educational technology launched globally, post-pandemic. However, we did discover extensive curricular rebalancing. Here, we report on the current state of master’s level education in educational technology,  curricular expansions in topic areas that including management, planning and leadership, research methods, technical aspects of design, data and analytics, emerging issues & technologies, and instructional strategies, and we consider how these reflect current educational needs.
 :::
 
-### Session 1.1b
+### Session 8.1b
 
 #### 11:35 - 11:55 | Cultivating GenAI Literacy – Moving Past AI Pedagogy’s Hype
 
@@ -88,7 +88,7 @@ In this session, I examine the relationship between GenAI and pedagogy in higher
 :::
  
 
-### Session 1.2
+### Session 8.2
 
 **Location**
 
@@ -108,17 +108,17 @@ This workshop will provide an overview of how you can use your grading architect
 
 ## 1:30 - 2:30 PDT | Keynote | George Veletsianos
 
-## 2:45 - 3:45 | Concurrent Session 2 
+## 2:45 - 3:45 | Concurrent Session 9 
 
 (60 Mins)
 
 
 
-### Session 2.1a
+### Session 9.1a
 
 **Location**
 
-#### 2:45 - 3:05 | Social Representations of Parents from Rural Areas Regarding Access and Use of Digital Technology
+#### 2:45 - 3:05 | The Social Representations of Parents from Rural Backgrounds Regarding the Use and Access to Digital Technologies Among Their Children and Adolescents
 
 <!-- //todo #2 -->
 
@@ -131,8 +131,9 @@ This workshop will provide an overview of how you can use your grading architect
 From the very beginning of the COVID-19 pandemic, digital technologies proved to be essential for the functioning of society (INSPQ, 2021). However, behind the apparent "hyperconnectivity" of young people, they are not exempt from digital inequalities (CEFRIO, 2017), and most importantly, they are not innate experts in these technologies (Yagoubi, 2020). Moreover, parents are the closest authority figures to young people regarding the "virtual world" (Reginasari et al., 2021). On the other hand, they may experience a certain ambivalence towards digital technology. Using the conceptual framework of social representations (Moscovici, 1961, 1976), this qualitative research, originating from a master's thesis in social work, analyzes the discourse of 10 parents living in rural areas of Saguenay-Lac-Saint-Jean during the COVID-19 pandemic. The results indicate that they acquired knowledge of videoconferencing, which allowed them to continue their daily lives and ensure their children's education. Some were able to develop a more positive attitude towards technology, while others experienced exhaustion or fatigue related to digital usage. Additionally, parents have a techno-deterministic view of digital technology and remain under the impression that young people have abilities they themselves do not possess (the "digital native" myth). This study can help professionals better understand the digital issues faced by parents and integrate them into their practice, whether in social work or the educational field.
 :::
 
+### Session 9.1b
 
-
+**Location**
 
 #### 3:05 - 3:25 | Digital Learning for Innovative Teaching: Adopting a Competency-Based Approach
 
@@ -147,7 +148,7 @@ The Digital Learning Competency Framework developed at Vancouver Community Colle
 :::
 
 
-### Session 2.2
+### Session 9.2
 
 **Location**
 
@@ -164,11 +165,11 @@ When discussing assessment, we often focus primarily on assessment of learning (
 
 ## 3:45 - 4:00 | Break
 
-## 4:00 - 5:00 | Concurrent Session 3
+## 4:00 - 5:00 | Concurrent Session 10
 
 (60 mins)
 
-### Session 3.1a
+### Session 10.1a
 
 **Location**
 
@@ -183,7 +184,7 @@ When discussing assessment, we often focus primarily on assessment of learning (
 
 ::: 
 
-### Session 3.1b
+### Session 10.1b
 
 **Location**
 
@@ -200,7 +201,7 @@ When discussing assessment, we often focus primarily on assessment of learning (
 
 ::: 
 
-### Session 3.2
+### Session 10.2
 
 **Location**
 

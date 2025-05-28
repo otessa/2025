@@ -45,9 +45,9 @@
 
 ## 10:15 - 11:15 PDT | Keynote | Jean-Paul Restoule (UVic)
 
-## 11:30 - 12:30 | Concurrent Session 4
+## 11:30 - 12:30 | Concurrent Session 11
 
-### Session 4.1
+### Session 11.1
 
 #### 11:30 - 11:35 | Instructional design analytics in practice: Converting a multi-course graduate bridging program from blended-synchronous to blended-asynchronous delivery using risk-based and qualitative research techniques
 
@@ -62,7 +62,7 @@ Identifying which synchronous teaching-learning activities in a blended learning
 This session demonstrates how instructional design analytics were used successfully in real-world practice to codify and sort existing curricula for program redesign.
 :::
 
-### Session 4.2a
+### Session 11.2a
 
 **Location**
 
@@ -83,9 +83,9 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 
 ## 2:05 - 2:15 | Break
 
-## 2:15 - 3:15 | Session 5
+## 2:15 - 3:15 | Session 12
 
-### Session 5.1
+### Session 12.1
 
 **Location**
 
@@ -100,7 +100,7 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 This presentation will highlight the process of building and testing a new scale intended to help researchers understand the Technology-integrated Assessment Framework (TIAF) and how it functions in higher education. In 2024, we published a description of the development of the TIAF (Madland et al., 2024), highlighting four factors related to technology-integrated assessment: (1) assessment purposes, (2) the duty of care owed by instructors to learners, (3) factors influencing technology acceptance, and (4) assessment design. Our current work is focused on understanding how these four factors within the TIAF framework can be operationalized. We will share our process of designing the scale, including defining the key constructs, identifying parameters, and framing parameters as items on the scale. We will also share preliminary results from our pilot study using the first draft of the scale. This session will be of interest to undergraduate and graduate students as well as researchers, faculty members, and administrators seeking to refresh their skills in scale development and anyone interested in assessment in higher education.
 :::
 
-### Session 5.2a
+### Session 12.2a
 
 
 **Location**
@@ -116,7 +116,7 @@ This presentation will highlight the process of building and testing a new scale
 Forthcoming
 :::
 
-### Session 5.2b
+### Session 12.2b
 
 #### 2:35 - 2:55 | The Impact of Sense of Belonging on Emotion Regulation in Online Collaborative Learning: A Cross-Case Comparison of Small Groups
 

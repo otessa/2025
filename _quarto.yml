@@ -11,6 +11,7 @@ book:
         - index.qmd
         - part: "Online Sessions"
           chapters:
+            - may29.qmd
             - jun02.qmd
             - jun03.qmd
             - jun04.qmd

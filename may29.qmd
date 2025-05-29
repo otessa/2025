@@ -1,0 +1,57 @@
+# Thursday, May 29 {.unnumbered}
+
+## Times listed in this program are Pacific Daylight Time (Victoria, BC) 
+
+:::: {.columns}
+
+::: {.column width="33%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header"><b><font size="5">Victoria, BC</font></b></div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n1091/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+
+::: {.column width="34%"}
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header"><b><font size="5">Santa Fe, NM</font></b></div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n231/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="172" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+
+:::
+
+::: {.column width="33%"}
+
+
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header"><b><font size="5">Toronto, ON</font></b></div>
+  <div class="card-body">
+   <div> <iframe src="https://free.timeanddate.com/clock/i9wk0yr8/n250/fs22/fcfff/tct/pct/ftb/ts1/ta1" frameborder="0" width="168" height="27" allowtransparency="true"></iframe>
+</div>
+  </div>
+</div>
+
+:::
+::::
+
+
+## 11:00 - 12:00 PDT | Keynote | Thomas Reeves 
+
+### Reframing Togetherness: Shifting our focus from technology to problems
+
+::: {.callout-note}
+This session will be recorded and the recording will be made available during the conference.
+:::
+
+Keeping in mind the overall theme of “Reframing Togetherness,” this presentation will emphasize the need to change the focus of our research in educational technology from “things” such as Generative AI or Virtual Reality to serious problems such as educational inequity or absenteeism. Unfortunately, much of our research continues to be focused on things rather than problems. Today, I will present an updated and more urgent perspective on this issue. I will recommend three important directions for research in our field. 
+
+1. We must conduct research in ways that influence practice.
+2. Our research must rigorously account for time-on-task and other hidden factors.
+3. Our research must clarify the nature of innovations using a common set of critical learning design factors.

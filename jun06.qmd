@@ -49,7 +49,9 @@
 
 ### Session 11.1
 
-#### 11:30 - 11:35 | Instructional design analytics in practice: Converting a multi-course graduate bridging program from blended-synchronous to blended-asynchronous delivery using risk-based and qualitative research techniques
+**Location: CLE B007**
+
+#### 11:30 - 11:50 | Instructional Design Analytics in Practice: Converting a Multi-Course Graduate Bridging Program from Blended-Synchronous to Blended-Asynchronous Delivery Using Risk-Based and Qualitative Research Techniques
 
 **Practice**
 
@@ -64,7 +66,7 @@ This session demonstrates how instructional design analytics were used successfu
 
 ### Session 11.2a
 
-**Location**
+**Location: CLE B017**
 
 #### 11:30 - 11:50 | Open Access and the Habitual Use of Crown Photography of Indigenous Children: Ethical Implications
 
@@ -85,7 +87,7 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 
 ## 2:15 - 3:15 | Session 12
 
-### Session 12.1
+### Session 12.1a
 
 **Location**
 
@@ -100,12 +102,11 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 This presentation will highlight the process of building and testing a new scale intended to help researchers understand the Technology-integrated Assessment Framework (TIAF) and how it functions in higher education. In 2024, we published a description of the development of the TIAF (Madland et al., 2024), highlighting four factors related to technology-integrated assessment: (1) assessment purposes, (2) the duty of care owed by instructors to learners, (3) factors influencing technology acceptance, and (4) assessment design. Our current work is focused on understanding how these four factors within the TIAF framework can be operationalized. We will share our process of designing the scale, including defining the key constructs, identifying parameters, and framing parameters as items on the scale. We will also share preliminary results from our pilot study using the first draft of the scale. This session will be of interest to undergraduate and graduate students as well as researchers, faculty members, and administrators seeking to refresh their skills in scale development and anyone interested in assessment in higher education.
 :::
 
-### Session 12.2a
-
+### Session 12.1b
 
 **Location**
 
-#### 2:15 - 2:35 | From Mobile Learning to Artificial Intelligence: Evolving UTAUT Constructs in Educational Technology Adoption
+#### 2:35 - 2:55 | From Mobile Learning to Artificial Intelligence: Evolving UTAUT Constructs in Educational Technology Adoption
 
 **Research**
 
@@ -116,7 +117,24 @@ This presentation will highlight the process of building and testing a new scale
 Forthcoming
 :::
 
+### Session 12.2a
+
+**Location**
+
+#### 2:15 - 2:35 | Title to Come
+
+**Practice**
+
+**Valerie Irvine** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+### Abstract
+Forthcoming
+:::
+
 ### Session 12.2b
+
+**Location: CLE B017**
 
 #### 2:35 - 2:55 | The Impact of Sense of Belonging on Emotion Regulation in Online Collaborative Learning: A Cross-Case Comparison of Small Groups
 
@@ -129,4 +147,13 @@ Forthcoming
 This study explores how a sense of belonging impacts the regulation of emotion in the face of challenge during online collaboration.  A cross-case analysis was conducted between two groups who experienced similar emotions during a negative experience but reported contrasting levels of sense of belonging. Data include video recordings of collaborative exams and post-exam reflections to gain in-depth qualitative insights into learners' perceptions and regulation strategies. By adopting self-regulated learning (SRL) framework, the study seeks to understand how students cope with negative experiences during collaboration, and to what extent their sense of belonging impacts their strategic management of challenges. Findings inform evidence-based guidelines for designing online collaborative learning experiences that not only support students’ emotion regulation but also create supportive online environments.
 :::
 
-<!-- ## 3:15 - 3:30 | Online Closing - Jon Dron -->
+## 3:15 - 3:30 | Break
+
+### Insight Spotlight
+
+**Location: CLE A127**
+
+#### 3:30 - 4:30 | Facilitated Synthesis of Insights from Across the Conference, Culminating in Forward-Looking Actions to Tackle our Biggest Challenges and Grand Challenges
+
+**Valerie Irvine & Mariel Miller** | *University of Victoria*
+

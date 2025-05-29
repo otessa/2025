@@ -46,7 +46,6 @@
 
 ## 11:00 - 11:15 | Break
 
-
 ## 11:15 - 12:15 | Concurrent Session 8
 
 (60 Mins)
@@ -54,12 +53,11 @@
 
 ### Session 8.1a
 
-**Location**
+**Location: CLE B007**
 
 #### 11:15 - 11:35 | Creating Capacity for Digital Transformation
 
 **Research**
-
 
 **Leah Macfadyen** | *University of British Columbia* 
 
@@ -73,24 +71,9 @@
 Globally, the demand for online education has surged, driven by the need for flexible and accessible learning (Johnson, 2023; Quality Matters, 2023) and dramatically escalated by the COVID-19 pandemic (Cui et al. 2022). In 2024, Cui et al. noted that doctoral level education in educational technology will “build critical capacity for leading research and driving transformation in policy and practice”. In this study we contend that while doctoral-level  expertise and leadership is vital, it is widespread access to flexible post-graduate education and training for current and upcoming educators and practitioners that will support system-wide upskilling for ongoing digital transformation. In 2019, and in 2024, we surveyed the global landscape of masters-level education related to educational technologies and digital learning. Currently, 39 institutions offer 65 master’s degree programs in this field. Surprisingly, only eight new master’s degree programs in educational technology launched globally, post-pandemic. However, we did discover extensive curricular rebalancing. Here, we report on the current state of master’s level education in educational technology,  curricular expansions in topic areas that including management, planning and leadership, research methods, technical aspects of design, data and analytics, emerging issues & technologies, and instructional strategies, and we consider how these reflect current educational needs.
 :::
 
-### Session 8.1b
-
-#### 11:35 - 11:55 | Cultivating GenAI Literacy – Moving Past AI Pedagogy’s Hype
-
-**Research**
-
-**Gwen Nguyen** | *BCcampus*
-
-::: {.callout-note collapse="true"}
-### Abstract
-
-In this session, I examine the relationship between GenAI and pedagogy in higher education, challenging the notion of AI pedagogy while advocating for critical and mindful integration of AI tools within existing pedagogical frameworks. Drawing on the recent literature on digital pedagogies and practical experiences, I argue that while AI tools can enhance educational outcomes, they cannot replace the fundamental human elements that define true pedagogy, including empathy, ethical reasoning, critical thinking, and creativity. This session aims to contribute to the ongoing dialogue about the role of AI in higher education by proposing a practical framework for cultivating AI literacy among educators while maintaining the essential human-centered approach to teaching and learning.
-:::
- 
-
 ### Session 8.2
 
-**Location**
+**Location: CLE B017**
 
 #### 11:15 - 12:05 | Assessment for Equity: Openness and DEI in your grading architecture (WorkShop)
 
@@ -112,10 +95,9 @@ This workshop will provide an overview of how you can use your grading architect
 
 (60 Mins)
 
-
 ### Session 9.1a
 
-**Location**
+**Location: CLE B007**
 
 #### 2:45 - 3:05 | The Social Representations of Parents from Rural Backgrounds Regarding the Use and Access to Digital Technologies Among Their Children and Adolescents
 
@@ -132,7 +114,7 @@ From the very beginning of the COVID-19 pandemic, digital technologies proved to
 
 ### Session 9.1b
 
-**Location**
+**Location: CLE B007**
 
 #### 3:05 - 3:25 | Digital Learning for Innovative Teaching: Adopting a Competency-Based Approach
 
@@ -146,10 +128,9 @@ The Digital Learning Competency Framework developed at Vancouver Community Colle
 
 :::
 
-
 ### Session 9.2
 
-**Location**
+**Location: CLE B017**
 
 #### 2:45 - 3:35 | Designing Assessment As, Of, and For Learning with GenAI tools (Workshop)
 
@@ -170,7 +151,7 @@ When discussing assessment, we often focus primarily on assessment of learning (
 
 ### Session 10.1a
 
-**Location**
+**Location: CLE B007**
 
 #### 4:00 - 4:20 | Exploring the Opportunities and Limitations of Immersive Technologies in Education
 
@@ -185,11 +166,9 @@ When discussing assessment, we often focus primarily on assessment of learning (
 
 ### Session 10.1b
 
-**Location**
+**Location: CLE B007**
 
 #### 4:20 - 4:40 | 3D Printing Resources for the Elementary Classroom
-
-
 
 **Research**
 
@@ -202,7 +181,7 @@ When discussing assessment, we often focus primarily on assessment of learning (
 
 ### Session 10.2
 
-**Location**
+**Location: CLE B017**
 
 #### 4:00 - 4:50 | AI, Oh My! Teaching, Cheating, and Surviving the ChatGPT Era
 
@@ -217,5 +196,13 @@ The widespread gain in popularity of artificial intelligence, such as ChatGPT, h
 Using data from a survey of university instructors, we will present themes from a qualitative analysis of responses to several AI and teaching-related questions, examining such things as familiarity with AI, supports needed for implementation, and trends across courses. We will also consider ethical implications and unintended consequences of technological interventions, emphasizing the importance of aligning digital tools with pedagogical goals. We discuss literature related to student engagement, academic integrity, and the evolving role of AI in education. By combining real-world perspectives from faculty with a critical review of emerging solutions, we aim to provide a balanced perspective on integrating AI technology into teaching pedagogy. 
 :::
 
+## 5:00 - 5:30 | Travel Break
 
+## Off Site Social Event
+
+**Location: Sticky Wicket Rooftop Patio, Downtown Victoria**
+
+####  5:30 - Late | Get to Know Each Other
+
+::: 
 

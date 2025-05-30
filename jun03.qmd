@@ -67,15 +67,24 @@ The Fifth Industrial Revolution (5IR) highlights the collaboration between human
 ### Session 3.2
 
 
-#### 11:15 - 11:35 | How Are Post-Secondary Educators Navigating the AI Revolution?
+#### 11:15 - 11:35 | Addressing the Assumption that Online Learning is Intuitive: An OER for Learning to Learn Online
 
-**Research**
+**Practice**
 
-**Adam Vanzella Yang** | *The Conference Board of Canada*
+### Session 2.2b
+
+**Kristin Petrovic et al.** |  *Athabascau University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Generative artificial intelligence (AI) promises to reshape how we teach and learn. Yet, little is known about how educators are navigating the AI revolution. In this study, we discuss findings from a national survey of post-secondary educators in Canada (N=402). We found that most educators have neither explicitly permitted nor prohibited student use of AI tools. Notably, 80% reported not receiving any formal guidance or training from their institutions. There is a strong demand for professional development in this area, with educators seeking training for both themselves and their students. Key concerns about generative AI include its potential for facilitating cheating, the submission of unoriginal work, and its impact on students’ critical thinking and independent learning. However, educators are more open to the use of AI for secondary tasks such as translation, general research and knowledge acquisition, and grammar assistance. Educators who use generative AI more frequently tend to be more optimistic about its potential, although they remain wary of its ethical implications and possible threats to the integrity and reliability of knowledge. Overall, educator attitudes toward AI are complex and multifaceted. To effectively integrate AI, institutions must consider the diverse needs of different disciplines, professional practices, and individual experiences with this technology. 
+Primary and secondary schooling in North America is generally situated around the traditional model of in-person teaching and learning. As such, when entering post-secondary education, most people already have a sense of how to learn in the place-based setting. However, if moving to a different mode of education, such as the online environment, it is essential to support the necessary shift in understanding how to learn within this context.
+
+To meet the needs of those learning to learn online, faculty from programs including Counseling Psychology and Undergraduate and Graduate Nursing in the Faculty of Health Disciplines at Athabasca University collaborated to adapt an e-book open educational resource (OER) to facilitate how to adjust and thrive in the online learning environment.
+
+In this presentation, we share the overall aim of adapting this OER, the main topics addressed in the e-book, as well as processes and practices that the faculty implemented as they collaborated to develop and adapt this resource. Finally, we share recommendations related to supporting learners to learn online as well as our strategies for addressing the pragmatic aspects of adapting an OER for use across different programs in an online post-secondary environment.
+:::
+
+ 
 :::
  
 ## 12:15 - 12:45 | Break

@@ -144,8 +144,6 @@ This session introduces the Emotional Trajectory Model (ETM), a computational fr
 
 ### Session 2.1
 
-
-
 #### 11:45 - 12:35 | AI and Human-Centered Open Education: Sopala: An Innovative Model for K-12 Education
 
 **Research**
@@ -178,8 +176,6 @@ The proposed presentation is part two of a study shared in the June 2024 OTESSA 
 
 ### Session 2.2b
 
-
-
 #### 12:05 - 12:25 | Addressing the Assumption that Online Learning is Intuitive: An OER for Learning to Learn Online
 
 **Practice**
@@ -197,8 +193,6 @@ In this presentation, we share the overall aim of adapting this OER, the main to
 
 ### Session 2.2c
 
-
-
 #### 12:25 - 12:45 | Yes, You Can: Research With Adult Trauma Survivors Who Learn Online
 
 **Practice**
@@ -207,16 +201,12 @@ In this presentation, we share the overall aim of adapting this OER, the main to
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Trauma-informed pedagogy and educational practices are rapidly gaining traction in higher education, with increasing interest from faculty and staff, administrators, and government policymakers (see, for example, Government of British Columbia, 2023). While the volume of scholarly publications in these areas has increased rapidly over the past few years, literature on trauma-informed pedagogy and practice in postsecondary education continues to consist primarily of practitioner reflections, with a paucity of empirical research (Anderson et al., 2023). As far as I am aware, my own publications (Author, 2023, 2024, in press) comprise the first peer-reviewed research to examine trauma-informed practice for open/online higher education. Given survivors’ preference for hybrid and online learning (Werkmeister, 2024), the relative lack of research in this area represents a troubling gap. Particularly concerning is the dearth of scholarly literature that centres survivors as learners, contradicting the fundamental principle of collaboration in a trauma-informed approach.
+Trauma-informed educational practices are rapidly gaining traction in higher education, with increasing interest from faculty and staff, administrators, and government policymakers. While the volume of scholarly publications in this area has increased over the past few years, literature on trauma-informed pedagogy and practice in higher education continues to consist primarily of practitioner reflections, with a paucity of empirical research (Anderson et al., 2023). As far as I am aware, my own publications (Schmidt, 2023, 2024, in press) comprise the first peer-reviewed research to examine trauma-informed practice for open/online higher education. Given survivors’ preference for hybrid and online learning (Werkmeister, 2024), the relative lack of research in this area represents a troubling gap. Particularly concerning is the dearth of scholarly literature that centres survivors, contradicting the fundamental principle of collaboration in a trauma-informed approach.
 
-This session aims to support educational researchers contemplating or embarking upon collaboration with adult trauma survivors who learn in open and online settings. Using evidence from prior studies and meta-analyses, the session will dispel common myths (e.g., “survivors are too fragile to participate” or “you’ll never get research ethics board approval”) and dismantle barriers that may discourage researchers from engaging in these projects.
-
-Based on my experience conducting a study with adult complex trauma survivors who learn online, and grounded in the Substance Abuse and Mental Health Service Administration’s (SAMHSA’s) (2014) classic guidelines for trauma-informed practice, the session will provide practical guidance for implementing respectful, collaborative research relations with survivors who in open and online settings; ensuring safety for researchers and participants; and attaining institutional research ethics board approval.
+This session aims to support researchers considering projects that centre adult trauma survivors who learn in open/online settings. Using SAMHSA’s (2014) guidelines for trauma-informed practice, the session dispels myths, dismantles barriers, and provides practical guidance for implementing respectful, collaborative research relations with survivors, ensuring safety for researchers and participants, and attaining institutional research ethics board approval.
 :::
 
 ### Session 2.3a
-
-
 
 #### 11:45 - 12:05 | “Generating” Equity? Why Generative AI-Powered Education Necessitates Integration of Critical Algorithm Studies
 

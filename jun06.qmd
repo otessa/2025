@@ -59,7 +59,11 @@
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Identifying which synchronous teaching-learning activities in a blended learning program should/could be converted to asynchronous technology-enabled delivery is a real-world problem encountered by many instructional designers. Risk-based instructional design analytics are an effective, efficient, and evidence-based approach for identifying misaligned learning outcomes and content gaps; appropriate teaching-learning activities; justifiable delivery and interaction methods; and targets to concentrate time, effort, and resources for meeting learning objectives and redesign parameters.  This ‘how to’ presentation will outline a solution for restructuring an existing multi-course higher education program using a risk-based mapping process for curriculum analysis and redesign decision-making. How a current state curriculum was coded, analyzed, and reorganized using triangulation of three sequential techniques is presented: 1) mapping of program (PLO) and course learning outcome (CLO) mastery requirements based on Bloom’s taxonomy (introduce, reinforce, mastery); 2) coding PLO failure risk based on the potential impact of not learning the content to the required mastery level (low, medium, high); and 3) sorting of CLOs based on keywords, into topics (course lessons) and then into themes (courses).
+Identifying which synchronous teaching-learning activities in a blended learning program should/could be converted to asynchronous technology-enabled delivery is a real-world problem encountered by many instructional designers.
+
+Risk-based instructional design analytics are an effective, efficient, and evidence-based approach for identifying misaligned learning outcomes and content gaps; appropriate teaching-learning activities; justifiable delivery and interaction methods; and targets to concentrate time, effort, and resources for meeting learning objectives and redesign parameters.
+
+This ‘how to’ presentation will outline a solution for restructuring an existing multi-course higher education program using a risk-based mapping process for curriculum analysis and redesign decision-making. How a current state curriculum was coded, analyzed, and reorganized using triangulation of three sequential techniques is presented: 1) mapping of program (PLO) and course learning outcome (CLO) mastery requirements based on Bloom’s taxonomy (introduce, reinforce, mastery); 2) coding PLO failure risk based on the potential impact of not learning the content to the required mastery level (low, medium, high); and 3) sorting of CLOs based on keywords, into topics (course lessons) and then into themes (courses).
 
 This session demonstrates how instructional design analytics were used successfully in real-world practice to codify and sort existing curricula for program redesign.
 :::
@@ -72,7 +76,7 @@ This session demonstrates how instructional design analytics were used successfu
 
 **Research**
 
-**Shawl-Song** | *Affiliation*
+**Shawl-Song** | *Independent*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -129,7 +133,7 @@ This presentation will highlight the process of building and testing a new scale
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Forthcoming
+The Unified Theory of Acceptance and Use of Technology (UTAUT) has played a crucial role in understanding technology adoption in education. This study examines the evolution of UTAUT constructs over three technological periods: the Early Adoption Period (2003–2010), the Mobile and Social Media Boom (2011–2016), and the AI and Digital Transformation Era (2017–Present). Using a one-stage meta-analytic structural equation modelling (OSMASEM) approach, data from 73 studies were analysed to evaluate relationships among key constructs, including Performance Expectancy (PE), Effort Expectancy (EE), Social Influence (SI), Facilitating Conditions (FC), Behavioural Intention (BI), and Use Behaviour (UB). The findings revealed substantial variability across contexts and constructs, with BI consistently emerging as the strongest predictor of UB, underscoring its centrality in technology adoption. The influence of PE on BI increased over time, reflecting advancements in technology that enhanced performance outcomes. The importance of FC in predicting UB also grew, emphasising the role of infrastructure and technical support in adoption. These insights highlight the dynamic nature of UTAUT constructs, providing actionable recommendations for educators, policymakers, and technology developers to align strategies with evolving user needs and expectations in educational contexts. This study reinforces UTAUT’s relevance in addressing contemporary technological challenges.
 :::
 
 ### Session 12.2a
@@ -155,7 +159,7 @@ Forthcoming
 
 **Research**
 
-**Yeeun Choi & Mariel Miller** | *University of Victoria*
+**Yeeun Choi** & **Mariel Miller** | *University of Victoria*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -170,7 +174,7 @@ This study explores how a sense of belonging impacts the regulation of emotion i
 
 #### Facilitated Synthesis of Insights from Across the Conference, Culminating in Forward-Looking Actions to Tackle our Biggest Challenges and Grand Challenges
 
-**Valerie Irvine & Mariel Miller** | *University of Victoria*
+**Valerie Irvine** & **Mariel Miller** | *University of Victoria*
 
 ## 4:30 - Late |  Off Site Social Event
 

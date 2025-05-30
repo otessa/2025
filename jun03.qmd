@@ -73,7 +73,7 @@ The Fifth Industrial Revolution (5IR) highlights the collaboration between human
 
 ### Session 2.2b
 
-**Kristin Petrovic et al.** |  *Athabascau University*
+**Kristin Petrovic et al.**, **Lynn Corcoran**, **Emily Doyle** & **Terra Murray** |  *Athabascau University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -101,7 +101,7 @@ In this presentation, we share the overall aim of adapting this OER, the main to
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-In this study, we investigate the twelve Mid-American Conference (MAC) universities’ websites, aiming to assess how they articulate well-being components outlined in the inter-association definition of well-being. Our results suggest that universities are prioritizing different components of well-being from an individual and a community level, underscoring the significance of employing the inter-association definition to guide the assessment.
+This study examines how the twelve universities within the Mid-American Conference (MAC) use their websites to communicate the components of well-being outlined in the inter-association definition. Using content analysis, the findings show that institutions prioritize aspects of individual well-being, such as happiness and self-esteem, alongside community-oriented themes like inclusivity and shared purpose. However, the analysis also highlights inconsistencies, with some universities excelling in areas like subjective well-being while underemphasizing civic engagement and systemic equity. These results underline the importance of a more balanced approach to presenting well-being initiatives online. Future efforts should focus on refining digital communication strategies to align institutional well-being goals more closely with the inter-association framework, ensuring a more comprehensive and cohesive representation of student and community well-being.
 :::
 
 ### Session 4.1b
@@ -123,13 +123,13 @@ Generative artificial intelligence (AI) promises to reshape how we teach and lea
 
 **Practice**
 
-**Nazlee Sharmin et al.** | *University of Alberta*
+**Nazlee Sharmin et al.** & **Ava K Chow** | *University of Alberta*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-The knowledge of tooth microanatomy is a cornerstone of dental education. However, teaching this complex concept in an engaging manner is challenging for many educators. The rapid development of digital instructional tools has enormous potential for the design and development of engaging and effective teaching resources; whiteboard animation is one of them. Whiteboard animation refers to a specific style of animated videos where the content appears to be hand-drawn on a school whiteboard and narrated in a storytelling manner. This technique uses cartoons and line drawings rather than live videos and realistic images. Whiteboard animations have all the benefits of traditional animations, illustrating an abstract idea, simplicity, and engagement. However, the feature that makes whiteboard animations stand out as an educational tool is their ability to combine visual thinking and storytelling (Adams, 2020).
+The knowledge of tooth microanatomy is a cornerstone of dental education. However, teaching this complex concept in an engaging manner is challenging for many educators. The rapid development of digital instructional tools has enormous potential for the design and development of engaging and effective teaching resources; whiteboard animation is one of them. Whiteboard animation is a style of animated video where the content appears to be hand-drawn on a whiteboard and narrated in a storytelling manner. This technique has the benefits of traditional animations, with the added ability to combine visual thinking and storytelling.
 
-Storytelling is a multimodal teaching approach that simultaneously engages listeners’ thinking, emotions, and imagination (Crocetti & Barr, 2020). However, this powerful tool is underutilized in higher education, particularly science education (Kokkotas, Rizaki, & Malamitsa, 2010; Krupa, 2014). Whiteboard animations, powered by storytelling, have been successfully applied to explain complex health-related topics for medical and pharmacology students (Larnard et al., 2020). Studies also showed that this animation technique positively affects the retention, engagement, and enjoyment of university-level students (Li et al., 2019).
+We have used a graphics editor, Procreate, and an animation maker, VideoScribe to create whiteboard animations for the students in the Doctor of Dental Surgery (DDS) program at the University of Alberta. An anonymous survey was also conducted to explore students’ experiences with the animations as learning tools. Fifty-three percent of the DDS class (n = 17) participated in the survey. Most survey participants (82%) agreed or strongly agreed that the whiteboard animations helped clarify concepts for them.
 :::
 
 ### Session 4.2b
@@ -138,11 +138,11 @@ Storytelling is a multimodal teaching approach that simultaneously engages liste
 
 **Practice**
 
-**Nazlee Sharmin et al.** | *University of Alberta*
+**Nazlee Sharmin**, **Hady Abdallah**, **Elias Jirgees** & **Ava K Chow** | *University of Alberta*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Mobile devices have become an integral part of our everyday life. The widespread use of this technology has emerged in the mobile-enabled teaching and learning era, also known as m-Learning [1]. m-Learning is gaining popularity in health professional education; however, reports on mobile apps targeting didactic teaching and learning of histology are scarce. Histology is an essential foundational component of dental and medical education. At the Mike Petryk School of Dentistry, University of Alberta, instructors use photomicrographs from textbooks to teach students the microanatomy of teeth, the development of tooth and facial regions, and developmental anomalies. The lack of high-quality tissue sections and insufficient class time challenge both students and instructors [2]. To provide students with an accessible collection of diverse histological sections and to facilitate in-class didactic teaching, we developed an Augmented Reality (AR)-based mobile app called Tooth ARcademy.
+m-Learning is gaining popularity in health professional education; however, reports on mobile apps targeting didactic teaching and learning of histology are scarce. Histology is an essential foundational component of dental and medical education. At the Mike Petryk School of Dentistry, University of Alberta, instructors use photomicrographs from textbooks to teach students the microanatomy of teeth, the development of tooth and facial regions, and developmental anomalies. The lack of high-quality tissue sections and insufficient class time challenge both students and instructors. To provide students with an accessible collection of diverse histological sections and to facilitate in-class didactic teaching, we developed an Augmented Reality (AR)-based mobile app called Tooth ARcademy. This app has three modes. The instructors can use the AR-based Learn mode to create in-class activities and supplemental questions for students with specific learning outcomes. The Practice mode enables students to study oral histology outside of class time. With the Quiz mode of Tooth ARcademy, students can self-assess their knowledge of oral histology by participating in quizzes. The knowledge of histology is essential for dental education. We believe Tooth ARcademy will be a valuable m-learning tool benefiting dental students and educators.
 :::
 
 ## 1:45 - 2:00 | Break
@@ -162,13 +162,7 @@ Mobile devices have become an integral part of our everyday life. The widespread
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Higher education is currently in a period of great uncertainty, starting with the lasting impacts of the disruption caused by the COVID-19 pandemic, and perpetuated by myriad new potential and actual disruptions emerging globally including Generative AI, climate change, global conflicts, changing public funding models, and increasing corporate influence on education, to name a small few.
-
-In this time of great disruption, we are constantly, through action or inaction, in a global process of remaking the world and reshaping education. The possible futures of education are impacted by our collective social imaginations and by who has the power and resources to design the future (Benjamin, 2024).
-
-Speculation, understood here as the art of imagining possibilities, is a powerful tool for shaping this future. Speculations can perform as a cautionary tale, similar to the fairy tales of the past, to draw attention to dark possibilities (Krutka, 2021) and focus our attention on things that we need to explicitly engage with or actions we need to take to avoid these undesirable futures or to “to give warning when we see ourselves drifting in dangerous directions” (Butler, 2000). It can also be used as a source of critical hope, to expand our minds to allow us to imagine radical change for the better (Houlden & Veletsianos, 2023). Importantly, speculation is a tool available to everyone, not just the elite, allowing a more collective approach to future design by those who choose to engage in speculative work.
-
-This workshop will introduce the concept of speculative storytelling, drawing heavily on the work of Octavia Butler (2000) and Donna Haraway (2021) as well as speculative design methodologies (Dunne & Raby, 2013), future-making from design anthropology (Akama et al., 2018) and speculative education fiction from critical education studies (Houlden & Veletsianos, 2023; Krutka et al., 2021). We will look at how speculation has been used in various contexts as a tool for future-making and design and discuss specifically how it can be a useful tool for creating the futures that we want (and need) in higher education.
+Speculation is a powerful tool for shaping the future and has significant potential in education. This workshop will introduce the concept of speculative storytelling, drawing heavily on the work of Octavia Butler (2000) and Donna Haraway (2021) as well as speculative design methodologies (Dunne & Raby, 2013), future-making from design anthropology (Akama et al., 2018) and speculative education fiction from critical education studies (Houlden & Veletsianos, 2023; Krutka et al., 2021). We will look at how speculation has been used in various contexts as a tool for future-making and design and discuss specifically how it can be a useful tool for creating the futures that we want (and need) in higher education.
 
 Participants will engage in reflection and micro-storytelling activities throughout the session, providing them with tools for speculative thought and empowering them to contribute to future-making in their own contexts.
 :::
@@ -180,11 +174,11 @@ Participants will engage in reflection and micro-storytelling activities through
 
 **Workshop or Demo**
 
-**Kim Ashbourne et al.** | *University of Victoria*
+**Kim Ashbourne** & **Michael Paskevicius** | *University of Victoria*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Digital accessibility is more than a technical/compliance issue. It is a dynamic sociocultural phenomenon that occurs when people with disabilities, and those using assistive technologies, can equitably and agentively: find, understand, navigate, engage in, and contribute to information sharing, information production, and sociocultural experience sharing in digital environments with others (Author, 2025; Web Accessibility Initiative, n.d.). It is dependent on the ways digital technology, content, environments, and experiences are designed, used, and shared but it’s also dependent on sociocultural factors. Digital accessibility is not often presented to educators this way, or as a topic for personal reflection, pedagogical exploration, or as a praxis of freedom.
+Digital accessibility is more than a technical/compliance issue. It is a dynamic sociocultural phenomenon that occurs when people with disabilities, and those using assistive technologies, can equitably and agentively: find, understand, navigate, engage in, and contribute to information sharing, information production, and sociocultural experience sharing in digital environments with others (Author, 2025; Web Accessibility Initiative, n.d.) The technical/compliance framing typically encountered in post-secondary has done educators and learners a disservice by focusing on the “requirements” rather than on inclusion and transformative learning experiences.
 
-If digital accessibility is presented to educators at all, it is typically presented as a set of technical how-tos relative to compliance with legislation, such as the Accessibility for Ontarians with Disabilities Act (2005). This technical/compliance-lens framing has done educators and learners a disservice by focusing on the “requirements” rather than on inclusion and transformative learning experiences.
+What might change if we as educators set aside the technical/compliance lens and look at digital accessibility through a pedagogical lens? This workshop builds on two emergent themes in literature exploring pedagogical considerations relative to digital accessibility. Theme #1: There is a small but growing body of research pointing us toward a transformative digital accessibility praxis (Author, 2025). Theme #2 A transformative digital praxis can be motivated by your personal pedagogical approach (Melonçon, 2018; Oswal & Melonçon, 2017). This interactive workshop will draw on liberatory pedagogical perspectives and a Disability Justice lens. Participants will leave with tools to build a personal plan to develop a pedagogically-motivated, transformative digital accessibility praxis.
 :::

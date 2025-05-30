@@ -145,6 +145,23 @@ We have used a graphics editor, Procreate, and an animation maker, VideoScribe t
 m-Learning is gaining popularity in health professional education; however, reports on mobile apps targeting didactic teaching and learning of histology are scarce. Histology is an essential foundational component of dental and medical education. At the Mike Petryk School of Dentistry, University of Alberta, instructors use photomicrographs from textbooks to teach students the microanatomy of teeth, the development of tooth and facial regions, and developmental anomalies. The lack of high-quality tissue sections and insufficient class time challenge both students and instructors. To provide students with an accessible collection of diverse histological sections and to facilitate in-class didactic teaching, we developed an Augmented Reality (AR)-based mobile app called Tooth ARcademy. This app has three modes. The instructors can use the AR-based Learn mode to create in-class activities and supplemental questions for students with specific learning outcomes. The Practice mode enables students to study oral histology outside of class time. With the Quiz mode of Tooth ARcademy, students can self-assess their knowledge of oral histology by participating in quizzes. The knowledge of histology is essential for dental education. We believe Tooth ARcademy will be a valuable m-learning tool benefiting dental students and educators.
 :::
 
+### Session 4.3
+
+#### 12:45 - 1:45 | Designing Calm: Reducing Learner Anxiety with H5P in Digital OER Textbooks
+
+**60 Minute Workshop**
+
+**Theresa Huff** | *Loyola Marymount University*
+
+::: {.callout-note collapse="true"}
+### Abstract
+Anxiety in online learning is a significant barrier to student success, yet thoughtful design of digital course materials can foster a more inclusive and supportive environment. In this interactive workshop, participants will explore how H5P, a free and open-source tool, can be used to reduce learner anxiety through accessible, visually engaging content, formative activities, and reflective practices in digital OER textbooks.
+
+Grounded in original research findings, this session will highlight how applying multimedia principles—such as segmenting, emotional design, feedback, and generative activities—can meaningfully lower learner anxiety. Participants will examine examples of course materials that integrate H5P for diverse purposes, including presenting content visually, promoting deeper reflection, and supporting active engagement. A hands-on segment will guide attendees through creating their own H5P types, with options to follow along or observe. Discussions will center on how these techniques build supportive, inclusive, and calm digital learning spaces, fostering a sense of togetherness by addressing common learner challenges.
+
+By the end of this session, attendees will gain actionable design principles, practical H5P techniques, and strategies for rethinking instructional design to support student well-being in online learning environments.
+:::
+
 ## 1:45 - 2:00 | Break
 
 ## 2:00 - 3:00 | Concurrent Session 5

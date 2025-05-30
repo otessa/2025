@@ -108,12 +108,11 @@ This session explores the development of a Virtual Reality (VR) museum dedicated
 
 ### Session 6.2c
 
-
 #### 1:25 - 1:45 | AI as Creative Writing Coach: Exploring Human-AI Collaboration in Creative Writing Learning
 
 **Research**
 
-**Cinzia Pusceddu** | *Affiliation*
+**Cinzia Pusceddu** | *Independent*
 
 ::: {.callout-note collapse="true"}
 ### Abstract

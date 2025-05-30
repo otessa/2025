@@ -80,17 +80,16 @@ This session will include live demonstrations of interactive, objective-aligned 
 
 **Practice**
 
-**Hilary Schmidt et al.** | *Thompson Rivers University*
+**Hilary Schmidt & Stephen Doubt** | *Thompson Rivers University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-In this session, we will briefly define and describe microlearning and explore participants’ prior understanding of and engagement with microlearning as designers, teachers, and learners. We will demonstrate an asynchronous, online microlearning project that we created. We will discuss instructional design considerations and support participants in considering where and how they might create their own microlearning lessons.
 
-Microlearning is an established technique for learning and development in many workplaces, with the recognition that busy professionals face constraints on their learning time. A microlearning approach is both convenient and effective; it can enhance learning outcomes and improve retention of information and skills, while reducing cognitive load by delivering information in digestible, focused segments (Taylor & Hung, 2022). Shifting from a more traditional, time-intensive approach, microlearning is tightly focused, aiming to support effective, just-in-time learning (Alias & Razak, 2024). Despite the benefits of microlearning, adoption has been limited in higher education contexts for both faculty and students (Corbeil & Corbeil, 2023; Lockley, 2024).
+Microlearning is an established technique for learning and development in many workplaces, with the recognition that busy professionals face constraints on their learning time. A microlearning approach is both convenient and effective; it can enhance learning outcomes, improve retention of information and skills, and reduce cognitive load by delivering information in digestible, focused segments (Taylor & Hung, 2022). However, the adoption of microlearning in academic contexts, for both faculty and students, has been limited (Corbeil & Corbeil, 2023; Lockley, 2024).
 
-Harnessing the advantages of a microlearning approach, we created a suite of asynchronous online microlearning lessons (MicroDesign) to enable busy faculty members to grasp fundamentals of open/online course development in interactive, asynchronous online lessons of 5 minutes or less. In the session, we will share an example: a high quality, interactive microlearning lesson that explores copyright compliance (a critical responsibility for course developers, particularly in an open learning context).
+Recognizing the benefits of a microlearning approach, we created a suite of asynchronous online microlearning lessons (MicroDesign), enabling busy faculty members to grasp fundamentals of open/online course development in interactive, asynchronous online lessons of 5 minutes or less. In the session, we will share an example: a high quality, interactive microlearning lesson that explores copyright compliance (a critical responsibility for course developers, particularly in an open learning context).
 
-In the session, we will tell the “story” of the design process. As well, we will discuss the technology used to build and host MicroDesign, provide additional examples of microlearning for a postsecondary audience, and share a template to guide participants’ planning of their own microlearning possibilities.
+We will discuss the technology used to build and host the microlearning, provide other examples of microlearning designed for a postsecondary audience, and share a template to guide participants’ planning of their own microlearning possibilities (either as standalone lessons or embedded within larger courses).
 :::
 
 ### Session 6.2b

@@ -45,14 +45,9 @@
 
 ## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement <!--(ask Jean-Paul to join??)--> {.unnumbered}
 
-
-
-## 9:00 - 10:00 | Keynote: Peter Scott
-
-
+## 9:00 - 10:00 | Keynote: Peter Scott | Multi-Laterally Open: A Commonwealth Story
 
 ## 10:00 - 10:15 | Break
-
 
 ## 10:15 - 11:15 | Concurrent Session 1 
 
@@ -113,7 +108,6 @@ This session introduces the Emotional Trajectory Model (ETM), a computational fr
 :::
 
 ## 11:15 - 11:45 | Break
-
   
 ## 11:45 - 12:45 | Concurrent Session 2 
 
@@ -150,27 +144,9 @@ It is hoped that basing the design principles in the context of research-based m
 The proposed presentation is part two of a study shared in the June 2024 OTESSA conference and published in a proceedings paper. Author et al.’s (2023) review of the alignment between design principles (Crichton & Author, 2022) and the National Standards for Quality Online Learning (NSQOL 2019a, 2019b, & 2019c) and the Quality Matters standards (QM, 2016a, 2016b) concluded that most standards served as examples of components that could be found in an effective model or a course without a clear picture of what they comprise collectively. As the researchers found a stronger alignment with the research-based Quality Matters (QM, 2016a, 2016b) than the NSQOL standards, the Community of Inquiry (Garrison et al., 2000) was explored as the COI was used as a framework for the Standards for K-12 Online Learning in British Columbia (BC Ministry of Education, 2021). This session will focus on the alignment of the design principles with the COI’s thirty-four-question survey (Arbaugh et al., 2024). Reference will also be made to other quality frameworks, including the Quality Matters K-12 rubrics and instructor skills set (QM, 2016a, 2016b) and First Peoples Principles of Learning (FNESC, 2020).
 :::
 
-
 ### Session 2.2b
 
-#### 12:05 - 12:25 | Addressing the Assumption that Online Learning is Intuitive: An OER for Learning to Learn Online
-
-**Practice**
-
-**Kristin Petrovic et al.** |  *Athabascau University*
-
-::: {.callout-note collapse="true"}
-### Abstract
-Primary and secondary schooling in North America is generally situated around the traditional model of in-person teaching and learning. As such, when entering post-secondary education, most people already have a sense of how to learn in the place-based setting. However, if moving to a different mode of education, such as the online environment, it is essential to support the necessary shift in understanding how to learn within this context.
-
-To meet the needs of those learning to learn online, faculty from programs including Counseling Psychology and Undergraduate and Graduate Nursing in the Faculty of Health Disciplines at Athabasca University collaborated to adapt an e-book open educational resource (OER) to facilitate how to adjust and thrive in the online learning environment.
-
-In this presentation, we share the overall aim of adapting this OER, the main topics addressed in the e-book, as well as processes and practices that the faculty implemented as they collaborated to develop and adapt this resource. Finally, we share recommendations related to supporting learners to learn online as well as our strategies for addressing the pragmatic aspects of adapting an OER for use across different programs in an online post-secondary environment.
-:::
-
-### Session 2.2c
-
-#### 12:25 - 12:45 | Yes, You Can: Research With Adult Trauma Survivors Who Learn Online
+#### 12:05 - 12:25 | Yes, You Can: Research With Adult Trauma Survivors Who Learn Online
 
 **Practice**
 

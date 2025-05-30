@@ -44,6 +44,11 @@
 
 ## 10:00 - 11:00 PDT | Keynote | James Slotta - Critical Action Learning: Empowering Students with Meaning and Purpose in 21st Century Classrooms
 
+::: {.callout-note collapse="true"}
+### Abstract
+This presentation will review my previous work in pedagogies for learning communities, including the use of “smart classroom” technologies to support collective inquiry and scaffold students and teachers. It will then introduce Critical Action Learning, as an international professional learning community of teachers. I will present the CALE design framework, pedagogical approaches, and present several examples of teacher enactments. I will also discuss new roles for physical classroom space and technology environments.
+:::
+
 ## 11:00 - 11:15 | Break
 
 ## 11:15 - 12:15 | Concurrent Session 3

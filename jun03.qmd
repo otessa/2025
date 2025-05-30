@@ -67,43 +67,22 @@ The Fifth Industrial Revolution (5IR) highlights the collaboration between human
 ### Session 3.2
 
 
-#### 11:15 - 12:05 | Ethical AI in Open Education: Balancing Innovation, Accessibility, and Digital Equity
+#### 11:15 - 12:05 | How Are Post-Secondary Educators Navigating the AI Revolution?
 
-**Practice**
+**Research**
 
-**Warren Wilansky** | * *
+**Adam Vanzella Yang** | *The Conference Board of Canada*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-AI is rapidly reshaping digital education, from automated grading and personalized learning experiences to AI-powered knowledge management and research tools. However, these advancements come with critical ethical concerns, including bias, misinformation, privacy risks, and accessibility barriers. As higher education and open learning communities increasingly adopt AI, it is vital to ensure these tools promote inclusion and equitable access rather than reinforcing existing inequalities.
-
-In this session, Warren Wilansky, Founder & President of Plank, will explore how AI is transforming digital education and open scholarship, while addressing the challenges of ensuring accessibility, ethical use, and digital equity. 
+Generative artificial intelligence (AI) promises to reshape how we teach and learn. Yet, little is known about how educators are navigating the AI revolution. In this study, we discuss findings from a national survey of post-secondary educators in Canada (N=402). We found that most educators have neither explicitly permitted nor prohibited student use of AI tools. Notably, 80% reported not receiving any formal guidance or training from their institutions. There is a strong demand for professional development in this area, with educators seeking training for both themselves and their students. Key concerns about generative AI include its potential for facilitating cheating, the submission of unoriginal work, and its impact on students’ critical thinking and independent learning. However, educators are more open to the use of AI for secondary tasks such as translation, general research and knowledge acquisition, and grammar assistance. Educators who use generative AI more frequently tend to be more optimistic about its potential, although they remain wary of its ethical implications and possible threats to the integrity and reliability of knowledge. Overall, educator attitudes toward AI are complex and multifaceted. To effectively integrate AI, institutions must consider the diverse needs of different disciplines, professional practices, and individual experiences with this technology. 
 :::
  
 ## 12:15 - 12:45 | Break
 
 ## 12:45 - 1:45 | Concurrent Session 4 
 
-
-### Session 4.1
-
-#### 12:45 - 1:35 | Designing Calm: Reducing Learner Anxiety with H5P in Digital OER Textbooks
-
-**Workshop or Demo**
-
-**Theresa Huff ** | *Loyola Marymount University*
-
-::: {.callout-note collapse="true"}
-### Abstract
-Anxiety is a pervasive challenge in online learning, significantly affecting learner engagement (Beattie, 2022), retention (Rosser-Majors et al., 2022), and success (Akpen et al., 2024). While previous research has focused on fostering belonging (Narla et al., 2024), enhancing peer and instructor connections (Hoferichter et al., 2022), and providing mental health support (Brewer, 2023), little attention has been given to the role of instructional design in addressing learner anxiety. This interactive workshop bridges that gap by demonstrating how thoughtfully applying four multimedia principles—segmenting, generative activities, feedback, and emotional design—through H5P and images in open digital textbooks can reduce anxiety and foster more inclusive, calming online learning environments.
-
-This workshop builds on a qualitative study of 50 online college students who completed an interview survey exploring the application of these multimedia principles across six scenarios in a digital textbook. The findings highlight that all four principles helped relieve anxiety, with varying degrees of effectiveness. Segmenting had the most consistent impact, with H5P tools like the Course Presentation and Accordion being highly effective in reducing text overload, improving perceived efficiency, and giving learners control over content. Generative activities and feedback, as applied in H5P Quizzes, alleviated anxiety by promoting self-assessment and validating knowledge, though Interactive Videos sometimes caused anxiety due to interruptions in flow and a “test-like” feel. Emotional design, when applied using H5P Audio, helped reinforce key concepts and engage learners, but rounded, warm-colored images were less effective in reducing anxiety.
-
-In this session, participants will explore examples of instructional materials that integrate these principles, comparing versions with and without their application. A hands-on segment will guide attendees in creating their own H5P content—such as reflective exercises, visual content, or formative assessments—and embedding it into a Pressbook. Participants can follow along or observe, depending on their preference. Open discussions will invite attendees to consider how these techniques can be applied to reframe “togetherness” in online learning, fostering connection by addressing shared challenges like anxiety.
-:::
-
-### Session 4.2a
-
+### Session 4.1a
 
 #### 12:45 - 1:05 | Mid-American Conference Websites and Student Well-Being: A Content Analysis
 
@@ -116,10 +95,22 @@ In this session, participants will explore examples of instructional materials t
 In this study, we investigate the twelve Mid-American Conference (MAC) universities’ websites, aiming to assess how they articulate well-being components outlined in the inter-association definition of well-being. Our results suggest that universities are prioritizing different components of well-being from an individual and a community level, underscoring the significance of employing the inter-association definition to guide the assessment.
 :::
 
-### Session 4.2b
+### Session 4.1b
 
+#### 1:05 - 1:25 | How Are Post-Secondary Educators Navigating the AI Revolution?
 
-#### 1:05 - 1:25 | Creating Whiteboard Animations to Explain Tooth Microanatomy
+**Research**
+
+**Adam Vanzella Yang** | *The Conference Board of Canada*
+
+::: {.callout-note collapse="true"}
+### Abstract
+Generative artificial intelligence (AI) promises to reshape how we teach and learn. Yet, little is known about how educators are navigating the AI revolution. In this study, we discuss findings from a national survey of post-secondary educators in Canada (N=402). We found that most educators have neither explicitly permitted nor prohibited student use of AI tools. Notably, 80% reported not receiving any formal guidance or training from their institutions. There is a strong demand for professional development in this area, with educators seeking training for both themselves and their students. Key concerns about generative AI include its potential for facilitating cheating, the submission of unoriginal work, and its impact on students’ critical thinking and independent learning. However, educators are more open to the use of AI for secondary tasks such as translation, general research and knowledge acquisition, and grammar assistance. Educators who use generative AI more frequently tend to be more optimistic about its potential, although they remain wary of its ethical implications and possible threats to the integrity and reliability of knowledge. Overall, educator attitudes toward AI are complex and multifaceted. To effectively integrate AI, institutions must consider the diverse needs of different disciplines, professional practices, and individual experiences with this technology.
+:::
+
+### Session 4.2a
+
+#### 12:45 - 1:05 | Creating Whiteboard Animations to Explain Tooth Microanatomy
 
 **Practice**
 
@@ -132,10 +123,9 @@ The knowledge of tooth microanatomy is a cornerstone of dental education. Howeve
 Storytelling is a multimodal teaching approach that simultaneously engages listeners’ thinking, emotions, and imagination (Crocetti & Barr, 2020). However, this powerful tool is underutilized in higher education, particularly science education (Kokkotas, Rizaki, & Malamitsa, 2010; Krupa, 2014). Whiteboard animations, powered by storytelling, have been successfully applied to explain complex health-related topics for medical and pharmacology students (Larnard et al., 2020). Studies also showed that this animation technique positively affects the retention, engagement, and enjoyment of university-level students (Li et al., 2019).
 :::
 
-### Session 4.2c
+### Session 4.2b
 
-
-#### 1:25 - 1:45 | Developing a Mobile App for Oral Histology
+#### 1:05 - 1:25 | Developing a Mobile App for Oral Histology
 
 **Practice**
 

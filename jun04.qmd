@@ -55,32 +55,14 @@
 
 (60 mins)
 
-### Session 6.1
-
-
-#### 12:45 - 1:35 | Open Publishing Unplugged: Unlocking Creativity and Collaboration
-
-**Workshop**
-
-**Karna Younger et al.** | *Loyola Marymount University*
-
-::: {.callout-note collapse="true"}
-### Abstract
-A proven equity strategy in education (Hilton, 2019; Colvard et al., 2018), open educational resources (OER) creation and remixing should be a collaboration to ensure OER are supportive of a inclusive, diverse, and equitable learning experience (Sergiadis et al., 2024). This session offers a behind-the-scenes look at collaboratively guiding 11 teams of 39 faculty from four colleges and universities as they created and remixed OER in 11 different fields of study. Through their community building, the presenters modeled transparency, creativity, and collaboration, creating brave spaces for faculty to explore and share their own OER journeys.
-
-Participants will gain insight into the joys and challenges of managing a large-scale collaboration. Challenges included scheduling across four institutions, creating templates and frameworks to guide the process, and ensuring alignment with diversity, equity, inclusion, and anti-racism (DEIA), accessibility, copyright, and instructional design best practices. To support these efforts, the presenters developed an OER faculty handbook, which includes practical guidance on integrating DEIA into OER, making OER accessible, aligning content with learning objectives, and designing interactivity using Pressbooks and H5P. By simultaneously creating their own OER faculty handbook and transparently sharing their wins and fails, the presenters modeled the process, encouraged faculty to innovate boldly, and celebrated their own learning through presentations, goodie bags, and community recognition.
-
-This session will include live demonstrations of interactive, objective-aligned H5P tools and OER texts in Pressbooks from the OER faculty handbook and faculty teams’ work. Participants will explore sections of the OER faculty handbook, such as the OER Tool Look Book, backward design for OER, and strategies for engaging faculty learners. Group discussions will focus on collaboratively problem-solving challenges in building OER communities and brainstorming strategies for success.
-:::
-
-### Session 6.2a
+### Session 6.1a
 
 
 #### 12:45 - 1:05 | MicroDesign in Open/Higher Education
 
 **Practice**
 
-**Hilary Schmidt & Stephen Doubt** | *Thompson Rivers University*
+**Hilary Schmidt** & **Stephen Doubt** | *Thompson Rivers University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -92,7 +74,7 @@ Recognizing the benefits of a microlearning approach, we created a suite of asyn
 We will discuss the technology used to build and host the microlearning, provide other examples of microlearning designed for a postsecondary audience, and share a template to guide participants’ planning of their own microlearning possibilities (either as standalone lessons or embedded within larger courses).
 :::
 
-### Session 6.2b
+### Session 6.1b
 
 
 #### 1:05 - 1:25 | Virtual Reality Museums: Redefining Engagement and Understanding in Cultural Heritage
@@ -106,13 +88,13 @@ We will discuss the technology used to build and host the microlearning, provide
 This session explores the development of a Virtual Reality (VR) museum dedicated to the banjo, tracing its cultural and historical significance. Designed as part of a graduate research project, this immersive learning environment aims to enhance accessibility, engagement, and storytelling within digital museum experiences. By leveraging design thinking principles, 3D modeling, and interactive elements, the VR museum bridges gaps in traditional curation, offering visitors an enriched, self-guided exploration of the instrument’s evolution and social impact. The presentation will outline key phases of the project—from initial research and prototyping to user testing and iteration—highlighting both challenges and unexpected insights. Rooted in a commitment to inclusivity and experiential learning, this work aligns with the conference theme, Reframing Togetherness, by fostering new ways of connecting with history, technology, and diverse audiences. Attendees will gain practical takeaways for integrating VR into educational and cultural spaces, as well as insights into designing immersive experiences that prioritize accessibility and engagement.
 :::
 
-### Session 6.2c
+### Session 6.1c
 
 #### 1:25 - 1:45 | Exploring Students’ Perceptions, Practices, and Training Needs Regarding Generative AI
 
 **Research**
 
-**Marta Samokishyn et al.** | *Saint Paul University*
+**Marta Samokishyn** & **Victoria Tsonos** | *Saint Paul University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -147,13 +129,7 @@ This conference session, “Exploring the Intersection of Agriculture, Technolog
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-In August 2021, the Taliban returned to power in Afghanistan. Their policies resulted in 1.4 million girls losing access to education (Pan, 2023) with both secondary and tertiary education forbidden. While access to primary education is permitted, 30% of young girls never attend for sociocultural, economic, and safety reasons. Female teachers and professors are no longer permitted to work. The humanitarian costs of barring women and girls from basic education is significant on personal, social, and economic levels.
-
-Distance education and generative artificial intelligence (GenAI) could offer some pragmatic solutions. “Artificial intelligence refers to the ability of computer systems to mimic human intelligence” (Bowen and Watson, 2024, p. 16). Generative means that “they can produce novel outputs of the same general kind as their training data” (Vallor, 2024, p. 19). GenAI trains on images, text, sound, and even video. The large language models basically predict which words connect to each other. Mollick (2024) describes GenAI as an “elaborate autocomplete” like what is on a smartphone (p. 9). Nevertheless, GenAI can interact with a human-like competence which—albeit has limitations—can still offer a means of supporting learners.
-
-GenAI could provide a way to interact and practice language skills, receive personalized feedback, and access educational content tailored to individual needs. Abram (2025) argues that GenAI tools can assist with translation, adaptive learning, creation of and modification of lessons, motivation, interaction, as well as assessment and evaluation. In this online presentation, we will present and discuss a series of vignettes. Each vignette will provide three educational scenarios faced by women and girls in Afghanistan. We will address biases, hallucinations, social justice, and the possible goals of ‘big tech’. We will examine how GenAI can 1) help learning/teaching, 2) hinder learning/teaching, and/or 3) present risks.
-
-Any solutions to the problem of access to education must address the current socio-cultural, political, economic, geographic, and infrastructural conditions of Afghanistan. Years of war interrupting school attendance and now the prohibition of education for roughly half of the population (women) has resulted in large learning gaps and very diverse learning needs across the entire population (Abrams, 2025). With this in mind, this presentation will not only explore GenAI opportunities but also the risks for Afghan women and girls—including the risk of doing nothing (Abram, 2025).
+In August 2021, the Taliban returned to power in Afghanistan. Their policies resulted in 1.4 million girls losing access to education (Pan, 2023) with both secondary and tertiary education forbidden. While access to primary education is permitted, 30% of young girls never attend for sociocultural, economic, and safety reasons. Female teachers and professors are no longer permitted to work. The humanitarian costs of barring women and girls from basic education is significant on personal, social, and economic levels. Distance education and generative artificial intelligence (GenAI) could offer some pragmatic solutions. “Artificial intelligence refers to the ability of computer systems to mimic human intelligence” (Bowen and Watson, 2024, p. 16). Generative means that “they can produce novel outputs of the same general kind as their [large language model] training data” (Vallor, 2024, p. 19). GenAI could provide a way to interact and practice language skills, receive personalized feedback, and access educational content tailored to individual needs. Any solutions to the problem of access to education must address the current socio-cultural, political, economic, geographic, and infrastructural conditions of Afghanistan. With this in mind, we will not only explore GenAI opportunities but also the risks for Afghan women and girls—including the risk of doing nothing (Abram, 2025).
 :::
 
 ## 3:00 - 3:15 | Break

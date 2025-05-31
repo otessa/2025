@@ -84,6 +84,34 @@ To meet the needs of those learning to learn online, faculty from programs inclu
 In this presentation, we share the overall aim of adapting this OER, the main topics addressed in the e-book, as well as processes and practices that the faculty implemented as they collaborated to develop and adapt this resource. Finally, we share recommendations related to supporting learners to learn online as well as our strategies for addressing the pragmatic aspects of adapting an OER for use across different programs in an online post-secondary environment.
 :::
 
+### Session 3.2b
+
+#### 11:35 - 11:55 | Creating Whiteboard Animations to Explain Tooth Microanatomy
+
+**Practice**
+
+**Nazlee Sharmin** & **Ava K Chow** | *University of Alberta*
+
+::: {.callout-note collapse="true"}
+### Abstract
+The knowledge of tooth microanatomy is a cornerstone of dental education. However, teaching this complex concept in an engaging manner is challenging for many educators. The rapid development of digital instructional tools has enormous potential for the design and development of engaging and effective teaching resources; whiteboard animation is one of them. Whiteboard animation is a style of animated video where the content appears to be hand-drawn on a whiteboard and narrated in a storytelling manner. This technique has the benefits of traditional animations, with the added ability to combine visual thinking and storytelling.
+
+We have used a graphics editor, Procreate, and an animation maker, VideoScribe to create whiteboard animations for the students in the Doctor of Dental Surgery (DDS) program at the University of Alberta. An anonymous survey was also conducted to explore students’ experiences with the animations as learning tools. Fifty-three percent of the DDS class (n = 17) participated in the survey. Most survey participants (82%) agreed or strongly agreed that the whiteboard animations helped clarify concepts for them.
+:::
+
+### Session 3.2c
+
+#### 11:55 - 12:15 | Developing a Mobile App for Oral Histology
+
+**Practice**
+
+**Nazlee Sharmin**, **Hady Abdallah**, **Elias Jirgees** & **Ava K Chow** | *University of Alberta*
+
+::: {.callout-note collapse="true"}
+### Abstract
+m-Learning is gaining popularity in health professional education; however, reports on mobile apps targeting didactic teaching and learning of histology are scarce. Histology is an essential foundational component of dental and medical education. At the Mike Petryk School of Dentistry, University of Alberta, instructors use photomicrographs from textbooks to teach students the microanatomy of teeth, the development of tooth and facial regions, and developmental anomalies. The lack of high-quality tissue sections and insufficient class time challenge both students and instructors. To provide students with an accessible collection of diverse histological sections and to facilitate in-class didactic teaching, we developed an Augmented Reality (AR)-based mobile app called Tooth ARcademy. This app has three modes. The instructors can use the AR-based Learn mode to create in-class activities and supplemental questions for students with specific learning outcomes. The Practice mode enables students to study oral histology outside of class time. With the Quiz mode of Tooth ARcademy, students can self-assess their knowledge of oral histology by participating in quizzes. The knowledge of histology is essential for dental education. We believe Tooth ARcademy will be a valuable m-learning tool benefiting dental students and educators.
+:::
+
 ## 12:15 - 12:45 | Break
 
 ## 12:45 - 1:45 | Concurrent Session 4 
@@ -114,35 +142,7 @@ This study examines how the twelve universities within the Mid-American Conferen
 Generative artificial intelligence (AI) promises to reshape how we teach and learn. Yet, little is known about how educators are navigating the AI revolution. In this study, we discuss findings from a national survey of post-secondary educators in Canada (N=402). We found that most educators have neither explicitly permitted nor prohibited student use of AI tools. Notably, 80% reported not receiving any formal guidance or training from their institutions. There is a strong demand for professional development in this area, with educators seeking training for both themselves and their students. Key concerns about generative AI include its potential for facilitating cheating, the submission of unoriginal work, and its impact on students’ critical thinking and independent learning. However, educators are more open to the use of AI for secondary tasks such as translation, general research and knowledge acquisition, and grammar assistance. Educators who use generative AI more frequently tend to be more optimistic about its potential, although they remain wary of its ethical implications and possible threats to the integrity and reliability of knowledge. Overall, educator attitudes toward AI are complex and multifaceted. To effectively integrate AI, institutions must consider the diverse needs of different disciplines, professional practices, and individual experiences with this technology.
 :::
 
-### Session 4.2a
-
-#### 12:45 - 1:05 | Creating Whiteboard Animations to Explain Tooth Microanatomy
-
-**Practice**
-
-**Nazlee Sharmin et al.** & **Ava K Chow** | *University of Alberta*
-
-::: {.callout-note collapse="true"}
-### Abstract
-The knowledge of tooth microanatomy is a cornerstone of dental education. However, teaching this complex concept in an engaging manner is challenging for many educators. The rapid development of digital instructional tools has enormous potential for the design and development of engaging and effective teaching resources; whiteboard animation is one of them. Whiteboard animation is a style of animated video where the content appears to be hand-drawn on a whiteboard and narrated in a storytelling manner. This technique has the benefits of traditional animations, with the added ability to combine visual thinking and storytelling.
-
-We have used a graphics editor, Procreate, and an animation maker, VideoScribe to create whiteboard animations for the students in the Doctor of Dental Surgery (DDS) program at the University of Alberta. An anonymous survey was also conducted to explore students’ experiences with the animations as learning tools. Fifty-three percent of the DDS class (n = 17) participated in the survey. Most survey participants (82%) agreed or strongly agreed that the whiteboard animations helped clarify concepts for them.
-:::
-
-### Session 4.2b
-
-#### 1:05 - 1:25 | Developing a Mobile App for Oral Histology
-
-**Practice**
-
-**Nazlee Sharmin**, **Hady Abdallah**, **Elias Jirgees** & **Ava K Chow** | *University of Alberta*
-
-::: {.callout-note collapse="true"}
-### Abstract
-m-Learning is gaining popularity in health professional education; however, reports on mobile apps targeting didactic teaching and learning of histology are scarce. Histology is an essential foundational component of dental and medical education. At the Mike Petryk School of Dentistry, University of Alberta, instructors use photomicrographs from textbooks to teach students the microanatomy of teeth, the development of tooth and facial regions, and developmental anomalies. The lack of high-quality tissue sections and insufficient class time challenge both students and instructors. To provide students with an accessible collection of diverse histological sections and to facilitate in-class didactic teaching, we developed an Augmented Reality (AR)-based mobile app called Tooth ARcademy. This app has three modes. The instructors can use the AR-based Learn mode to create in-class activities and supplemental questions for students with specific learning outcomes. The Practice mode enables students to study oral histology outside of class time. With the Quiz mode of Tooth ARcademy, students can self-assess their knowledge of oral histology by participating in quizzes. The knowledge of histology is essential for dental education. We believe Tooth ARcademy will be a valuable m-learning tool benefiting dental students and educators.
-:::
-
-### Session 4.3
+### Session 4.2
 
 #### 12:45 - 1:45 | Designing Calm: Reducing Learner Anxiety with H5P in Digital OER Textbooks
 

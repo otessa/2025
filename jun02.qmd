@@ -47,6 +47,11 @@
 
 ## 9:00 - 10:00 | Keynote: Peter Scott | Multi-Laterally Open: A Commonwealth Story
 
+::: {.callout-note collapse="true"}
+### Abstract
+The Commonwealth of Learning (COL) was established in 1987 by the Heads of Government of what was then widely called the ‘Commonwealth of Nations’, as an intergovernmental agency tasked with helping member countries in the field of ‘Open Learning’. With Open and Distance learning, open technologies and resources, and a more digitalised, online world, becoming increasing the next normal, stakeholders in our 56 countries continue to make strides against learning inequity even as others choose step away from open, multi-lateral engagement. While there is very much yet still to do, we can note progress and consider why COL believes there is cause for optimism.
+:::
+
 ## 10:00 - 10:15 | Break
 
 ## 10:15 - 11:15 | Concurrent Session 1 

@@ -44,6 +44,12 @@
 ## 9:10 - 10:10 PDT | Presidential Address | Valerie Irvine (UVic) & Stephanie Moore (UNM)
 
 ## 10:15 - 11:15 PDT | Keynote | Jean-Paul Restoule (UVic) - Considerations for Indigenous Centred Online Course Design
+Onsite in Victoria
+
+::: {.callout-note collapse="true"}
+### Abstract
+Indigenous people are keen to adopt and adapt technologies for their own uses and purposes yet have less success in controlling and creating technologies that dominate the learning landscape. What are some ways that Indigenous people approach open, distance and digital education? Restoule will share some observations of the potentials, constraints and cautions Indigenous people have expressed regarding online learning, with reference to relationality, authenticity, and learning design.
+:::
 
 ## 11:30 - 12:30 | Concurrent Session 11
 

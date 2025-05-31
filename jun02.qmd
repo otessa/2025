@@ -99,6 +99,19 @@ In the context of fully online learning, higher education students have been fou
 Summative course feedback often leaves instructors with more questions than answers, particularly when interpreting student experiences across diverse populations and determining meaningful improvements. In high-enrollment, introductory computing courses, this challenge is especially pressing. Students and faculty from diverse academic and personal backgrounds amplify the need to understand emotional patterns for equitable instruction and increased student satisfaction. This short paper introduces the use of the Emotional Trajectory Model (ETM) as a computational framework for analyzing student sentiment over time. Using end-of-semester instructional evaluation feedback collected across six semesters in the Using Information Technology course, we applied ETM to examine how students emotionally engaged with the course throughout the selected terms. Our focus is on developing a method that enables faculty to discover patterns obscured in traditional evaluations. We outline a high-level overview of the data preparation and analytical process used to generate sentiment-based emotional analysis that evaluates trends in student satisfaction with greater depth. By exploring how students respond emotionally to different aspects of the course, we aim to support more responsive and reflective pedagogical practices–approaches that foster belonging, persistence, and success for all students.
 :::
 
+### Session 1.2c
+
+#### 10:55 - 11:15 | “Generating” Equity? Why Generative AI-Powered Education Necessitates Integration of Critical Algorithm Studies
+
+**Research**
+
+**Fatima Zohra** | *University of Waterloo*
+
+::: {.callout-note collapse="true"}
+### Abstract
+To what extent do AI-powered technologies threaten to exacerbate existing societal inequities? This presentation examines three core areas through which Generative Artificial Intelligence (GenAI) can pose detrimental harms for society: (1) AI “hallucinations” and mis/disinformation; (2) mass data collection; (3) biased prompt engineering. These examinations culminate in the proposition that the integration of GenAI in education requires a simultaneous integration of critical algorithm studies so students (and educators) are well-versed in the nuances of GenAI ethics – particularly in regard to Open Educational Resources (OER) and Open Educational Practices (OEP). By providing practical recommendations for GenAI integration through sample demonstrations, activities, and case studies that can be conducted in the classroom, this presentation underscores that the GenAI “hype” which is grounded in the promise of objectivity, efficiency, and scalability must be critically evaluated given the high stakes of equity involved. Examining how such technological infrastructures are (re)shaping pedagogy – and education more broadly – is critical for addressing how the lack of rigorous regulation of these technologies threatens to exacerbate existing inequities and obstruct the democratization of knowledge.
+::: 
+
 ## 11:15 - 11:45 | Break
   
 ## 11:45 - 12:45 | Concurrent Session 2 
@@ -152,22 +165,9 @@ Trauma-informed educational practices are rapidly gaining traction in higher edu
 This session aims to support researchers considering projects that centre adult trauma survivors who learn in open/online settings. Using SAMHSA’s (2014) guidelines for trauma-informed practice, the session dispels myths, dismantles barriers, and provides practical guidance for implementing respectful, collaborative research relations with survivors, ensuring safety for researchers and participants, and attaining institutional research ethics board approval.
 :::
 
-### Session 2.3a
+### Session 2.2c
 
-#### 11:45 - 12:05 | “Generating” Equity? Why Generative AI-Powered Education Necessitates Integration of Critical Algorithm Studies
-
-**Research**
-
-**Fatima Zohra** | *University of Waterloo*
-
-::: {.callout-note collapse="true"}
-### Abstract
-To what extent do AI-powered technologies threaten to exacerbate existing societal inequities? This presentation examines three core areas through which Generative Artificial Intelligence (GenAI) can pose detrimental harms for society: (1) AI “hallucinations” and mis/disinformation; (2) mass data collection; (3) biased prompt engineering. These examinations culminate in the proposition that the integration of GenAI in education requires a simultaneous integration of critical algorithm studies so students (and educators) are well-versed in the nuances of GenAI ethics – particularly in regard to Open Educational Resources (OER) and Open Educational Practices (OEP). By providing practical recommendations for GenAI integration through sample demonstrations, activities, and case studies that can be conducted in the classroom, this presentation underscores that the GenAI “hype” which is grounded in the promise of objectivity, efficiency, and scalability must be critically evaluated given the high stakes of equity involved. Examining how such technological infrastructures are (re)shaping pedagogy – and education more broadly – is critical for addressing how the lack of rigorous regulation of these technologies threatens to exacerbate existing inequities and obstruct the democratization of knowledge.
-::: 
-
-### Session 2.3b
-
-#### 12:05 - 12:25 | AI as Creative Writing Coach: Exploring Human-AI Collaboration in Creative Writing Learning
+#### 12:25 - 12:45 | AI as Creative Writing Coach: Exploring Human-AI Collaboration in Creative Writing Learning
 
 **Research**
 

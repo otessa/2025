@@ -45,9 +45,22 @@
 
 ## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
 
+::: {.callout-note collapse="true"}
+### Abstract
+Social platforms now algorithmically remix news, memes, and AI‑generated content, blurring the line between fact and fiction, and obscuring traditional credibility cues (e.g., source reputation, visual authenticity, consensus). According to a new report, The State of Generative AI Use in Canada 2025, from the Social Media Lab at Toronto Metropolitan University, 59 percent of Canadians distrust political news online because it may be fake or manipulated, with two-thirds fearing that generative AI could sway elections. Yet paradoxically, students and faculty are embracing these same generative AI tools for study and research support. This apparent disconnect between public concerns and uptake of these tools demands closer scrutiny. The keynote will examine the features that enable the rapid adoption of generative AI tools by the public on the one hand, and how those same features allow bad actors to create and disseminate dis‑ and misinformation at scale on the other. The talk will conclude with a call for actionable research and policy focused on strengthening “epistemic resilience” among students, researchers, and the broader public through critical digital literacy, robust verification practices, and institutional safeguards that ensure the safe and ethical use of generative AI.
+:::
+
 ## 11:00 - 11:15 | Break
 
-## 11:15 - 12:15 | Keynote | Laura Czerniewicz, Catherine Cronin, Helen Beetham
+## 11:15 - 12:15 | Keynote | Laura Czerniewicz, Catherine Cronin, Helen Beetham - Addressing Challenges to Open Education in an Era of Authoritarianism and Big Tech
+
+::: {.callout-note collapse="true"}
+### Abstract
+Open education and openness in general are dealing with multiple crises, including perhaps an identity crisis. How does openness speak to the current moment in education? What resources can it bring? This talk will open up some of these big questions by focusing on three areas:
+1.	How does open intersect with the democratic crisis affecting education?
+2.	Where in the AI stack can open education find a hold?
+3.	What is the place of openness in debates about AI and copyright?
+:::
 
 ## 12:15 - 12:45 | Break
 

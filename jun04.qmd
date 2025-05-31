@@ -91,21 +91,7 @@ We will discuss the technology used to build and host the microlearning, provide
 
 ### Session 6.1b
 
-
-#### 1:05 - 1:25 | Virtual Reality Museums: Redefining Engagement and Understanding in Cultural Heritage
-
-**Practice**
-
-**Yuning Gao** | *New York University*
-
-::: {.callout-note collapse="true"}
-### Abstract
-This session explores the development of a Virtual Reality (VR) museum dedicated to the banjo, tracing its cultural and historical significance. Designed as part of a graduate research project, this immersive learning environment aims to enhance accessibility, engagement, and storytelling within digital museum experiences. By leveraging design thinking principles, 3D modeling, and interactive elements, the VR museum bridges gaps in traditional curation, offering visitors an enriched, self-guided exploration of the instrument’s evolution and social impact. The presentation will outline key phases of the project—from initial research and prototyping to user testing and iteration—highlighting both challenges and unexpected insights. Rooted in a commitment to inclusivity and experiential learning, this work aligns with the conference theme, Reframing Togetherness, by fostering new ways of connecting with history, technology, and diverse audiences. Attendees will gain practical takeaways for integrating VR into educational and cultural spaces, as well as insights into designing immersive experiences that prioritize accessibility and engagement.
-:::
-
-### Session 6.1c
-
-#### 1:25 - 1:45 | Exploring Students’ Perceptions, Practices, and Training Needs Regarding Generative AI
+#### 1:05 - 1:25 | Exploring Students’ Perceptions, Practices, and Training Needs Regarding Generative AI
 
 **Research**
 

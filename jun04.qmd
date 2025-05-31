@@ -44,6 +44,7 @@
 
 
 ## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
+Remote from Congress in Toronto
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -53,6 +54,7 @@ Social platforms now algorithmically remix news, memes, and AI‑generated conte
 ## 11:00 - 11:15 | Break
 
 ## 11:15 - 12:15 | Keynote | Laura Czerniewicz, Catherine Cronin, Helen Beetham - Addressing Challenges to Open Education in an Era of Authoritarianism and Big Tech
+Online in Zoom
 
 ::: {.callout-note collapse="true"}
 ### Abstract

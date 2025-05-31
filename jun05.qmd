@@ -43,7 +43,7 @@
 
 
 ## 10:00 - 11:00 PDT | Keynote | Jennifer Wemigwans - Digital Bundles
-Remote from Congress in Toronto
+Online in Zoom from Congress in Toronto
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -89,7 +89,7 @@ Forthcoming
 
 **Location: CLE B017**
 
-#### 11:15 - 12:05 | Assessment for Equity: Openness and DEI in your grading architecture (WorkShop)
+#### 11:15 - 12:05 | Assessment for Equity: Openness and DEI in your Grading Architecture
 
 **Workshop**
 

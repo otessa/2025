@@ -44,7 +44,7 @@
 
 
 ## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
-Remote from Congress in Toronto
+Online in Zoom from Congress in Toronto
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -59,6 +59,7 @@ Online in Zoom
 ::: {.callout-note collapse="true"}
 ### Abstract
 Open education and openness in general are dealing with multiple crises, including perhaps an identity crisis. How does openness speak to the current moment in education? What resources can it bring? This talk will open up some of these big questions by focusing on three areas:
+
 1.	How does open intersect with the democratic crisis affecting education?
 2.	Where in the AI stack can open education find a hold?
 3.	What is the place of openness in debates about AI and copyright?

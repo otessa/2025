@@ -54,10 +54,7 @@ This presentation will review my previous work in pedagogies for learning commun
 
 ## 11:15 - 12:15 | Concurrent Session 3
 
-(60 mins)
-
 ### Session 3.1
-
 
 #### 11:15 - 12:05 | Integrating Artificial Intelligence into a Community of Inquiry: The Roles of AI
 
@@ -70,16 +67,13 @@ This presentation will review my previous work in pedagogies for learning commun
 The Fifth Industrial Revolution (5IR) highlights the collaboration between humans and technology, emphasizing sustainability, human-centeredness, and environmental responsibility. Artificial intelligence (AI) is a transformative force reshaping instructional design by partnering with learners, addressing individual needs, and fostering personalized learning. This research explores AI applications in instructional design and strategies to overcome challenges in AI integration. Using a three-level model as a learning theory, it examines the roles of AI for individual, team and organizational learning. Furthermore, this study provides practical insights for integrating AI into a community of inquiry (CoI) framework to enhance learning design. The dearth of research on the roles of AI within the CoI framework has made it difficult for practitioners to employ AI in instructional strategies effectively. This paper addresses this gap by proposing AI roles grounded in a three-level model and offering practical insights on integrating AI into a CoI framework. Ultimately, it empowers practitioners to leverage AI effectively, maximize its potential benefits, and address challenges proactively through a theory-informed approach.
 :::
 
-### Session 3.2
-
+### Session 3.2a
 
 #### 11:15 - 11:35 | Addressing the Assumption that Online Learning is Intuitive: An OER for Learning to Learn Online
 
 **Practice**
 
-### Session 3.2b
-
-**Kristin Petrovic et al.**, **Lynn Corcoran**, **Emily Doyle** & **Terra Murray** |  *Athabascau University*
+**Kristin Petrovic et al.**, **Lynn Corcoran**, **Emily Doyle** & **Terra Murray** | *Athabascau University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -172,10 +166,7 @@ By the end of this session, attendees will gain actionable design principles, pr
 
 ## 2:00 - 3:00 | Concurrent Session 5
 
-(60 Mins)
-
 ### Session 5.1
-
 
 #### 2:00 - 2:50 | Speculation: Shaping the Future of Education
 
@@ -191,7 +182,6 @@ Participants will engage in reflection and micro-storytelling activities through
 :::
 
 ### Session 5.2
-
 
 #### 2:00 - 2:50 | Transformative Digital Accessibility and Post-Secondary Teaching Praxis
 

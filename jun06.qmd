@@ -42,14 +42,17 @@
 ::::
 
 ## 9:10 - 10:10 PDT | Presidential Address | Valerie Irvine (UVic) & Stephanie Moore (UNM)
+Online in Zoom
 
 ## 10:15 - 11:15 PDT | Keynote | Jean-Paul Restoule - Considerations for Indigenous Centred Online Course Design
-Onsite in Victoria
+**HHB 105 Onsite in Victoria & Online in Zoom**
 
 ::: {.callout-note collapse="true"}
 ### Abstract
 Indigenous people are keen to adopt and adapt technologies for their own uses and purposes yet have less success in controlling and creating technologies that dominate the learning landscape. What are some ways that Indigenous people approach open, distance and digital education? Restoule will share some observations of the potentials, constraints and cautions Indigenous people have expressed regarding online learning, with reference to relationality, authenticity, and learning design.
 :::
+
+## 11:15 - 11:30 | Break
 
 ## 11:30 - 12:30 | Concurrent Session 11
 
@@ -76,13 +79,13 @@ This session demonstrates how instructional design analytics were used successfu
 
 ### Session 11.1b
 
-**Location: CLE B017**
+**Location: CLE B007**
 
 #### 11:50 - 12:10 | Open Access and the Habitual Use of Crown Photography of Indigenous Children: Ethical Implications
 
 **Research**
 
-**Shawl-Song** | *Independent*
+**Ivy Shawl-Song** | *Independent*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -92,6 +95,7 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 ## 12:30 - 1:45 | Lunch
 
 ## 1:45 - 2:05 | Publication Pathways | Michele Jacobsen (UCalgary) & Valerie Irvine (UVic)
+Online in Zoom
 
 ## 2:05 - 2:15 | Break
 
@@ -172,6 +176,4 @@ This study explores how a sense of belonging impacts the regulation of emotion i
 **Location: TBD**
 
 #### Closing Celebration
-
-:::
 

@@ -42,7 +42,13 @@
 ::::
 
 
-## 10:00 - 11:00 PDT | Keynote | Jennifer Wemigwans - Remote from Congress in Toronto
+## 10:00 - 11:00 PDT | Keynote | Jennifer Wemigwans - Digital Bundles
+Remote from Congress in Toronto
+
+::: {.callout-note collapse="true"}
+### Abstract
+Reflecting Indigenous Knowledge online has the potential to transform education across Canada. In this talk, Dr Wemigwans explores how to ethically present Indigenous Knowledge online through the creation of Digital Bundles. FourDirectionsTeachings.com is an example of a Digital Bundle, an online site where Elders’ Teachings from five distinct First Nations are presented. Digital Bundles represent a way to transform and reframe education by using new technologies to articulate Indigenous Teachings and introduce Canadians to Indigenous epistemologies.
+:::
 
 ## 11:00 - 11:15 | Break
 
@@ -86,6 +92,12 @@ This workshop will provide an overview of how you can use your grading architect
 ## 12:15 - 1:30 | Lunch
 
 ## 1:30 - 2:30 PDT | Keynote | George Veletsianos - What Might/Could/Should Education Look Like in 2035?
+Online from Minnesota
+
+::: {.callout-note collapse="true"}
+### Abstract
+Our societies face economic, demographic, political, environmental, and social challenges, which have resulted in numerous organizations publishing reports calling for brighter education futures. In this interactive keynote, we will envision teaching and learning across diverse contexts in 2035 using a collection of “what if” scenario cards which introduce conundrums, opportunities, and challenges. Through rapid ideation and peer sharing, we will explore multiple education futures, all in the spirit of recognizing the forces that shape and constrain our imagination of what education could be.
+:::
 
 ## 2:45 - 3:45 | Concurrent Session 9 
 

@@ -46,6 +46,7 @@
 ## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement <!--(ask Jean-Paul to join??)--> {.unnumbered}
 
 ## 9:00 - 10:00 | Keynote: Peter Scott | Multi-Laterally Open: A Commonwealth Story
+Online in Zoom from Vancouver
 
 ::: {.callout-note collapse="true"}
 ### Abstract

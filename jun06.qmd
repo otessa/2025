@@ -53,7 +53,7 @@ Indigenous people are keen to adopt and adapt technologies for their own uses an
 
 ## 11:30 - 12:30 | Concurrent Session 11
 
-### Session 11.1
+### Session 11.1a
 
 **Location: CLE B007**
 
@@ -74,11 +74,11 @@ This ‘how to’ presentation will outline a solution for restructuring an exis
 This session demonstrates how instructional design analytics were used successfully in real-world practice to codify and sort existing curricula for program redesign.
 :::
 
-### Session 11.2a
+### Session 11.1b
 
 **Location: CLE B017**
 
-#### 11:30 - 11:50 | Open Access and the Habitual Use of Crown Photography of Indigenous Children: Ethical Implications
+#### 11:50 - 12:10 | Open Access and the Habitual Use of Crown Photography of Indigenous Children: Ethical Implications
 
 **Research**
 
@@ -89,11 +89,11 @@ This session demonstrates how instructional design analytics were used successfu
 The go-to images representing the history of Canada’s Indian Residential Schools (IRS) are of identifiable Indigenous children. As technological advances afford open access to the now digitized photographs, consideration for the child’s right to agency over self is often ignored. Using a social semiotic framework, historical images present alongside paradigmatic relationships to demonstrate the gaps apparent between ethics, Copyright Canada law, child advocacy and social norms. Hundreds of unpublished analogue photographs have passed into provincial and federal archival holdings where copyright remains in perpetuity with the Crown. In cases of academic research and curriculum content design, ethics approval or community engagement are currently not needed when utilizing these images. Many of these children could still be alive today and hold no agency over the photographs. While copyright law serves to protect the creators and users of a photograph, there are no ethical guidelines for the use, dissemination or protection of images of children. This presentation concludes with the demonstration of an interactive reflexive tool developed from the author’s master’s thesis. This tool facilitates ethical consideration beyond the systemic use of ‘Fair Dealing for Educational Purposes’ and may serve to highlight efforts around the privacy and protection of children in research and education.
 :::
 
-### Session 11.2b
+### Session 11.1c
 
 **Location: CLE B017**
 
-#### 11:50 - 12:10 | Title to Come
+#### 12:10 - 12:30 | Title to Come
 
 **Research**
 

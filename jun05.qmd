@@ -74,15 +74,15 @@ Globally, the demand for online education has surged, driven by the need for fle
 
 **Location: CLE B017**
 
-#### 11:35 - 12:55 | Title to Come
+#### 11:35 - 12:55 | Keeping it Together: Exploring Student Experiences in Multi-Access Learning Environments
 
 **Research**
 
-**Valerie Irvine** | *University of Victoria*
+**Valerie Irvine** & **Mariel Miller** | *University of Victoria*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Forthcoming
+Shifts in the educational landscape toward more online learning opportunities has put pressure on brick-and-mortar programs to recruit learners from a smaller pool seeking in-person, on-campus instruction. Post-secondary institutions have little capacity to offer a parallel offering of courses and programs, necessitating either increased online offerings or embedding online access into traditionally on-campus programs. However, literature around merging modalities identifies challenges with remote learners’ sense of belonging necessitating further examination of learner experience in merging modality contexts (Purnama, 2023). In this session, we will present a descriptive phenomenological study of learners’ lived experience of multi-access learning in a two-year Master’s project-based program that brought together both local learners and remote online learners into the same cohort. Data sources included semi-structured phenomenological interviews used to gain in-depth understanding of learners’ experiences learning in multi-access courses during their completion of the educational technology master program. Findings revealed four key themes regarding learner experience. Recommendations for the design and implementation of multi-access learning are discussed.
 :::
 
 ### Session 8.2

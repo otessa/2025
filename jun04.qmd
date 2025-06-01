@@ -46,6 +46,9 @@
 ## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
 Session available online in Zoom & HHB 105. Login to Online Program to obtain session Zoom link.
 
+<a href="https://uvic.zoom.us/j/85367451257?pwd=pv23RcP2oXYxQlsgw37aCjKNhEmFMp.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 ::: {.callout-note collapse="true"}
 ### Abstract
 Social platforms now algorithmically remix news, memes, and AI‑generated content, blurring the line between fact and fiction, and obscuring traditional credibility cues (e.g., source reputation, visual authenticity, consensus). According to a new report, The State of Generative AI Use in Canada 2025, from the Social Media Lab at Toronto Metropolitan University, 59 percent of Canadians distrust political news online because it may be fake or manipulated, with two-thirds fearing that generative AI could sway elections. Yet paradoxically, students and faculty are embracing these same generative AI tools for study and research support. This apparent disconnect between public concerns and uptake of these tools demands closer scrutiny. The keynote will examine the features that enable the rapid adoption of generative AI tools by the public on the one hand, and how those same features allow bad actors to create and disseminate dis‑ and misinformation at scale on the other. The talk will conclude with a call for actionable research and policy focused on strengthening “epistemic resilience” among students, researchers, and the broader public through critical digital literacy, robust verification practices, and institutional safeguards that ensure the safe and ethical use of generative AI.
@@ -55,6 +58,9 @@ Social platforms now algorithmically remix news, memes, and AI‑generated conte
 
 ## 11:15 - 12:15 | Keynote | Laura Czerniewicz, Catherine Cronin, Helen Beetham - Addressing Challenges to Open Education in an Era of Authoritarianism and Big Tech
 Session available online in Zoom & HHB 105. Login to Online Program to obtain session Zoom link.
+
+<a href="https://uvic.zoom.us/j/83727049875?pwd=zcaIg4HcSk7XxtrKBhQXK7E0gFm2F5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -73,6 +79,8 @@ All sessions available online in Zoom & CLE B007/B017. Login to Online Program t
 (60 mins)
 
 ### Session 6.1a
+
+<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 #### 12:45 - 1:05 | MicroDesign in Open/Higher Education
@@ -93,6 +101,8 @@ We will discuss the technology used to build and host the microlearning, provide
 
 ### Session 6.1b
 
+<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:05 - 11:25 | Virtual Reality Museums: Redefining Engagement and Understanding in Cultural Heritage
 
@@ -106,6 +116,9 @@ This session explores the development of a Virtual Reality (VR) museum dedicated
 :::
 
 ### Session 6.1c
+
+<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:25 - 1:45 | Exploring Students’ Perceptions, Practices, and Training Needs Regarding Generative AI
 
@@ -125,6 +138,9 @@ All sessions available online in Zoom & CLE B007/B017. Login to Online Program t
 
 ### Session 7.1
 
+<a href="https://uvic.zoom.us/j/83724223096?pwd=rtkU1Ug9AhW5sHJ0vATBbg3r8EinQ8.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 2:00 - 2:50 | Exploring the Intersection of Agriculture, Technology, and Game-Based Learning
 
 **Workshop**
@@ -137,6 +153,9 @@ This conference session, “Exploring the Intersection of Agriculture, Technolog
 :::
 
 ### Session 7.2
+
+<a href="https://uvic.zoom.us/j/81156941688?pwd=z8IH4uy0RJlF5P5uo9yurbTGYJRvxL.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 2:00 - 2:50 | Educational Pathways to Access, Support, Hope, Transformation, and Opportunities (ePASHTO)
@@ -154,5 +173,7 @@ In August 2021, the Taliban returned to power in Afghanistan. Their policies res
 
 ## 3:15 - 3:30 | Online Conference Closing with **Jon Dron**
 
-:::
+<a href="https://uvic.zoom.us/j/84362307098?pwd=pHnF1rLhDbMNpgl1oO7RVoAjz29b8E.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 

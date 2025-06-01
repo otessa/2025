@@ -45,6 +45,10 @@
 ## 10:00 - 11:00 PDT | Keynote | James Slotta - Critical Action Learning: Empowering Students with Meaning and Purpose in 21st Century Classrooms
 Session available online in Zoom & HHB 105. Login to Online Program to obtain session Zoom link.
 
+<a href="https://uvic.zoom.us/j/83887491824?pwd=2Gs32IiEqbbk9dpz2sho3gTRlaniFN.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
+
 ::: {.callout-note collapse="true"}
 ### Abstract
 This presentation will review my previous work in pedagogies for learning communities, including the use of “smart classroom” technologies to support collective inquiry and scaffold students and teachers. It will then introduce Critical Action Learning, as an international professional learning community of teachers. I will present the CALE design framework, pedagogical approaches, and present several examples of teacher enactments. I will also discuss new roles for physical classroom space and technology environments.
@@ -56,6 +60,9 @@ This presentation will review my previous work in pedagogies for learning commun
 All sessions available online in Zoom & CLE B007/B017. Login to Online Program to obtain session Zoom link.
 
 ### Session 3.1
+
+<a href="https://uvic.zoom.us/j/82285881523?pwd=bdoiIU9mg23xag0BNo6jBea7XlgbmB.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 11:15 - 12:05 | Integrating Artificial Intelligence into a Community of Inquiry: The Roles of AI
 
@@ -69,6 +76,9 @@ The Fifth Industrial Revolution (5IR) highlights the collaboration between human
 :::
 
 ### Session 3.2a
+
+<a href="https://uvic.zoom.us/j/81381479887?pwd=cYgsMcUMvQax8ythkOW7nKX2Q4JkBG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 11:15 - 11:35 | Addressing the Assumption that Online Learning is Intuitive: An OER for Learning to Learn Online
 
@@ -87,6 +97,9 @@ In this presentation, we share the overall aim of adapting this OER, the main to
 
 ### Session 3.2b
 
+<a href="https://uvic.zoom.us/j/81381479887?pwd=cYgsMcUMvQax8ythkOW7nKX2Q4JkBG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 11:35 - 11:55 | Creating Whiteboard Animations to Explain Tooth Microanatomy
 
 **Practice**
@@ -101,6 +114,9 @@ We have used a graphics editor, Procreate, and an animation maker, VideoScribe t
 :::
 
 ### Session 3.2c
+
+<a href="https://uvic.zoom.us/j/81381479887?pwd=cYgsMcUMvQax8ythkOW7nKX2Q4JkBG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 11:55 - 12:15 | Developing a Mobile App for Oral Histology
 
@@ -120,6 +136,9 @@ All sessions available online in Zoom & CLE B007/B017. Login to Online Program t
 
 ### Session 4.1a
 
+<a href="https://uvic.zoom.us/j/84292463878?pwd=8phqf6wQYo2Wy6mm0Wvaha0szd3baT.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 12:45 - 1:05 | Mid-American Conference Websites and Student Well-Being: A Content Analysis
 
 **Research**
@@ -133,6 +152,9 @@ This study examines how the twelve universities within the Mid-American Conferen
 
 ### Session 4.1b
 
+<a href="https://uvic.zoom.us/j/84292463878?pwd=8phqf6wQYo2Wy6mm0Wvaha0szd3baT.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 1:05 - 1:25 | How Are Post-Secondary Educators Navigating the AI Revolution?
 
 **Research**
@@ -145,6 +167,9 @@ Generative artificial intelligence (AI) promises to reshape how we teach and lea
 :::
 
 ### Session 4.2
+
+<a href="https://uvic.zoom.us/j/83501621211?pwd=RYsTfnciMYubnQzibFPf8YbqzCcIY7.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 12:45 - 1:45 | Designing Calm: Reducing Learner Anxiety with H5P in Digital OER Textbooks
 
@@ -168,6 +193,9 @@ All sessions available online in Zoom & CLE B007/B017. Login to Online Program t
 
 ### Session 5.1
 
+<a href="https://uvic.zoom.us/j/85833151185?pwd=WIY6T5AvMub2lIyo7c6gFn2zBETqG8.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 2:00 - 2:50 | Speculation: Shaping the Future of Education
 
 **Practice**
@@ -182,6 +210,9 @@ Participants will engage in reflection and micro-storytelling activities through
 :::
 
 ### Session 5.2
+
+<a href="https://uvic.zoom.us/j/85870409429?pwd=v2KtYJ7MKhcEicmqjtCeLdSVOXvdu8.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 2:00 - 2:50 | Transformative Digital Accessibility and Post-Secondary Teaching Praxis
 

@@ -46,7 +46,7 @@
 ## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement <!--(ask Jean-Paul to join??)--> {.unnumbered}
 
 ## 9:00 - 10:00 | Keynote: Peter Scott | Multi-Laterally Open: A Commonwealth Story
-Online in Zoom from Vancouver
+Online in Zoom from Vancouver & HHB 105. Login 
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -55,10 +55,8 @@ The Commonwealth of Learning (COL) was established in 1987 by the Heads of Gover
 
 ## 10:00 - 10:15 | Break
 
-## 10:15 - 11:15 | Concurrent Session 1 
-
-(60 Mins)
-
+## 10:15 - 11:15 | Concurrent Session 1
+Online in Zoom & CLE B007/B017. Login to Online Program to access session in Zoom.
 
 ### Session 1.1
 
@@ -114,9 +112,8 @@ To what extent do AI-powered technologies threaten to exacerbate existing societ
 
 ## 11:15 - 11:45 | Break
   
-## 11:45 - 12:45 | Concurrent Session 2 
-
-(60 Mins)
+## 11:45 - 12:45 | Concurrent Session 2
+Online in Zoom & CLE B007/B017. Login to Online Program to access session in Zoom.
 
 ### Session 2.1
 

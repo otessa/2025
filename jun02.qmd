@@ -46,7 +46,7 @@
 ## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement <!--(ask Jean-Paul to join??)--> {.unnumbered}
 
 ## 9:00 - 10:00 | Keynote: Peter Scott | Multi-Laterally Open: A Commonwealth Story
-Online in Zoom from Vancouver & HHB 105. Login 
+Online in Zoom from Vancouver & HHB 105. Login to Online Program to access session in Zoom.
 
 ::: {.callout-note collapse="true"}
 ### Abstract
@@ -56,7 +56,7 @@ The Commonwealth of Learning (COL) was established in 1987 by the Heads of Gover
 ## 10:00 - 10:15 | Break
 
 ## 10:15 - 11:15 | Concurrent Session 1
-Online in Zoom & CLE B007/B017. Login to Online Program to access session in Zoom.
+All sessions available online in Zoom & CLE B007/B017. Login to Online Program to obtain session Zoom link.
 
 ### Session 1.1
 
@@ -71,7 +71,7 @@ Online in Zoom & CLE B007/B017. Login to Online Program to access session in Zoo
 In language teaching, most research on educational technologies (edtech) focus on the positive potential and pedagogical value of using different edtech tools. At the same time, many studies have also reported time as a limiting factor for implementing edtech in the classroom. The role of time as a constraint for the adoption of edtech in language classrooms is usually under-discussed. Rather than addressing the potential burden of engaging with new technologies, many scholars investigating the impact of technology-mediated language learning seem to suggest that teachers do not adapt educational technologies due to deficits in teachers’ skills. To promote alternative research agendas and institutional policies that forefront teachers, I will present the results of a literature review investigating how technology-aided language teaching can impact a teacher’s time inside and outside the classroom. Recommendations for improved edtech uptake that respect teachers’ time are also discussed.
 :::
 
-### Session 1.2a 
+### Session 1.2a
 
 #### 10:15 - 10:35 | Reframing Presence in Fully Online Learning: Embracing Imagination, the More-than-human, and Sustainability
 
@@ -113,7 +113,7 @@ To what extent do AI-powered technologies threaten to exacerbate existing societ
 ## 11:15 - 11:45 | Break
   
 ## 11:45 - 12:45 | Concurrent Session 2
-Online in Zoom & CLE B007/B017. Login to Online Program to access session in Zoom.
+All sessions available online in Zoom & CLE B007/B017. Login to Online Program to obtain session Zoom link.
 
 ### Session 2.1
 

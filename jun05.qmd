@@ -152,15 +152,15 @@ The Digital Learning Competency Framework developed at Vancouver Community Colle
 
 **Location: CLE B017**
 
-#### 2:45 - 3:35 | Title to Come
+#### 2:45 - 3:35 | Learner Modality Preferences and Perspectives on Online Learning
 
-**Workshop**
+**50 Minute Session**
 
-**Valerie Irvine** & **Mariel Miller** | *University of Victoria*
+**Valerie Irvine** | *University of Victoria*, **Mariel Miller** | *University of Victoria*, **Jennifer Lloyd** | *University of Victoria*, **Okan Bulut** | *University of Alberta*, **Jean-Paul Restoule** | *University of Victoria* & **George Veletsianos** | *University of Minnesota*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Forthcoming
+While the COVID-19 pandemic significantly transformed post-secondary course delivery formats, little attention has been paid to post-pandemic learner preferences. To address this gap, we designed two scales to advance our understanding of learner preferences for online learning modalities: the Modalities of Digital Education – Learner Preference (MODE-LP) scale and the Perceptions of Online Learning Scale (POLS). In this session, we will review results from the first data collection including parsing out results by learner demographics, such as first-year, first generation, Indigenous, learners with disabilities or chronic health issues, etc.
 :::
 
 ## 3:45 - 4:00 | Break

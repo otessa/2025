@@ -47,8 +47,11 @@
 ### Reframing Togetherness: Shifting our Focus from Technology to Problems
 
 ::: {.callout-note}
-This session will be recorded and the recording will be made available during the conference.
+This session was recorded and the recording is available at the link below.
 :::
+
+<a href="https://drive.google.com/file/d/1OoTWCCrzc9XroWz2c5t7IN955-BQSMQd/view?usp=drive_link" target="_blank" class="badge bg-success"><b>Link to Zoom Recording</b></a>
+
 
 Keeping in mind the overall theme of “Reframing Togetherness,” this presentation will emphasize the need to change the focus of our research in educational technology from “things” such as Generative AI or Virtual Reality to serious problems such as educational inequity or absenteeism. Unfortunately, much of our research continues to be focused on things rather than problems. Today, I will present an updated and more urgent perspective on this issue. I will recommend three important directions for research in our field. 
 

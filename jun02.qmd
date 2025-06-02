@@ -132,7 +132,7 @@ To what extent do AI-powered technologies threaten to exacerbate existing societ
   
 ## 11:45 - 12:45 | Concurrent Session 2
 All sessions available online in Zoom & CLE B007/B017. 
-
+<!-- no show
 ### Session 2.1
 
 <a href="https://uvic.zoom.us/j/87568930571?pwd=b2IOizS32zdJFqT83VuImaJWvd0w1A.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
@@ -153,7 +153,7 @@ The project or collaborative that we call “Sopala” (Dagbani for “Innovatio
 Open-source software and openly licensed materials are the most practical tools for measuring and monitoring learning in K-12 education because they remove the barriers that exist in contexts like the United States, where proprietary tools and proprietary content often restricts access to student learning data. Sopala demonstrates how open practices can impact student learning in any setting.
 
 Sopala focuses on three key areas: 1) increasing teacher skills and professionalism with AI-enhanced training courses; 2) real-time access to student learning data through the delivery of digital assessments; and 3) translating educational materials aligned to standards using AI.
-:::
+::: -->
 
 ### Session 2.2a
 

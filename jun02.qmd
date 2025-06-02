@@ -188,8 +188,8 @@ Trauma-informed educational practices are rapidly gaining traction in higher edu
 This session aims to support researchers considering projects that centre adult trauma survivors who learn in open/online settings. Using SAMHSA’s (2014) guidelines for trauma-informed practice, the session dispels myths, dismantles barriers, and provides practical guidance for implementing respectful, collaborative research relations with survivors, ensuring safety for researchers and participants, and attaining institutional research ethics board approval.
 :::
 
-### Session 2.2c
-
+<!-- ### Session 2.2c
+hidden by author request
 <a href="https://uvic.zoom.us/j/82497889799?pwd=0thRfVnrzM66cJTgBQ2MJKIxorLIN6.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 #### 12:25 - 12:45 | AI as Creative Writing Coach: Exploring Human-AI Collaboration in Creative Writing Learning
@@ -201,7 +201,7 @@ This session aims to support researchers considering projects that centre adult 
 ::: {.callout-note collapse="true"}
 ### Abstract
 What role can AI play in creative writing learning beyond simply generating or editing text? My research investigates the potential of generative AI as a collaborative partner in creative learning, focusing on its role in prompting the writer’s reflection rather than contributing directly to the writing itself. Drawing on enactivist theory’s (1) view of learning as emerging through interaction and posthumanist perspectives on non-human agency, I intend to examine how sustained AI-human dialogue influences creative development and writing processes. The research combines autoethnography to document the writer’s subjective experience with thing ethnography (2) to capture AI’s role as an active participant, producing both theoretical insights into human-AI collaboration and a literary work that emerges through this process. The resulting creative piece serves as both artwork and case study, embodying the research findings and demonstrating how AI-human creative partnerships affect creative choices, self-reflection, and artistic development.
-:::
+::: -->
 
 ## 12:45 - 1:00 | Break
 

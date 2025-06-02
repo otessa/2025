@@ -41,6 +41,9 @@
 :::
 ::::
 
+<a href="https://chat.opened.ca/signup_user_complete/?id=fk6gcpykkpbqtcdozhxirfptxa&md=link&sbr=su" target="_blank" class="badge bg-success"><b>Link to the Conference Backchannel in Mattermost - Please Join the Conversation</b></a>
+
+
 ## 9:30 - 10:00 | Conference Welcome, Announcements, & Land Acknowledgement{.unnumbered}
 
 <a href="https://uvic.zoom.us/j/85983137758?pwd=I8nlsRNz44LYPxFAUsBijf2caW6E1P.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>

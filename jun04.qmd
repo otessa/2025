@@ -42,6 +42,9 @@
 :::
 ::::
 
+<a href="https://chat.opened.ca/signup_user_complete/?id=fk6gcpykkpbqtcdozhxirfptxa&md=link&sbr=su" target="_blank" class="badge bg-success"><b>Link to the Conference Backchannel in Mattermost - Please Join the Conversation</b></a>
+
+
 
 ## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
 Session available online in Zoom & HHB 105. 

@@ -98,7 +98,7 @@ In language teaching, most research on educational technologies (edtech) focus o
 In the context of fully online learning, higher education students have been found to struggle with feelings of isolation, lack of experience of presence, and lack of meaningful connections. These in turn have a negative effect on learning outcomes. To tackle these challenges, the presentation proposes drawing on posthumanist and socio-materialist thought. How to foster a sense of presence and togetherness in digital learning spaces is a question many online teachers, including myself, find challenging to answer. Are synchronous online sessions the only plausible option? This presentation aims to challenge our imagination by reflecting on both theoretical underpinnings and practical steps for educators to create more inclusive online learning environments that may enable opportunities for experiencing presence, ultimately aiming to reframe the concept of togetherness in fully online education.
 :::
 
-### Session 1.2b 
+<!-- ### Session 1.2b 
 
 <a href="https://uvic.zoom.us/j/81691393822?pwd=MbhPz0x198Dh8Q2K3N6FJ8XiQsyaZe.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
@@ -111,7 +111,7 @@ In the context of fully online learning, higher education students have been fou
 ::: {.callout-note collapse="true"}
 ### Abstract
 Summative course feedback often leaves instructors with more questions than answers, particularly when interpreting student experiences across diverse populations and determining meaningful improvements. In high-enrollment, introductory computing courses, this challenge is especially pressing. Students and faculty from diverse academic and personal backgrounds amplify the need to understand emotional patterns for equitable instruction and increased student satisfaction. This short paper introduces the use of the Emotional Trajectory Model (ETM) as a computational framework for analyzing student sentiment over time. Using end-of-semester instructional evaluation feedback collected across six semesters in the Using Information Technology course, we applied ETM to examine how students emotionally engaged with the course throughout the selected terms. Our focus is on developing a method that enables faculty to discover patterns obscured in traditional evaluations. We outline a high-level overview of the data preparation and analytical process used to generate sentiment-based emotional analysis that evaluates trends in student satisfaction with greater depth. By exploring how students respond emotionally to different aspects of the course, we aim to support more responsive and reflective pedagogical practices–approaches that foster belonging, persistence, and success for all students.
-:::
+::: -->
 
 ### Session 1.2c
 

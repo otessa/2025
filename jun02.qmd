@@ -43,7 +43,7 @@
 ::::
 
 
-## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement <!--(ask Jean-Paul to join??)--> {.unnumbered}
+## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement{.unnumbered}
 
 <a href="https://uvic.zoom.us/j/88616260009?pwd=D4GRY6x7wJFJKMR576MfgFIVhOb1Pj.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 

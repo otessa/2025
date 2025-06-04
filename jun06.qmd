@@ -162,18 +162,17 @@ The Unified Theory of Acceptance and Use of Technology (UTAUT) has played a cruc
 
 <a href="https://uvic.zoom.us/j/82738853811?pwd=Oo1VNpQDfOJbPNsc9SNHx3aMBpnbE0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
-
 **Location: CLE B017**
 
-#### 2:15 - 2:35 | AI Community of Practice
+#### 2:15 - 2:35 | From Silos to Shared Knowledge: Creating a Provincial Generative AI Community of Practice in Post-Secondary Education
 
 **Practice**
 
-**Mariel Miller** | *University of Victoria*
+**Alexander Warrington**, **Mariel Miller**, **Christian Bock** | *University of Victoria*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-Forthcoming
+As generative AI (GenAI) continues to impact teaching and learning in post-secondary education, it presents both significant opportunities and complex challenges for educators, academic support staff, institutional leaders, and students. This session explores the rationale, potential benefits, and structural considerations for establishing a provincial, or pan-Canadian, Community of Practice (CoP) focused on GenAI in higher education. In this session, we will begin by exploring the need for a CoP as a collaborative response to shared concerns, including ethical use, student skills and competencies, pedagogical adaptation, and beyond. Next, we will discuss examples of existing CoP models from various institutions, analyzing their structures, activities, and demonstrated impacts. Finally, the session will conclude with an interactive discussion on the value, critical foci, challenges, and sustainability of a cross-institutional CoP. Discussion questions will focus on the potential benefits of provincial or national coordination and the critical issues to consider moving forward. By fostering conversation and integrating perspectives, this session aims to take first steps toward initiating or enhancing collaboration within and across institutions.
 :::
 
 ### Session 12.2b

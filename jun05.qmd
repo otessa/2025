@@ -186,15 +186,15 @@ The Digital Learning Competency Framework developed at Vancouver Community Colle
 
 **Location: CLE B017**
 
-#### 2:45 - 3:35 | Learner Modality Preferences and Perspectives on Online Learning
+#### 2:45 - 3:35 | Integrating Artificial Intelligence into a Community of Inquiry: The Roles of AI
 
-**50 Minute Session**
+**Practice**
 
-**Valerie Irvine** | *University of Victoria*, **Mariel Miller** | *University of Victoria*, **Jennifer Lloyd** | *University of Victoria*, **Okan Bulut** | *University of Alberta*, **Jean-Paul Restoule** | *University of Victoria* & **George Veletsianos** | *University of Minnesota*
+**Hyeyung Park** | *Athabascau University*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
-While the COVID-19 pandemic significantly transformed post-secondary course delivery formats, little attention has been paid to post-pandemic learner preferences. To address this gap, we designed two scales to advance our understanding of learner preferences for online learning modalities: the Modalities of Digital Education – Learner Preference (MODE-LP) scale and the Perceptions of Online Learning Scale (POLS). In this session, we will review results from the first data collection including parsing out results by learner demographics, such as first-year, first generation, Indigenous, learners with disabilities or chronic health issues, etc.
+The Fifth Industrial Revolution (5IR) highlights the collaboration between humans and technology, emphasizing sustainability, human-centeredness, and environmental responsibility. Artificial intelligence (AI) is a transformative force reshaping instructional design by partnering with learners, addressing individual needs, and fostering personalized learning. This research explores AI applications in instructional design and strategies to overcome challenges in AI integration. Using a three-level model as a learning theory, it examines the roles of AI for individual, team and organizational learning. Furthermore, this study provides practical insights for integrating AI into a community of inquiry (CoI) framework to enhance learning design. The dearth of research on the roles of AI within the CoI framework has made it difficult for practitioners to employ AI in instructional strategies effectively. This paper addresses this gap by proposing AI roles grounded in a three-level model and offering practical insights on integrating AI into a CoI framework. Ultimately, it empowers practitioners to leverage AI effectively, maximize its potential benefits, and address challenges proactively through a theory-informed approach.
 :::
 
 ## 3:45 - 4:00 | Break

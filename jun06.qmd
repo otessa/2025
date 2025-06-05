@@ -49,8 +49,6 @@ Online in Zoom & HHB 110
 
 <a href="https://uvic.zoom.us/j/89060441105?pwd=DNZMaC4TEl9cbQC1sZpwZLVqxJHFl0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
-
-
 ## 10:15 - 11:15 PDT | Keynote | Jean-Paul Restoule - Considerations for Indigenous Centred Online Course Design
 Session available in person in HHB 110 & online in Zoom
 
@@ -72,7 +70,7 @@ All sessions also available online in Zoom
 <a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
-**Location: CLE B007**
+**Location: CLE B017**
 
 #### 11:30 - 11:50 | Instructional Design Analytics in Practice: Converting a Multi-Course Graduate Bridging Program from Blended-Synchronous to Blended-Asynchronous Delivery Using Risk-Based and Qualitative Research Techniques
 
@@ -96,7 +94,7 @@ This session demonstrates how instructional design analytics were used successfu
 <a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
-**Location: CLE B007**
+**Location: CLE B017**
 
 #### 11:50 - 12:10 | Open Access and the Habitual Use of Crown Photography of Indigenous Children: Ethical Implications
 
@@ -112,7 +110,7 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 ## 12:30 - 1:45 | Lunch
 
 ## 1:45 - 2:05 | Publication Pathways | Michele Jacobsen (UCalgary) & Valerie Irvine (UVic)
-Session available online in Zoom & CLE B007/B017 
+Session available online in Zoom & CLE B017 
 
 <a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
@@ -127,7 +125,7 @@ All sessions also available online in Zoom
 <a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
-**Location: CLE B007**
+**Location: CLE B017**
 
 #### 2:15 - 2:35 | Developing the Technology-integrated Assessment Scale
 
@@ -145,7 +143,7 @@ This presentation will highlight the process of building and testing a new scale
 <a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
-**Location: CLE B007**
+**Location: CLE B017**
 
 #### 2:35 - 2:55 | From Mobile Learning to Artificial Intelligence: Evolving UTAUT Constructs in Educational Technology Adoption
 
@@ -162,7 +160,7 @@ The Unified Theory of Acceptance and Use of Technology (UTAUT) has played a cruc
 
 <a href="https://uvic.zoom.us/j/82738853811?pwd=Oo1VNpQDfOJbPNsc9SNHx3aMBpnbE0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
-**Location: CLE B017**
+**Location: CLE B009**
 
 #### 2:15 - 2:35 | From Silos to Shared Knowledge: Creating a Provincial Generative AI Community of Practice in Post-Secondary Education
 
@@ -180,7 +178,7 @@ As generative AI (GenAI) continues to impact teaching and learning in post-secon
 <a href="https://uvic.zoom.us/j/82738853811?pwd=Oo1VNpQDfOJbPNsc9SNHx3aMBpnbE0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
-**Location: CLE B017**
+**Location: CLE B009**
 
 #### 2:35 - 2:55 | The Impact of Sense of Belonging on Emotion Regulation in Online Collaborative Learning: A Cross-Case Comparison of Small Groups
 

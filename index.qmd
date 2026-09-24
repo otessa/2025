@@ -46,7 +46,7 @@
 :::
 ::::
 
-<a href="https://chat.opened.ca/signup_user_complete/?id=fk6gcpykkpbqtcdozhxirfptxa&md=link&sbr=su" target="_blank" class="badge bg-success"><b>Link to Mattermost</b></a>
+
 
 
  

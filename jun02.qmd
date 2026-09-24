@@ -47,13 +47,13 @@
 
 ## 8:30 - 9:00 | Conference Welcome, Announcements, & Land Acknowledgement{.unnumbered}
 
-<a href="https://uvic.zoom.us/j/88616260009?pwd=D4GRY6x7wJFJKMR576MfgFIVhOb1Pj.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ## 9:00 - 10:00 | Keynote: Peter Scott | Multi-Laterally Open: A Commonwealth Story
 Session available online in Zoom & HHB 105. 
 
-<a href="https://uvic.zoom.us/j/85437082796?pwd=A0uKZnFp2Imb4Z3dwBT1JsI9YKPguk.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -68,7 +68,7 @@ All sessions available online in Zoom & CLE B007/B017.
 
 ### Session 1.1
 
-<a href="https://uvic.zoom.us/j/89650808089?pwd=BTlOaWDyW9rN432C8v218Sh8FSXp55.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 10:15 - 11:05 | Time Barriers for Adopting Digital Tools in Language Teachers’ Practice
 
@@ -84,7 +84,7 @@ In language teaching, most research on educational technologies (edtech) focus o
 
 ### Session 1.2a
 
-<a href="https://uvic.zoom.us/j/81691393822?pwd=MbhPz0x198Dh8Q2K3N6FJ8XiQsyaZe.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 10:15 - 10:35 | Reframing Presence in Fully Online Learning: Embracing Imagination, the More-than-human, and Sustainability
@@ -100,7 +100,7 @@ In the context of fully online learning, higher education students have been fou
 
 <!-- ### Session 1.2b 
 
-<a href="https://uvic.zoom.us/j/81691393822?pwd=MbhPz0x198Dh8Q2K3N6FJ8XiQsyaZe.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 10:35 - 10:55 | Modelling Students Emotional Trajectories in Course Evaluations: A Computational Framework for Enhancing Student Success
 
@@ -115,7 +115,7 @@ Summative course feedback often leaves instructors with more questions than answ
 
 ### Session 1.2c
 
-<a href="https://uvic.zoom.us/j/81691393822?pwd=MbhPz0x198Dh8Q2K3N6FJ8XiQsyaZe.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 10:55 - 11:15 | “Generating” Equity? Why Generative AI-Powered Education Necessitates Integration of Critical Algorithm Studies
 
@@ -135,7 +135,7 @@ All sessions available online in Zoom & CLE B007/B017.
 <!-- no show
 ### Session 2.1
 
-<a href="https://uvic.zoom.us/j/87568930571?pwd=b2IOizS32zdJFqT83VuImaJWvd0w1A.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 11:45 - 12:35 | AI and Human-Centered Open Education: Sopala: An Innovative Model for K-12 Education
@@ -157,7 +157,7 @@ Sopala focuses on three key areas: 1) increasing teacher skills and professional
 
 ### Session 2.2a
 
-<a href="https://uvic.zoom.us/j/82497889799?pwd=0thRfVnrzM66cJTgBQ2MJKIxorLIN6.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 11:45 - 12:05 | Exploring the Alignment of Design Principles for K-12 Online Learning with Researched Models and Standards: Principles to Guide Engaging and Supportive Online Learning
@@ -173,7 +173,7 @@ In 2023, researchers explored the relationship between *Design Principles for K-
 
 ### Session 2.2b
 
-<a href="https://uvic.zoom.us/j/82497889799?pwd=0thRfVnrzM66cJTgBQ2MJKIxorLIN6.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 12:05 - 12:25 | Yes, You Can: Research With Adult Trauma Survivors Who Learn Online
 
@@ -190,7 +190,7 @@ This session aims to support researchers considering projects that centre adult 
 
 <!-- ### Session 2.2c
 hidden by author request
-<a href="https://uvic.zoom.us/j/82497889799?pwd=0thRfVnrzM66cJTgBQ2MJKIxorLIN6.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 12:25 - 12:45 | AI as Creative Writing Coach: Exploring Human-AI Collaboration in Creative Writing Learning
 
@@ -207,5 +207,5 @@ What role can AI play in creative writing learning beyond simply generating or e
 
 ## 1:00- 2:30 | Networking Online
 
-<a href="https://uvic.zoom.us/j/84895665805?pwd=Y1eYddktb6P6FDHZrI1iuMTDG5V6bJ.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 

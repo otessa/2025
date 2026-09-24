@@ -41,19 +41,19 @@
 :::
 ::::
 
-<a href="https://chat.opened.ca/signup_user_complete/?id=fk6gcpykkpbqtcdozhxirfptxa&md=link&sbr=su" target="_blank" class="badge bg-success"><b>Link to Mattermost</b></a>
+
 
 
 ## 9:30 - 10:00 | Conference Welcome, Announcements, & Land Acknowledgement{.unnumbered}
 
-<a href="https://uvic.zoom.us/j/85983137758?pwd=I8nlsRNz44LYPxFAUsBijf2caW6E1P.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 
 ## 10:00 - 11:00 PDT | Keynote | Jennifer Wemigwans - Digital Bundles
 Session available online in Zoom & HHB 105. 
 
-<a href="https://uvic.zoom.us/j/89691593411?pwd=M5loK5aAPkNwgdgLDgPa9r6RQ2J2fI.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -68,7 +68,7 @@ All sessions also available online in Zoom.
 
 ### Session 8.1a
 
-<a href="https://uvic.zoom.us/j/88188367843?pwd=YWQjKMgpA86Ha6iPagmqyPphTJh0oS.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B007**
@@ -87,7 +87,7 @@ Globally, the demand for online education has surged, driven by the need for fle
 
 ### Session 8.1b
 
-<a href="https://uvic.zoom.us/j/88188367843?pwd=YWQjKMgpA86Ha6iPagmqyPphTJh0oS.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B007**
@@ -105,7 +105,7 @@ Shifts in the educational landscape toward more online learning opportunities ha
 
 ### Session 8.2
 
-<a href="https://uvic.zoom.us/j/86057386129?pwd=DEL9Y0njplcPm1zh4vqs6gDsCc6LmA.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B017**
@@ -127,7 +127,7 @@ This workshop will provide an overview of how you can use your grading architect
 ## 1:30 - 2:30 PDT | Keynote | George Veletsianos - What Might/Could/Should Education Look Like in 2035?
 Session presented from Minnesota, available online in Zoom & HHB 110. 
 
-<a href="https://uvic.zoom.us/j/84278059180?pwd=AxOR9jFLrxXauCyVftMWHRQxla1h2W.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -142,7 +142,7 @@ All sessions also available online in Zoom.
 
 ### Session 9.1a
 
-<a href="https://uvic.zoom.us/j/88481406332?pwd=N9UHbdyOYTk28dQKUy3jlfXMH1NONT.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B007**
@@ -162,7 +162,7 @@ From the very beginning of the COVID-19 pandemic, digital technologies proved to
 
 ### Session 9.1b
 
-<a href="https://uvic.zoom.us/j/88481406332?pwd=N9UHbdyOYTk28dQKUy3jlfXMH1NONT.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B007**
@@ -181,7 +181,7 @@ The Digital Learning Competency Framework developed at Vancouver Community Colle
 
 ### Session 9.2
 
-<a href="https://uvic.zoom.us/j/87401858953?pwd=8ucYHYvI8vzdkL0MjSCPd2bO9pvpmC.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B017**
@@ -204,7 +204,7 @@ All sessions also available online in Zoom.
 
 ### Session 10.1a
 
-<a href="https://uvic.zoom.us/j/88481406332?pwd=N9UHbdyOYTk28dQKUy3jlfXMH1NONT.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B007**
@@ -222,7 +222,7 @@ The rapid advancement of immersive technologies, including virtual reality (VR),
 
 ### Session 10.1b
 
-<a href="https://uvic.zoom.us/j/88481406332?pwd=N9UHbdyOYTk28dQKUy3jlfXMH1NONT.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B007**
@@ -240,7 +240,7 @@ The project focuses on meeting the needs of educators to feel empowered to use d
 
 ### Session 10.2
 
-<a href="https://uvic.zoom.us/j/87401858953?pwd=8ucYHYvI8vzdkL0MjSCPd2bO9pvpmC.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 **Location: CLE B017**

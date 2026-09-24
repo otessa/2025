@@ -49,7 +49,7 @@
 ## 10:00 - 11:00 PDT | Keynote | Anatoliy Gruzd - From Prompt to Propaganda: How Generative AI Fuels Disinformation and Misinformation and What We Must Do
 Session available online in Zoom & HHB 105. 
 
-<a href="https://uvic.zoom.us/j/85367451257?pwd=pv23RcP2oXYxQlsgw37aCjKNhEmFMp.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -62,7 +62,7 @@ Social platforms now algorithmically remix news, memes, and AI‑generated conte
 ## 11:15 - 12:15 | Keynote | Laura Czerniewicz, Catherine Cronin, Helen Beetham - Addressing Challenges to Open Education in an Era of Authoritarianism and Big Tech
 Session available online in Zoom & HHB 105. 
 
-<a href="https://uvic.zoom.us/j/83727049875?pwd=zcaIg4HcSk7XxtrKBhQXK7E0gFm2F5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -83,7 +83,7 @@ All sessions available online in Zoom & CLE B007/B017.
 
 ### Session 6.1a
 
-<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 12:45 - 1:05 | MicroDesign in Open/Higher Education
@@ -104,7 +104,7 @@ We will discuss the technology used to build and host the microlearning, provide
 
 ### Session 6.1b
 
-<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 1:05 - 1:25 | Virtual Reality Museums: Redefining Engagement and Understanding in Cultural Heritage
@@ -120,7 +120,7 @@ This session explores the development of a Virtual Reality (VR) museum dedicated
 
 ### Session 6.1c
 
-<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 1:25 - 1:45 | Exploring Students’ Perceptions, Practices, and Training Needs Regarding Generative AI
@@ -141,7 +141,7 @@ All sessions available online in Zoom & CLE B007/B017.
 
 ### Session 7.1
 
-<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 2:00 - 2:50 | Exploring the Intersection of Agriculture, Technology, and Game-Based Learning
@@ -157,7 +157,7 @@ This conference session, “Exploring the Intersection of Agriculture, Technolog
 
 ### Session 7.2
 
-<a href="https://uvic.zoom.us/j/81156941688?pwd=z8IH4uy0RJlF5P5uo9yurbTGYJRvxL.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 
@@ -176,7 +176,7 @@ In August 2021, the Taliban returned to power in Afghanistan. Their policies res
 
 ## 3:15 - 3:30 | Online Conference Closing with Jon Dron
 
-<a href="https://uvic.zoom.us/j/81512220916?pwd=2kmAZ6wMWTUIl38pCR0b82wwn131l9.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 

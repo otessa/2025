@@ -41,18 +41,15 @@
 :::
 ::::
 
-<a href="https://chat.opened.ca/signup_user_complete/?id=fk6gcpykkpbqtcdozhxirfptxa&md=link&sbr=su" target="_blank" class="badge bg-success"><b>Link to Mattermost</b></a>
 
 
 ## 9:10 - 10:10 PDT | Presidential Address | Valerie Irvine (UVic) & Stephanie Moore (UNM)
 Online in Zoom & HHB 110
 
-<a href="https://uvic.zoom.us/j/89060441105?pwd=DNZMaC4TEl9cbQC1sZpwZLVqxJHFl0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 ## 10:15 - 11:15 PDT | Keynote | Jean-Paul Restoule - Considerations for Indigenous Centred Online Course Design
 Session available in person in HHB 110 & online in Zoom
 
-<a href="https://uvic.zoom.us/j/88276282123?pwd=72eQMU9NM87qrQEa6HGaeNHqbHXEFv.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 ::: {.callout-note collapse="true"}
@@ -67,7 +64,6 @@ All sessions also available online in Zoom
 
 ### Session 11.1a
 
-<a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 **Location: CLE B017**
@@ -91,7 +87,6 @@ This session demonstrates how instructional design analytics were used successfu
 
 ### Session 11.1b
 
-<a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 **Location: CLE B017**
@@ -112,7 +107,6 @@ The go-to images representing the history of Canada’s Indian Residential Schoo
 ## 1:45 - 2:05 | Publication Pathways | Michele Jacobsen (UCalgary) & Valerie Irvine (UVic)
 Session available online in Zoom & CLE B017 
 
-<a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 ## 2:05 - 2:15 | Break
@@ -122,7 +116,6 @@ All sessions also available online in Zoom
 
 ### Session 12.1a
 
-<a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 **Location: CLE B017**
@@ -140,7 +133,6 @@ This presentation will highlight the process of building and testing a new scale
 
 ### Session 12.1b
 
-<a href="https://uvic.zoom.us/j/82225038895?pwd=DrhwC9ge9mD5GnAB5PCrbyam9bmmrz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 **Location: CLE B017**
@@ -158,7 +150,6 @@ The Unified Theory of Acceptance and Use of Technology (UTAUT) has played a cruc
 
 ### Session 12.2a
 
-<a href="https://uvic.zoom.us/j/82738853811?pwd=Oo1VNpQDfOJbPNsc9SNHx3aMBpnbE0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 **Location: CLE B019**
 
@@ -175,7 +166,6 @@ As generative AI (GenAI) continues to impact teaching and learning in post-secon
 
 ### Session 12.2b
 
-<a href="https://uvic.zoom.us/j/82738853811?pwd=Oo1VNpQDfOJbPNsc9SNHx3aMBpnbE0.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 **Location: CLE B019**
@@ -197,7 +187,6 @@ This study explores how a sense of belonging impacts the regulation of emotion i
 
 **Location: CLE A127**
 
-<a href="https://uvic.zoom.us/j/81550118613?pwd=fHuZPB2gi1eDCVUa60i9KaUaZQEbmE.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 #### Facilitated Synthesis of Insights from Across the Conference, Culminating in Forward-Looking Actions to Tackle our Biggest Challenges and Grand Challenges
